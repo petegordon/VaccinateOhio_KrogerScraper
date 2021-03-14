@@ -1,22 +1,6 @@
-//const puppeteer = require('puppeteer');
+
 const fs = require('fs')
 const readline = require('readline');
-
-function sendSMS(message){
-    let accountSid = "<TWILIO SID>" //process.env.TWILIO_ACCOUNT_SID;
-    let authToken = "<TWILIO AUTH_TOKEN>"  //process.env.TWILIO_AUTH_TOKEN;
-    let client = require('twilio')(accountSid, authToken);
-    
-    client.messages
-      .create({
-         body: message,     
-         from: '+<FROM PHONE>',
-         to: '+<TO PHONE>'
-       })
-      .then(message => console.log(message.sid));
-}
-
-
 
 
 const puppeteer = require('puppeteer-extra')
@@ -25,8 +9,9 @@ puppeteer.use(StealthPlugin())
 startTime = new Date()
 zipStartTime = new Date()
 storesDir = "ZipLocationsVaccines/"
+zipParam = []
 
-console.log("START:"+startTime)
+console.log("APPLICATION START:"+startTime)
 
 function delay(time) {
     return new Promise(function(resolve) { 
@@ -34,39 +19,6 @@ function delay(time) {
     });
  }
 
-let manualProcessing = false
-
-if(process.argv[2]){
-    zipParam = process.argv[2];
-    if(zipParam.startsWith('[')){
-        zipParam = JSON.parse(zipParam)
-    }else{
-        if(zipParam=="manual"){
-            manualProcessing = true
-        }
-        throw new Error("Must pass in zipcodes as JSON Array as string")
-    }
-} else {
-    console.log(process.cwd())
-    //zipParam = JSON.parse(fs.readFileSync('ohio_zips.json'))
-    //zipParam = JSON.parse(fs.readFileSync('kroger_zipcodes.json'))
-    zipParam = JSON.parse(fs.readFileSync('kroger_zipcodes.json'))
-    //zipParam = zipParam.slice(0,10)
-    let storesProcessed = fs.readdirSync(storesDir)
-    storesProcessed = storesProcessed.filter((s) => s.endsWith('.json'))
-    zipProcessed = storesProcessed.map((f) => { 
-        console.log(f)
-        zipcode = f.split('_')[2].split('.')[0]
-        time = parseInt(f.split('_')[1])
-        if (time > (new Date().getTime() - (1000 * 60 * 60 * 8))){
-            return zipcode
-        }
-    })
-
-    zipParam = zipParam.filter((z) => !zipProcessed.includes(z))
-
-    console.log("create vaccine location length:"+zipParam.length)
-}
 
 const EventEmitter = require('events');
 class ScrapeEmitter extends EventEmitter {}
@@ -80,12 +32,7 @@ myEmitter.on('processZipCodes', async () => {
     let storesProcessed = fs.readdirSync(storesDir)
     storesProcessed = storesProcessed.filter((s) => s.endsWith('.json'))
     console.log(storesProcessed)
-/*    
-    zipProcessed = storesProcessed.filter((f) => {         
-        time = parseInt(f.split('_')[1])
-        return (time > (new Date().getTime() - (1000 * 60 * 60 * 8)))
-    })
-*/    
+
     zipProcessed = storesProcessed.map((z) => {
         zipcode = z.split('_')[2].split('.')[0]
         return zipcode        
@@ -95,8 +42,6 @@ myEmitter.on('processZipCodes', async () => {
         time = parseInt(f.split('_')[1])
         return (time <= (new Date().getTime() - (1000 * 60 * 60 * 8)))
     })   
-
-
     
     zipcodesToReprocess = zipcodesToReprocess.map((f) => {
         zipcode = f.split('_')[2].split('.')[0]
@@ -115,45 +60,28 @@ myEmitter.on('processZipCodes', async () => {
 
     zipParam = zipcodesToProcess
 
-    if(!browser)
-        browser = await puppeteer.launch({headless:false, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
+//    if(!browser)
+//        browser = await puppeteer.launch({headless:false, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
     
     let page = await browser.newPage();
     await page.goto('https://www.kroger.com/rx/guest/get-vaccinated');
 
-
-
     if(zipParam.length > 0){
         zipToProcess = zipParam[0]
-        facilityToProcess = null
-        //zipParam = zipParam.slice(1)
-        if(manualProcessing){
-            const rl = readline.createInterface({
-                input: process.stdin,
-                output: process.stdout
-            });        
-            rl.question(`Continue with facility: ${facilityToProcess} and ${zipToProcess}? `, (fac) => { 
-                myEmitter.emit("searchStores", fac, page)
-            })
-            rl.write(zipToProcess);
-        } else {
-             myEmitter.emit("searchStores", zipToProcess, page)          
-        }
-
-        
+        myEmitter.emit("searchStores", zipToProcess, page)                  
     } else {
         console.log("START:"+startTime)
-        console.log("END:"+new Date())        
+        console.log("END:"+new Date())  
+        console.log("Nothing to process, will try again in 10 minutes...")  
+        await delay(1000 * 60 * 10) //wait 10 minutes and try again
+        myEmitter.emit('processZipCodes');          
     }
 })
 myEmitter.on('searchStores', async (zip, page) => {
     zipStartTime = new Date()
-  // let facilityObj = zipParam.filter((s) => {return s.facilityId == fac })
-   zipParam = zipParam.slice(1)
+    zipParam = zipParam.slice(1)
 
-   console.log(zip)
-//    let zip = facilityObj[0].address.zipCode
-
+    console.log(zip)
 
     await page.on('response', async (response) => { 
 
@@ -161,10 +89,6 @@ myEmitter.on('searchStores', async (zip, page) => {
             console.log(response.url())
             console.log(response.status())      
             json = await response.json()
-            //await delay(2000)            
-           // myEmitter.emit('foundStores', fac.facilityId, json, page);       
-            processedCount++    
-            processing = false
 
             console.log('an searchStores event occurred!'+zip);
             let dt = new Date()            
@@ -187,23 +111,12 @@ myEmitter.on('searchStores', async (zip, page) => {
         if (!response.url().endsWith(zip) && response.url().indexOf(zip) > 0  && response.status() != 200){
             console.log(response.url())
             console.log(response.status())             
-            console.log("START:"+startTime)
-            console.log("END:"+new Date())      
-            //process.exit()
-            /*
-            const rl2 = readline.createInterface({
-                input: process.stdin,
-                output: process.stdout
-            });        
-            rl2.question(`Continue by starting over? `, () => { 
-                myEmitter.emit('processZipCodes', page);
-            })  
-            */  
-           await delay(300000)
-
-           await delay(2000)        
-           await page.close()
-           myEmitter.emit('processZipCodes');     
+            console.log("NOT 200 ERROR START:"+startTime)
+            console.log("NOT 200 ERROR END:"+new Date())      
+            console.log("will try again in 5 minutes....")
+            await delay(300000)
+            await page.close()
+            myEmitter.emit('processZipCodes');     
         }
 
     });  
@@ -237,23 +150,9 @@ myEmitter.on('searchStores', async (zip, page) => {
         })
         console.log(securityCheck)   
         if(securityCheck){
-
-//            sendSMS("Need to do CAPTCHA security check")
- 
-/*
-            const rl2 = readline.createInterface({
-                input: process.stdin,
-                output: process.stdout
-            });        
-            rl2.question(`Continue after doing CAPTCHA?`, () => { 
-                myEmitter.emit('processZipCodes', page);
-            })  
-  
-*/
-
+            console.log("prompted with captcha security; will try again in 15 minutes.")
             await delay(900000)
             await page.goto('https://www.kroger.com/')
-
             await delay(2000)
             await page.close()
             myEmitter.emit('processZipCodes');
@@ -261,8 +160,6 @@ myEmitter.on('searchStores', async (zip, page) => {
     }catch(ex){
         console.log(ex)        
         console.log('caught exception')
-
-        //await page.goto('https://www.kroger.com/rx/guest/get-vaccinated');
         await delay(2000)        
         await page.close()
         myEmitter.emit('processZipCodes');
@@ -302,7 +199,5 @@ let browser;
     processedCount = 0
 
     myEmitter.emit('processZipCodes');
-    
-    
 
 })();
