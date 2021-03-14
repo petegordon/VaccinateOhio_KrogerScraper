@@ -238,7 +238,7 @@ function reformatZipCodeDataIntoLocationAvailability(dir, awsUpload = true){
         let zip_unixtime = parseInt(zipFiles[h].split('_')[1])
 
         
-        let stores = JSON.parse(fs.readFileSync(zipDir+zip))
+        let stores = JSON.parse(fs.readFileSync(dir+zip))
         let start_date = null
         let end_date = null
 

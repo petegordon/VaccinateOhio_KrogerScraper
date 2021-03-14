@@ -1,23 +1,578 @@
 [
   {
-    "loc_id": 937,
-    "loc_no": "01400722",
+    "loc_id": 1000,
+    "loc_no": "01600504",
     "facilityDetails": {
-      "facilityId": "01400722",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Austin Pike Landing",
+      "facilityId": "01600504",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Swanton",
       "address": {
-        "address1": "10101 Landing Way",
+        "address1": "113 E Airport Hwy",
         "address2": "",
-        "city": "Miamisburg",
+        "city": "Swanton",
         "state": "OH",
-        "zipCode": "45342"
+        "zipCode": "43558"
       },
-      "distance": 8.2216431526318,
+      "distance": 12.086569967996079,
       "phone": {
         "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "3844220",
+        "areaCode": "419",
+        "phoneNumber": "8251475",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "10:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "10:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "10:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "10:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "10:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-14",
+        "slots": []
+      },
+      {
+        "date": "2021-03-15",
+        "slots": []
+      },
+      {
+        "date": "2021-03-16",
+        "slots": []
+      },
+      {
+        "date": "2021-03-17",
+        "slots": []
+      },
+      {
+        "date": "2021-03-18",
+        "slots": []
+      },
+      {
+        "date": "2021-03-19",
+        "slots": []
+      },
+      {
+        "date": "2021-03-20",
+        "slots": []
+      },
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1003,
+    "loc_no": "01600511",
+    "facilityDetails": {
+      "facilityId": "01600511",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Miracle Mile",
+      "address": {
+        "address1": "4925 Jackman Rd",
+        "address2": "",
+        "city": "Toledo",
+        "state": "OH",
+        "zipCode": "43613"
+      },
+      "distance": 5.74196677933643,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "419",
+        "phoneNumber": "4759103",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-14",
+        "slots": []
+      },
+      {
+        "date": "2021-03-15",
+        "slots": []
+      },
+      {
+        "date": "2021-03-16",
+        "slots": []
+      },
+      {
+        "date": "2021-03-17",
+        "slots": []
+      },
+      {
+        "date": "2021-03-18",
+        "slots": []
+      },
+      {
+        "date": "2021-03-19",
+        "slots": []
+      },
+      {
+        "date": "2021-03-20",
+        "slots": []
+      },
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1009,
+    "loc_no": "01600525",
+    "facilityDetails": {
+      "facilityId": "01600525",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Kroger Maumee",
+      "address": {
+        "address1": "1435 Reynolds Rd",
+        "address2": "",
+        "city": "Maumee",
+        "state": "OH",
+        "zipCode": "43537"
+      },
+      "distance": 4.4892302696299495,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "567",
+        "phoneNumber": "3022689",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "10:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "10:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "10:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "10:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "10:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-14",
+        "slots": []
+      },
+      {
+        "date": "2021-03-15",
+        "slots": []
+      },
+      {
+        "date": "2021-03-16",
+        "slots": []
+      },
+      {
+        "date": "2021-03-17",
+        "slots": []
+      },
+      {
+        "date": "2021-03-18",
+        "slots": []
+      },
+      {
+        "date": "2021-03-19",
+        "slots": []
+      },
+      {
+        "date": "2021-03-20",
+        "slots": []
+      },
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1011,
+    "loc_no": "01600531",
+    "facilityDetails": {
+      "facilityId": "01600531",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Waterville",
+      "address": {
+        "address1": "8730 Waterville Swanton Rd",
+        "address2": "",
+        "city": "Waterville",
+        "state": "OH",
+        "zipCode": "43566"
+      },
+      "distance": 10.548508283696396,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "419",
+        "phoneNumber": "8781040",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-14",
+        "slots": []
+      },
+      {
+        "date": "2021-03-15",
+        "slots": []
+      },
+      {
+        "date": "2021-03-16",
+        "slots": []
+      },
+      {
+        "date": "2021-03-17",
+        "slots": []
+      },
+      {
+        "date": "2021-03-18",
+        "slots": []
+      },
+      {
+        "date": "2021-03-19",
+        "slots": []
+      },
+      {
+        "date": "2021-03-20",
+        "slots": []
+      },
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1018,
+    "loc_no": "01600548",
+    "facilityDetails": {
+      "facilityId": "01600548",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Perrysburg Marketplace",
+      "address": {
+        "address1": "27322 Carronade Drive",
+        "address2": "",
+        "city": "Perrysburg",
+        "state": "OH",
+        "zipCode": "43551"
+      },
+      "distance": 8.097048662761958,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "567",
+        "phoneNumber": "3364659",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-14",
+        "slots": []
+      },
+      {
+        "date": "2021-03-15",
+        "slots": []
+      },
+      {
+        "date": "2021-03-16",
+        "slots": []
+      },
+      {
+        "date": "2021-03-17",
+        "slots": []
+      },
+      {
+        "date": "2021-03-18",
+        "slots": []
+      },
+      {
+        "date": "2021-03-19",
+        "slots": []
+      },
+      {
+        "date": "2021-03-20",
+        "slots": []
+      },
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1033,
+    "loc_no": "01600617",
+    "facilityDetails": {
+      "facilityId": "01600617",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Suder Avenue",
+      "address": {
+        "address1": "4633 Suder Ave",
+        "address2": "",
+        "city": "Toledo",
+        "state": "OH",
+        "zipCode": "43611"
+      },
+      "distance": 9.546023992333714,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "419",
+        "phoneNumber": "7272650",
         "extension": ""
       },
       "onlinePaymentsEnabled": true,
@@ -41,7 +596,7 @@
         "fridayClose": "21:00",
         "fridayOpen": "09:00",
         "fridayHours": "",
-        "saturdayClose": "18:00",
+        "saturdayClose": "19:00",
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
@@ -111,24 +666,24 @@
     ]
   },
   {
-    "loc_id": 940,
-    "loc_no": "01400751",
+    "loc_id": 1046,
+    "loc_no": "01600810",
     "facilityDetails": {
-      "facilityId": "01400751",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Pinewood",
+      "facilityId": "01600810",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Alexis Road",
       "address": {
-        "address1": "1024 S Smithville Rd",
+        "address1": "833 W Alexis Rd",
         "address2": "",
-        "city": "Dayton",
+        "city": "Toledo",
         "state": "OH",
-        "zipCode": "45403"
+        "zipCode": "43612"
       },
-      "distance": 5.725191441776669,
+      "distance": 7.319723388974602,
       "phone": {
         "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "2522839",
+        "areaCode": "419",
+        "phoneNumber": "2696909",
         "extension": ""
       },
       "onlinePaymentsEnabled": true,
@@ -152,7 +707,7 @@
         "fridayClose": "21:00",
         "fridayOpen": "09:00",
         "fridayHours": "",
-        "saturdayClose": "18:00",
+        "saturdayClose": "19:00",
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
@@ -165,17 +720,7 @@
       },
       {
         "date": "2021-03-15",
-        "slots": [
-          {
-            "start_time": "08:30:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-03-16",
@@ -232,24 +777,135 @@
     ]
   },
   {
-    "loc_id": 941,
-    "loc_no": "01400754",
+    "loc_id": 1068,
+    "loc_no": "01600864",
     "facilityDetails": {
-      "facilityId": "01400754",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Huber Heights",
+      "facilityId": "01600864",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Bedford Marketplace",
       "address": {
-        "address1": "4506 Brandt Pike",
+        "address1": "3462 Sterns Rd",
         "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zipCode": "45424"
+        "city": "Lambertville",
+        "state": "MI",
+        "zipCode": "48144"
       },
-      "distance": 9.958116919486063,
+      "distance": 7.343196382143372,
       "phone": {
         "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "2338930",
+        "areaCode": "734",
+        "phoneNumber": "8542690",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-14",
+        "slots": []
+      },
+      {
+        "date": "2021-03-15",
+        "slots": []
+      },
+      {
+        "date": "2021-03-16",
+        "slots": []
+      },
+      {
+        "date": "2021-03-17",
+        "slots": []
+      },
+      {
+        "date": "2021-03-18",
+        "slots": []
+      },
+      {
+        "date": "2021-03-19",
+        "slots": []
+      },
+      {
+        "date": "2021-03-20",
+        "slots": []
+      },
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1070,
+    "loc_no": "01600870",
+    "facilityDetails": {
+      "facilityId": "01600870",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Holland-Sylvania",
+      "address": {
+        "address1": "2257 N Holland Sylvania Rd",
+        "address2": "",
+        "city": "Toledo",
+        "state": "OH",
+        "zipCode": "43615"
+      },
+      "distance": 1.1985497329943833,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "419",
+        "phoneNumber": "5786465",
         "extension": ""
       },
       "onlinePaymentsEnabled": true,
@@ -273,7 +929,7 @@
         "fridayClose": "21:00",
         "fridayOpen": "09:00",
         "fridayHours": "",
-        "saturdayClose": "18:00",
+        "saturdayClose": "19:00",
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
@@ -343,357 +999,24 @@
     ]
   },
   {
-    "loc_id": 943,
-    "loc_no": "01400759",
+    "loc_id": 1078,
+    "loc_no": "01600895",
     "facilityDetails": {
-      "facilityId": "01400759",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Miamisburg",
+      "facilityId": "01600895",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Sylvania",
       "address": {
-        "address1": "155 N Heincke Rd",
+        "address1": "7545 Sylvania Ave",
         "address2": "",
-        "city": "Miamisburg",
+        "city": "Sylvania",
         "state": "OH",
-        "zipCode": "45342"
+        "zipCode": "43560"
       },
-      "distance": 8.764370474089045,
+      "distance": 3.8391896055367343,
       "phone": {
         "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "8472834",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER"
-    },
-    "dates": [
-      {
-        "date": "2021-03-14",
-        "slots": []
-      },
-      {
-        "date": "2021-03-15",
-        "slots": []
-      },
-      {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
-        "date": "2021-03-17",
-        "slots": []
-      },
-      {
-        "date": "2021-03-18",
-        "slots": []
-      },
-      {
-        "date": "2021-03-19",
-        "slots": []
-      },
-      {
-        "date": "2021-03-20",
-        "slots": []
-      },
-      {
-        "date": "2021-03-21",
-        "slots": []
-      },
-      {
-        "date": "2021-03-22",
-        "slots": []
-      },
-      {
-        "date": "2021-03-23",
-        "slots": []
-      },
-      {
-        "date": "2021-03-24",
-        "slots": []
-      },
-      {
-        "date": "2021-03-25",
-        "slots": []
-      },
-      {
-        "date": "2021-03-26",
-        "slots": []
-      },
-      {
-        "date": "2021-03-27",
-        "slots": []
-      },
-      {
-        "date": "2021-03-28",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 944,
-    "loc_no": "01400811",
-    "facilityDetails": {
-      "facilityId": "01400811",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Beavercreek",
-      "address": {
-        "address1": "3165 Dayton Xenia Rd",
-        "address2": "",
-        "city": "Beavercreek",
-        "state": "OH",
-        "zipCode": "45434"
-      },
-      "distance": 4.535977204998974,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "4318230",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER"
-    },
-    "dates": [
-      {
-        "date": "2021-03-14",
-        "slots": []
-      },
-      {
-        "date": "2021-03-15",
-        "slots": []
-      },
-      {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
-        "date": "2021-03-17",
-        "slots": []
-      },
-      {
-        "date": "2021-03-18",
-        "slots": []
-      },
-      {
-        "date": "2021-03-19",
-        "slots": []
-      },
-      {
-        "date": "2021-03-20",
-        "slots": []
-      },
-      {
-        "date": "2021-03-21",
-        "slots": []
-      },
-      {
-        "date": "2021-03-22",
-        "slots": []
-      },
-      {
-        "date": "2021-03-23",
-        "slots": []
-      },
-      {
-        "date": "2021-03-24",
-        "slots": []
-      },
-      {
-        "date": "2021-03-25",
-        "slots": []
-      },
-      {
-        "date": "2021-03-26",
-        "slots": []
-      },
-      {
-        "date": "2021-03-27",
-        "slots": []
-      },
-      {
-        "date": "2021-03-28",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 946,
-    "loc_no": "01400825",
-    "facilityDetails": {
-      "facilityId": "01400825",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Kettering",
-      "address": {
-        "address1": "2115 E Dorothy Ln",
-        "address2": "",
-        "city": "Kettering",
-        "state": "OH",
-        "zipCode": "45420"
-      },
-      "distance": 2.324400087741162,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "2998437",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER"
-    },
-    "dates": [
-      {
-        "date": "2021-03-14",
-        "slots": []
-      },
-      {
-        "date": "2021-03-15",
-        "slots": []
-      },
-      {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
-        "date": "2021-03-17",
-        "slots": []
-      },
-      {
-        "date": "2021-03-18",
-        "slots": []
-      },
-      {
-        "date": "2021-03-19",
-        "slots": []
-      },
-      {
-        "date": "2021-03-20",
-        "slots": []
-      },
-      {
-        "date": "2021-03-21",
-        "slots": []
-      },
-      {
-        "date": "2021-03-22",
-        "slots": []
-      },
-      {
-        "date": "2021-03-23",
-        "slots": []
-      },
-      {
-        "date": "2021-03-24",
-        "slots": []
-      },
-      {
-        "date": "2021-03-25",
-        "slots": []
-      },
-      {
-        "date": "2021-03-26",
-        "slots": []
-      },
-      {
-        "date": "2021-03-27",
-        "slots": []
-      },
-      {
-        "date": "2021-03-28",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 948,
-    "loc_no": "01400829",
-    "facilityDetails": {
-      "facilityId": "01400829",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "West Park Square",
-      "address": {
-        "address1": "1700 W Park Sq",
-        "address2": "",
-        "city": "Xenia",
-        "state": "OH",
-        "zipCode": "45385"
-      },
-      "distance": 7.973951123619821,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "3765534",
+        "areaCode": "419",
+        "phoneNumber": "8416468",
         "extension": ""
       },
       "onlinePaymentsEnabled": true,
@@ -717,7 +1040,7 @@
         "fridayClose": "21:00",
         "fridayOpen": "09:00",
         "fridayHours": "",
-        "saturdayClose": "18:00",
+        "saturdayClose": "19:00",
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
@@ -787,24 +1110,24 @@
     ]
   },
   {
-    "loc_id": 953,
-    "loc_no": "01400838",
+    "loc_id": 1082,
+    "loc_no": "01600907",
     "facilityDetails": {
-      "facilityId": "01400838",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Kroger Marketplace",
+      "facilityId": "01600907",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Orchard Centre",
       "address": {
-        "address1": "1161 E Dayton Yellow Springs Rd",
+        "address1": "7059 Orchard Centre Dr.",
         "address2": "",
-        "city": "Fairborn",
+        "city": "Holland",
         "state": "OH",
-        "zipCode": "45324"
+        "zipCode": "43528"
       },
-      "distance": 9.768139579339634,
+      "distance": 3.5082203857782126,
       "phone": {
         "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "3183920",
+        "areaCode": "567",
+        "phoneNumber": "2974110",
         "extension": ""
       },
       "onlinePaymentsEnabled": true,
@@ -828,7 +1151,7 @@
         "fridayClose": "21:00",
         "fridayOpen": "09:00",
         "fridayHours": "",
-        "saturdayClose": "18:00",
+        "saturdayClose": "19:00",
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
@@ -898,24 +1221,24 @@
     ]
   },
   {
-    "loc_id": 963,
-    "loc_no": "01400922",
+    "loc_id": 1086,
+    "loc_no": "01600938",
     "facilityDetails": {
-      "facilityId": "01400922",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Springboro",
+      "facilityId": "01600938",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Navarre Ave.",
       "address": {
-        "address1": "725 W Central Ave",
+        "address1": "3301 Navarre Ave",
         "address2": "",
-        "city": "Springboro",
+        "city": "Oregon",
         "state": "OH",
-        "zipCode": "45066"
+        "zipCode": "43616"
       },
-      "distance": 11.23070661509724,
+      "distance": 10.331026132890518,
       "phone": {
         "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "5147130",
+        "areaCode": "419",
+        "phoneNumber": "6917034",
         "extension": ""
       },
       "onlinePaymentsEnabled": true,
@@ -939,7 +1262,7 @@
         "fridayClose": "21:00",
         "fridayOpen": "09:00",
         "fridayHours": "",
-        "saturdayClose": "18:00",
+        "saturdayClose": "19:00",
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
@@ -1009,135 +1332,24 @@
     ]
   },
   {
-    "loc_id": 964,
-    "loc_no": "01400923",
+    "loc_id": 1087,
+    "loc_no": "01600940",
     "facilityDetails": {
-      "facilityId": "01400923",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Centerville Marketplace",
+      "facilityId": "01600940",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Sylvania",
       "address": {
-        "address1": "1095 S Main St",
+        "address1": "6235 Monroe St",
         "address2": "",
-        "city": "Centerville",
+        "city": "Sylvania",
         "state": "OH",
-        "zipCode": "45458"
+        "zipCode": "43560"
       },
-      "distance": 5.511095504130967,
+      "distance": 4.686202059965322,
       "phone": {
         "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "4396420",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER"
-    },
-    "dates": [
-      {
-        "date": "2021-03-14",
-        "slots": []
-      },
-      {
-        "date": "2021-03-15",
-        "slots": []
-      },
-      {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
-        "date": "2021-03-17",
-        "slots": []
-      },
-      {
-        "date": "2021-03-18",
-        "slots": []
-      },
-      {
-        "date": "2021-03-19",
-        "slots": []
-      },
-      {
-        "date": "2021-03-20",
-        "slots": []
-      },
-      {
-        "date": "2021-03-21",
-        "slots": []
-      },
-      {
-        "date": "2021-03-22",
-        "slots": []
-      },
-      {
-        "date": "2021-03-23",
-        "slots": []
-      },
-      {
-        "date": "2021-03-24",
-        "slots": []
-      },
-      {
-        "date": "2021-03-25",
-        "slots": []
-      },
-      {
-        "date": "2021-03-26",
-        "slots": []
-      },
-      {
-        "date": "2021-03-27",
-        "slots": []
-      },
-      {
-        "date": "2021-03-28",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 968,
-    "loc_no": "01400935",
-    "facilityDetails": {
-      "facilityId": "01400935",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Sugarcreek Twp.",
-      "address": {
-        "address1": "6480 Wilmington Pike",
-        "address2": "",
-        "city": "Centerville",
-        "state": "OH",
-        "zipCode": "45459"
-      },
-      "distance": 2.3429295872409894,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "8485985",
+        "areaCode": "419",
+        "phoneNumber": "8854738",
         "extension": ""
       },
       "onlinePaymentsEnabled": true,
@@ -1161,7 +1373,7 @@
         "fridayClose": "21:00",
         "fridayOpen": "09:00",
         "fridayHours": "",
-        "saturdayClose": "18:00",
+        "saturdayClose": "19:00",
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
@@ -1231,24 +1443,24 @@
     ]
   },
   {
-    "loc_id": 977,
-    "loc_no": "01400951",
+    "loc_id": 1089,
+    "loc_no": "01600957",
     "facilityDetails": {
-      "facilityId": "01400951",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "951 Alex Bell",
+      "facilityId": "01600957",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Monroe Secor",
       "address": {
-        "address1": "2921 W Alex Bell Rd",
+        "address1": "4533 Monroe St",
         "address2": "",
-        "city": "Dayton",
+        "city": "Toledo",
         "state": "OH",
-        "zipCode": "45459"
+        "zipCode": "43613"
       },
-      "distance": 6.0033327675201775,
+      "distance": 3.6151446314615625,
       "phone": {
         "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "2947210",
+        "areaCode": "419",
+        "phoneNumber": "4719240",
         "extension": ""
       },
       "onlinePaymentsEnabled": true,
@@ -1272,7 +1484,7 @@
         "fridayClose": "21:00",
         "fridayOpen": "09:00",
         "fridayHours": "",
-        "saturdayClose": "18:00",
+        "saturdayClose": "19:00",
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
@@ -1342,31 +1554,31 @@
     ]
   },
   {
-    "loc_id": 979,
-    "loc_no": "01400960",
+    "loc_id": 1095,
+    "loc_no": "01600982",
     "facilityDetails": {
-      "facilityId": "01400960",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Centerville",
+      "facilityId": "01600982",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Glendale Avenue",
       "address": {
-        "address1": "5400 Cornerstone N Blvd",
+        "address1": "2555 Glendale Ave",
         "address2": "",
-        "city": "Centerville",
+        "city": "Toledo",
         "state": "OH",
-        "zipCode": "45440"
+        "zipCode": "43614"
       },
-      "distance": 0.8164038778929031,
+      "distance": 4.173069819656374,
       "phone": {
         "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "5287060",
+        "areaCode": "419",
+        "phoneNumber": "3854675",
         "extension": ""
       },
       "onlinePaymentsEnabled": true,
       "onlineOrderingEnabled": false,
       "pharmacyHours": {
         "sundayClose": "18:00",
-        "sundayOpen": "10:00",
+        "sundayOpen": "11:00",
         "sundayHours": "",
         "mondayClose": "21:00",
         "mondayOpen": "09:00",
@@ -1383,116 +1595,11 @@
         "fridayClose": "21:00",
         "fridayOpen": "09:00",
         "fridayHours": "",
-        "saturdayClose": "18:00",
+        "saturdayClose": "19:00",
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
       "brand": "KROGER"
-    },
-    "dates": [
-      {
-        "date": "2021-03-14",
-        "slots": []
-      },
-      {
-        "date": "2021-03-15",
-        "slots": []
-      },
-      {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
-        "date": "2021-03-17",
-        "slots": []
-      },
-      {
-        "date": "2021-03-18",
-        "slots": []
-      },
-      {
-        "date": "2021-03-19",
-        "slots": []
-      },
-      {
-        "date": "2021-03-20",
-        "slots": []
-      },
-      {
-        "date": "2021-03-21",
-        "slots": []
-      },
-      {
-        "date": "2021-03-22",
-        "slots": []
-      },
-      {
-        "date": "2021-03-23",
-        "slots": []
-      },
-      {
-        "date": "2021-03-24",
-        "slots": []
-      },
-      {
-        "date": "2021-03-25",
-        "slots": []
-      },
-      {
-        "date": "2021-03-26",
-        "slots": []
-      },
-      {
-        "date": "2021-03-27",
-        "slots": []
-      },
-      {
-        "date": "2021-03-28",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 3264,
-    "loc_no": "85000927",
-    "facilityDetails": {
-      "facilityId": "85000927",
-      "legalName": "The Little Clinic, LLC",
-      "vanityName": "Thurgood Marshall High School Clinic",
-      "address": {
-        "address1": "4447 Hoover Ave",
-        "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zipCode": "45417"
-      },
-      "distance": 10.238355457427062,
-      "onlinePaymentsEnabled": false,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "",
-        "sundayOpen": "",
-        "sundayHours": "",
-        "mondayClose": "",
-        "mondayOpen": "",
-        "mondayHours": "",
-        "tuesdayClose": "",
-        "tuesdayOpen": "",
-        "tuesdayHours": "",
-        "wednesdayClose": "",
-        "wednesdayOpen": "",
-        "wednesdayHours": "",
-        "thursdayClose": "",
-        "thursdayOpen": "",
-        "thursdayHours": "",
-        "fridayClose": "",
-        "fridayOpen": "",
-        "fridayHours": "",
-        "saturdayClose": "",
-        "saturdayOpen": "",
-        "saturdayHours": ""
-      },
-      "brand": "COVID"
     },
     "dates": [
       {
