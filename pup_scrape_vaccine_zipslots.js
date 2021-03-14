@@ -2,6 +2,9 @@
 const fs = require('fs')
 const readline = require('readline');
 
+const simpleGit = require('simple-git');
+const git = simpleGit();
+
 
 const puppeteer = require('puppeteer-extra')
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
@@ -169,6 +172,12 @@ myEmitter.on('searchStores', async (zip, page) => {
 });
 myEmitter.on('foundStores', async (zip, stores, page) => {
 
+    console.log("Current Working Directory...")
+    console.log(process.cwd())
+    console.log("Git pull...")
+    await git.pull()
+    console.log("Git pull...FINISHED")
+
     /* Delete older file(s) for this zip code */
     let files = fs.readdirSync(storesDir)
     files = files.filter((f) => f.indexOf('_'+zip+'.json') > 0)
@@ -182,6 +191,12 @@ myEmitter.on('foundStores', async (zip, stores, page) => {
     console.log("ZIP PROCESS START:"+zip+":"+zipStartTime)
     console.log("ZIP PROCESS END:"+zip+":"+new Date())  
 
+    /* Make change to git and push */
+    console.log('Git add, commit, push...')
+    await git.add('.')
+    await git.commit('Processed ZipCode:'+zip)
+    await git.push()
+    console.log('Git add, commit, push...FINISHED')
 
     await delay(120000)        
     await page.close()
