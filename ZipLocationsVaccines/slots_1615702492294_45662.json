@@ -1,0 +1,1181 @@
+[
+  {
+    "loc_id": 895,
+    "loc_no": "01400380",
+    "facilityDetails": {
+      "facilityId": "01400380",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Hillsboro",
+      "address": {
+        "address1": "575 Harry Sauner Rd",
+        "address2": "",
+        "city": "Hillsboro",
+        "state": "OH",
+        "zipCode": "45133"
+      },
+      "distance": 48.11974196334977,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "937",
+        "phoneNumber": "8409374",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 912,
+    "loc_no": "01400420",
+    "facilityDetails": {
+      "facilityId": "01400420",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Maysville",
+      "address": {
+        "address1": "381 Market Square Dr",
+        "address2": "",
+        "city": "Maysville",
+        "state": "KY",
+        "zipCode": "41056"
+      },
+      "distance": 46.547543886808924,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "606",
+        "phoneNumber": "7597973",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 990,
+    "loc_no": "01600312",
+    "facilityDetails": {
+      "facilityId": "01600312",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Chillicothe",
+      "address": {
+        "address1": "1165 Western Ave",
+        "address2": "",
+        "city": "Chillicothe",
+        "state": "OH",
+        "zipCode": "45601"
+      },
+      "distance": 39.52382723811832,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "740",
+        "phoneNumber": "7724062",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 996,
+    "loc_no": "01600348",
+    "facilityDetails": {
+      "facilityId": "01600348",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Bridge Street",
+      "address": {
+        "address1": "887 N Bridge St",
+        "address2": "",
+        "city": "Chillicothe",
+        "state": "OH",
+        "zipCode": "45601"
+      },
+      "distance": 40.76264900436582,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "740",
+        "phoneNumber": "7758467",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 998,
+    "loc_no": "01600363",
+    "facilityDetails": {
+      "facilityId": "01600363",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Waverly",
+      "address": {
+        "address1": "220 Waverly Plaza",
+        "address2": "",
+        "city": "Waverly",
+        "state": "OH",
+        "zipCode": "45690"
+      },
+      "distance": 25.49407890300423,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "740",
+        "phoneNumber": "9470128",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "10:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "10:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "10:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "10:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "10:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1025,
+    "loc_no": "01600575",
+    "facilityDetails": {
+      "facilityId": "01600575",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Portsmouth",
+      "address": {
+        "address1": "811 Gay St",
+        "address2": "",
+        "city": "Portsmouth",
+        "state": "OH",
+        "zipCode": "45662"
+      },
+      "distance": 3.3146093015003504,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "740",
+        "phoneNumber": "3542262",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1028,
+    "loc_no": "01600590",
+    "facilityDetails": {
+      "facilityId": "01600590",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Jackson",
+      "address": {
+        "address1": "530 E Main St",
+        "address2": "",
+        "city": "Jackson",
+        "state": "OH",
+        "zipCode": "45640"
+      },
+      "distance": 25.92996536134105,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "740",
+        "phoneNumber": "2866400",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "10:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "10:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "10:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "10:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "10:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1037,
+    "loc_no": "01600664",
+    "facilityDetails": {
+      "facilityId": "01600664",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Wheelersburg",
+      "address": {
+        "address1": "9101 Ohio River Rd",
+        "address2": "",
+        "city": "Wheelersburg",
+        "state": "OH",
+        "zipCode": "45694"
+      },
+      "distance": 5.951736483119976,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "740",
+        "phoneNumber": "5746569",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1381,
+    "loc_no": "02400734",
+    "facilityDetails": {
+      "facilityId": "02400734",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Trademore Center",
+      "address": {
+        "address1": "300 Trademore Center",
+        "address2": "",
+        "city": "Morehead",
+        "state": "KY",
+        "zipCode": "40351"
+      },
+      "distance": 49.14889035396932,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "606",
+        "phoneNumber": "7831476",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1692,
+    "loc_no": "02900781",
+    "facilityDetails": {
+      "facilityId": "02900781",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Proctorville",
+      "address": {
+        "address1": "6306 County Road 107",
+        "address2": "",
+        "city": "Proctorville",
+        "state": "OH",
+        "zipCode": "45669"
+      },
+      "distance": 37.75920752982556,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "740",
+        "phoneNumber": "8865579",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "10:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "10:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "10:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "10:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "10:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1693,
+    "loc_no": "02900782",
+    "facilityDetails": {
+      "facilityId": "02900782",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "7Th Ave",
+      "address": {
+        "address1": "19 7Th Ave W",
+        "address2": "",
+        "city": "Huntington",
+        "state": "WV",
+        "zipCode": "25701"
+      },
+      "distance": 35.87454398867084,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "304",
+        "phoneNumber": "5226677",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "20:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "20:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "20:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "20:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "20:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 1694,
+    "loc_no": "02900783",
+    "facilityDetails": {
+      "facilityId": "02900783",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Mid Town",
+      "address": {
+        "address1": "711 Martin Luther King Jr Blvd",
+        "address2": "",
+        "city": "Ashland",
+        "state": "KY",
+        "zipCode": "41101"
+      },
+      "distance": 25.490359617120376,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "606",
+        "phoneNumber": "3247119",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1697,
+    "loc_no": "02900788",
+    "facilityDetails": {
+      "facilityId": "02900788",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Barboursville",
+      "address": {
+        "address1": "6360 Us Route 60 E",
+        "address2": "",
+        "city": "Barboursville",
+        "state": "WV",
+        "zipCode": "25504"
+      },
+      "distance": 42.31082245216868,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "304",
+        "phoneNumber": "7333373",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 1699,
+    "loc_no": "02900792",
+    "facilityDetails": {
+      "facilityId": "02900792",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "5Th Avenue",
+      "address": {
+        "address1": "2627 5Th Ave",
+        "address2": "",
+        "city": "Huntington",
+        "state": "WV",
+        "zipCode": "25702"
+      },
+      "distance": 37.40631568013333,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "304",
+        "phoneNumber": "5296510",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "20:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "20:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "20:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "20:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "20:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1700,
+    "loc_no": "02900796",
+    "facilityDetails": {
+      "facilityId": "02900796",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Diederich",
+      "address": {
+        "address1": "370 Diederich Blvd",
+        "address2": "",
+        "city": "Ashland",
+        "state": "KY",
+        "zipCode": "41101"
+      },
+      "distance": 23.129331299605038,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "606",
+        "phoneNumber": "3250611",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "20:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "20:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "20:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "20:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "20:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  }
+]
