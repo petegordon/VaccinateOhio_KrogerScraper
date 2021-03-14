@@ -319,11 +319,17 @@ function reformatZipCodeDataIntoLocationAvailability(dir, awsUpload = true){
 
     }
 
+    /* Delete previous availability files */
+    let files = fs.readdirSync(process.cwd())
+    files = files.filter((f) => { return (f.indexOf('kroger_availability_') > -1 ) })
+    files.forEach((f) => fs.unlinkSync(f))
+
+    /* Create/Write new availability file */
     let current_time = new Date().getTime();
     let filename = 'kroger_availability_'+current_time+'.json'
     fs.writeFileSync(filename, JSON.stringify(storeAvailability))
 
-
+    /* Upload availability file to AWS S3 BUCKET */
     if(awsUpload){
         console.log('do aws upload...')
         // snippet-start:[s3.JavaScript.buckets.upload]
