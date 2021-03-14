@@ -1,4 +1,6 @@
+require('dotenv').config()
 let fs = require('fs')
+
 
 zipDir = "ZipLocationsVaccines/"
 let zipFiles = fs.readdirSync(zipDir)
@@ -94,7 +96,42 @@ for(let h=0; h<zipFiles.length; h++){
     
 
 }
-fs.writeFileSync('kroger_availability_'+new Date().getTime()+'.json', JSON.stringify(storeAvailability))
+
+let current_time = new Date().getTime();
+let filename = 'kroger_availability_'+current_time+'.json'
+fs.writeFileSync(filename, JSON.stringify(storeAvailability))
+
+
+
+// snippet-start:[s3.JavaScript.buckets.upload]
+// Load the AWS SDK for Node.js
+var AWS = require('aws-sdk');
+// Set the region 
+AWS.config.update({region: process.env.AWS_REGION});
+// Create S3 service object
+s3 = new AWS.S3({apiVersion: '2006-03-01'});
+// call S3 to retrieve upload file to specified bucket
+var uploadParams = {Bucket: process.env.AWS_S3_BUCKET, Key: '', Body: ''};
+var file = filename;
+
+// Configure the file stream and obtain the upload parameters
+var fileStream = fs.createReadStream(file);
+fileStream.on('error', function(err) {
+  console.log('File Error', err);
+});
+uploadParams.Body = fileStream;
+var path = require('path');
+uploadParams.Key = path.basename(file);
+
+// call S3 to retrieve upload file to specified bucket
+s3.upload (uploadParams, function (err, data) {
+  if (err) {
+    console.log("Error", err);
+  } if (data) {
+    console.log("Upload Success", data.Location);
+  }
+});
+
 
 
 function getBrandCode(str){
