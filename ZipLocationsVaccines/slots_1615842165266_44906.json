@@ -90,200 +90,7 @@
       },
       {
         "date": "2021-03-25",
-        "slots": []
-      },
-      {
-        "date": "2021-03-26",
-        "slots": []
-      },
-      {
-        "date": "2021-03-27",
-        "slots": []
-      },
-      {
-        "date": "2021-03-28",
-        "slots": []
-      },
-      {
-        "date": "2021-03-29",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 1006,
-    "loc_no": "01600518",
-    "facilityDetails": {
-      "facilityId": "01600518",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Park Avenue",
-      "address": {
-        "address1": "1240 Park Ave W",
-        "address2": "",
-        "city": "Mansfield",
-        "state": "OH",
-        "zipCode": "44906"
-      },
-      "distance": 0.1274483995362994,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "419",
-        "phoneNumber": "5281862",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "10:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "10:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "10:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "10:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "10:00",
-        "fridayHours": "",
-        "saturdayClose": "19:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER"
-    },
-    "dates": [
-      {
-        "date": "2021-03-15",
-        "slots": []
-      },
-      {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
-        "date": "2021-03-17",
-        "slots": []
-      },
-      {
-        "date": "2021-03-18",
-        "slots": []
-      },
-      {
-        "date": "2021-03-19",
-        "slots": []
-      },
-      {
-        "date": "2021-03-20",
-        "slots": []
-      },
-      {
-        "date": "2021-03-21",
-        "slots": []
-      },
-      {
-        "date": "2021-03-22",
-        "slots": []
-      },
-      {
-        "date": "2021-03-23",
-        "slots": []
-      },
-      {
-        "date": "2021-03-24",
         "slots": [
-          {
-            "start_time": "14:45:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:30:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:45:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:00:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:15:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
-        "date": "2021-03-25",
-        "slots": [
-          {
-            "start_time": "11:15:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "11:30:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
           {
             "start_time": "11:45:00",
             "duration": 10,
@@ -295,24 +102,6 @@
           },
           {
             "start_time": "12:00:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:15:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:30:00",
             "duration": 10,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -436,26 +225,119 @@
             "ar_order": 1,
             "follow_up_id": 126,
             "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:00:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:15:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
           }
         ]
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1006,
+    "loc_no": "01600518",
+    "facilityDetails": {
+      "facilityId": "01600518",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Park Avenue",
+      "address": {
+        "address1": "1240 Park Ave W",
+        "address2": "",
+        "city": "Mansfield",
+        "state": "OH",
+        "zipCode": "44906"
+      },
+      "distance": 0.1274483995362994,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "419",
+        "phoneNumber": "5281862",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "10:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "10:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "10:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "10:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "10:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-15",
+        "slots": []
+      },
+      {
+        "date": "2021-03-16",
+        "slots": []
+      },
+      {
+        "date": "2021-03-17",
+        "slots": []
+      },
+      {
+        "date": "2021-03-18",
+        "slots": []
+      },
+      {
+        "date": "2021-03-19",
+        "slots": []
+      },
+      {
+        "date": "2021-03-20",
+        "slots": []
+      },
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
       },
       {
         "date": "2021-03-26",
