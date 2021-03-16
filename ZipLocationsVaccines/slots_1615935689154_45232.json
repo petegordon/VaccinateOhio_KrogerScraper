@@ -1493,20 +1493,26 @@
     ]
   },
   {
-    "loc_id": 3315,
-    "loc_no": "85000904",
+    "loc_id": 3213,
+    "loc_no": "85000958",
     "facilityDetails": {
-      "facilityId": "85000904",
+      "facilityId": "85000958",
       "legalName": "The Little Clinic, LLC",
-      "vanityName": "Cintas Center - Open to Public",
+      "vanityName": "Northern KY Convention Center COVID VACCINE CLINIC - Prioritizing ages 70 plus",
       "address": {
-        "address1": "1624 Herald Ave",
+        "address1": "1 W Rivercenter Blvd",
         "address2": "",
-        "city": "Cincinnati",
-        "state": "OH",
-        "zipCode": "45207"
+        "city": "Covington",
+        "state": "KY",
+        "zipCode": "41011"
       },
-      "distance": 3.2117929676200885,
+      "distance": 6.416183965859955,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "877",
+        "phoneNumber": "8522677",
+        "extension": ""
+      },
       "onlinePaymentsEnabled": false,
       "onlineOrderingEnabled": false,
       "pharmacyHours": {
