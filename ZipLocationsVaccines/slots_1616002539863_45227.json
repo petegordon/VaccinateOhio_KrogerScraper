@@ -1382,31 +1382,31 @@
     ]
   },
   {
-    "loc_id": 965,
-    "loc_no": "01400929",
+    "loc_id": 971,
+    "loc_no": "01400942",
     "facilityDetails": {
-      "facilityId": "01400929",
+      "facilityId": "01400942",
       "legalName": "Kroger Limited Partnership I",
-      "vanityName": "University Plaza",
+      "vanityName": "Blue Ash",
       "address": {
-        "address1": "1 West Corry Street",
+        "address1": "4100 Hunt Rd",
         "address2": "",
-        "city": "Cincinnati",
+        "city": "Blue Ash",
         "state": "OH",
-        "zipCode": "45219"
+        "zipCode": "45236"
       },
-      "distance": 6.694858927399245,
+      "distance": 4.988031570784397,
       "phone": {
         "countryCode": "",
         "areaCode": "513",
-        "phoneNumber": "8721520",
+        "phoneNumber": "7921501",
         "extension": ""
       },
       "onlinePaymentsEnabled": true,
       "onlineOrderingEnabled": false,
       "pharmacyHours": {
         "sundayClose": "18:00",
-        "sundayOpen": "10:00",
+        "sundayOpen": "11:00",
         "sundayHours": "",
         "mondayClose": "21:00",
         "mondayOpen": "09:00",
@@ -1493,52 +1493,46 @@
     ]
   },
   {
-    "loc_id": 971,
-    "loc_no": "01400942",
+    "loc_id": 3315,
+    "loc_no": "85000904",
     "facilityDetails": {
-      "facilityId": "01400942",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Blue Ash",
+      "facilityId": "85000904",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "Cintas Center - Open to Public",
       "address": {
-        "address1": "4100 Hunt Rd",
+        "address1": "1624 Herald Ave",
         "address2": "",
-        "city": "Blue Ash",
+        "city": "Cincinnati",
         "state": "OH",
-        "zipCode": "45236"
+        "zipCode": "45207"
       },
-      "distance": 4.988031570784397,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "513",
-        "phoneNumber": "7921501",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
+      "distance": 4.436312056230083,
+      "onlinePaymentsEnabled": false,
       "onlineOrderingEnabled": false,
       "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "11:00",
+        "sundayClose": "",
+        "sundayOpen": "",
         "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
+        "mondayClose": "",
+        "mondayOpen": "",
         "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
+        "tuesdayClose": "",
+        "tuesdayOpen": "",
         "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
+        "wednesdayClose": "",
+        "wednesdayOpen": "",
         "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
+        "thursdayClose": "",
+        "thursdayOpen": "",
         "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
+        "fridayClose": "",
+        "fridayOpen": "",
         "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
+        "saturdayClose": "",
+        "saturdayOpen": "",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "COVID"
     },
     "dates": [
       {
