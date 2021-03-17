@@ -49,10 +49,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -106,6 +102,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -160,92 +160,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 10,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "11:00:00",
-            "duration": 10,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 10,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 10,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 10,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 10,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 10,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 10,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:30:00",
-            "duration": 10,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          }
-        ]
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -299,6 +213,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -353,10 +271,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -410,6 +324,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -464,10 +382,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -521,6 +435,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -575,10 +493,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -632,6 +546,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -686,10 +604,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -743,6 +657,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -797,10 +715,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -854,6 +768,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -908,10 +826,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -965,6 +879,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -1019,10 +937,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -1076,6 +990,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -1130,10 +1048,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -1187,6 +1101,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -1241,10 +1159,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -1298,6 +1212,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -1352,10 +1270,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -1409,6 +1323,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -1463,10 +1381,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -1520,6 +1434,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -1574,10 +1492,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -1631,6 +1545,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -1685,10 +1603,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -1742,6 +1656,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
