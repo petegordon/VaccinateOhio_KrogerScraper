@@ -231,6 +231,7 @@ let browser;
             await delay(60000)
             myEmitter.emit('processZipCodes');    
         } else {
+            console.log("Hit an exception twice!!! And, sending an SMS....")
             sendSMS("Hit an Excpetion Twice!!!!")
         }
         exceptionAttempts++
