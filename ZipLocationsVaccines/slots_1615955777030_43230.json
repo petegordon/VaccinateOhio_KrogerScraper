@@ -49,10 +49,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -106,6 +102,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -160,10 +160,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -217,6 +213,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -271,10 +271,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -328,6 +324,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -382,10 +382,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -439,6 +435,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -493,10 +493,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -551,6 +547,10 @@
       {
         "date": "2021-03-30",
         "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
       }
     ]
   },
@@ -604,10 +604,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -615,16 +611,7 @@
         "date": "2021-03-18",
         "slots": [
           {
-            "start_time": "14:00:00",
-            "duration": 10,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:15:00",
+            "start_time": "14:45:00",
             "duration": 10,
             "ar_id": 122,
             "ar_reason": "Pfizer Dose 1",
@@ -681,6 +668,10 @@
       {
         "date": "2021-03-30",
         "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
       }
     ]
   },
@@ -733,10 +724,6 @@
       "brand": "KROGER"
     },
     "dates": [
-      {
-        "date": "2021-03-16",
-        "slots": []
-      },
       {
         "date": "2021-03-17",
         "slots": []
@@ -791,6 +778,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -845,10 +836,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -902,6 +889,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -956,9 +947,116 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
+        "date": "2021-03-17",
         "slots": []
       },
+      {
+        "date": "2021-03-18",
+        "slots": []
+      },
+      {
+        "date": "2021-03-19",
+        "slots": []
+      },
+      {
+        "date": "2021-03-20",
+        "slots": []
+      },
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      },
+      {
+        "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1073,
+    "loc_no": "01600879",
+    "facilityDetails": {
+      "facilityId": "01600879",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Worthington Woods",
+      "address": {
+        "address1": "1425 Worthington Centre Dr",
+        "address2": "",
+        "city": "Worthington",
+        "state": "OH",
+        "zipCode": "43085"
+      },
+      "distance": 8.213567097292028,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "614",
+        "phoneNumber": "8417412",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "10:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "10:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "10:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "10:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "10:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
       {
         "date": "2021-03-17",
         "slots": []
@@ -1013,6 +1111,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -1067,10 +1169,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -1124,6 +1222,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -1178,10 +1280,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -1235,6 +1333,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -1289,10 +1391,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -1346,6 +1444,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -1400,10 +1502,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -1457,6 +1555,10 @@
       },
       {
         "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
         "slots": []
       }
     ]
@@ -1511,10 +1613,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-16",
-        "slots": []
-      },
-      {
         "date": "2021-03-17",
         "slots": []
       },
@@ -1569,110 +1667,9 @@
       {
         "date": "2021-03-30",
         "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 3314,
-    "loc_no": "85000903",
-    "facilityDetails": {
-      "facilityId": "85000903",
-      "legalName": "The Little Clinic, LLC",
-      "vanityName": "St John Arena - Lane Ave Entrance - Open to Public",
-      "address": {
-        "address1": "410 Woody Hayes Dr",
-        "address2": "",
-        "city": "Columbus",
-        "state": "OH",
-        "zipCode": "43210"
-      },
-      "distance": 8.024088867363481,
-      "onlinePaymentsEnabled": false,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "",
-        "sundayOpen": "",
-        "sundayHours": "",
-        "mondayClose": "",
-        "mondayOpen": "",
-        "mondayHours": "",
-        "tuesdayClose": "",
-        "tuesdayOpen": "",
-        "tuesdayHours": "",
-        "wednesdayClose": "",
-        "wednesdayOpen": "",
-        "wednesdayHours": "",
-        "thursdayClose": "",
-        "thursdayOpen": "",
-        "thursdayHours": "",
-        "fridayClose": "",
-        "fridayOpen": "",
-        "fridayHours": "",
-        "saturdayClose": "",
-        "saturdayOpen": "",
-        "saturdayHours": ""
-      },
-      "brand": "COVID"
-    },
-    "dates": [
-      {
-        "date": "2021-03-16",
-        "slots": []
       },
       {
-        "date": "2021-03-17",
-        "slots": []
-      },
-      {
-        "date": "2021-03-18",
-        "slots": []
-      },
-      {
-        "date": "2021-03-19",
-        "slots": []
-      },
-      {
-        "date": "2021-03-20",
-        "slots": []
-      },
-      {
-        "date": "2021-03-21",
-        "slots": []
-      },
-      {
-        "date": "2021-03-22",
-        "slots": []
-      },
-      {
-        "date": "2021-03-23",
-        "slots": []
-      },
-      {
-        "date": "2021-03-24",
-        "slots": []
-      },
-      {
-        "date": "2021-03-25",
-        "slots": []
-      },
-      {
-        "date": "2021-03-26",
-        "slots": []
-      },
-      {
-        "date": "2021-03-27",
-        "slots": []
-      },
-      {
-        "date": "2021-03-28",
-        "slots": []
-      },
-      {
-        "date": "2021-03-29",
-        "slots": []
-      },
-      {
-        "date": "2021-03-30",
+        "date": "2021-03-31",
         "slots": []
       }
     ]
