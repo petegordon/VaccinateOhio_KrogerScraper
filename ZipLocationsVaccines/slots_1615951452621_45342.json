@@ -1168,17 +1168,7 @@
       },
       {
         "date": "2021-03-18",
-        "slots": [
-          {
-            "start_time": "18:45:00",
-            "duration": 10,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-03-19",
