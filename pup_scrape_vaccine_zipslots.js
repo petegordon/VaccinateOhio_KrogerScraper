@@ -71,7 +71,7 @@ myEmitter.on('processZipCodes', async () => {
 //        browser = await puppeteer.launch({headless:false, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
     
     let page = await browser.newPage();
-    await page.goto('https://www.kroger.com/rx/guest/get-vaccinated');
+    await page.goto('https://www.kroger.com/rx/guest/get-vaccinated',{waitUntil: 'networkidle0'});
 
     if(zipParam.length > 0){
         zipToProcess = zipParam[0]
@@ -102,7 +102,7 @@ myEmitter.on('searchStores', async (zip, page) => {
             let dtEnd = new Date(dt.getTime()+(1000*60*60*24*14))
             let dateStart = dt.getFullYear()+'-'+String((dt.getMonth()+1)).padStart(2, '0')+'-'+String((dt.getDate())).padStart(2, '0')
             let dateEnd = dtEnd.getFullYear()+'-'+String((dtEnd.getMonth()+1)).padStart(2, '0')+'-'+String((dtEnd.getDate())).padStart(2, '0')
-            await page.goto("https://www.kroger.com/rx/api/anonymous/scheduler/slots/locationsearch/pharmacy/"+zip+"/"+dateStart+"/"+dateEnd+"/50?appointmentReason=122&appointmentReason=125&appointmentReason=129");
+            await page.goto("https://www.kroger.com/rx/api/anonymous/scheduler/slots/locationsearch/pharmacy/"+zip+"/"+dateStart+"/"+dateEnd+"/50?appointmentReason=122&appointmentReason=125&appointmentReason=129",{waitUntil: 'networkidle0'});
             
                     
         }
@@ -130,7 +130,7 @@ myEmitter.on('searchStores', async (zip, page) => {
 
 
 
-    await page.goto('https://www.kroger.com/rx/guest/get-vaccinated');
+    await page.goto('https://www.kroger.com/rx/guest/get-vaccinated',{waitUntil: 'networkidle0'});
     
     page.waitForSelector('.PharmacyLocator [name="findAStore"]')
     const input = await page.$('.PharmacyLocator [name="findAStore"]');
@@ -159,7 +159,7 @@ myEmitter.on('searchStores', async (zip, page) => {
         if(securityCheck){
             console.log("prompted with captcha security; will try again in 15 minutes.")
             await delay(900000)
-            await page.goto('https://www.kroger.com/')
+            await page.goto('https://www.kroger.com/',{waitUntil: 'networkidle0'})
             await delay(2000)
             await page.close()
             myEmitter.emit('processZipCodes');
