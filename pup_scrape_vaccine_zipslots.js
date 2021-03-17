@@ -1,5 +1,11 @@
 require('dotenv').config();
 
+let exceptionAttempts = 0;
+
+const accountSid = process.env.TWILIO_ACCOUNT_SID;
+const authToken = process.env.TWILIO_AUTH_TOKEN;
+const client = require('twilio')(accountSid, authToken);
+
 const fs = require('fs')
 const simpleGit = require('simple-git');
 const git = simpleGit();
@@ -217,13 +223,34 @@ let browser;
     processing = false
     processedCount = 0
 
+    // add this handler before emitting any events
+    process.on('uncaughtException', async function (err) {
+        console.log('UNCAUGHT EXCEPTION - keeping process alive:', err); // err.message is "foobar"
+        if(exceptionAttempts == 0){
+            console.log('delay for a minute... and then try again... ')
+            await delay(60000)
+            myEmitter.emit('processZipCodes');    
+        } else {
+            sendSMS("Hit an Excpetion Twice!!!!")
+        }
+        exceptionAttempts++
+    });
+
     myEmitter.emit('processZipCodes');
 
 })();
 
 
 /** Function Calls */
-
+function sendSMS(message){
+    client.messages
+        .create({
+            body: message,
+            from: '+17629997107',
+            to: '+16148357383'
+        })
+        .then(message => console.log(message.sid));
+}
 function reformatZipCodeDataIntoLocationAvailability(dir, awsUpload = true){
 
     let zipFiles = fs.readdirSync(dir)
