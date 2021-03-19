@@ -49,20 +49,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-18",
-        "slots": [
-          {
-            "start_time": "08:30:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
         "date": "2021-03-19",
         "slots": []
       },
@@ -116,6 +102,10 @@
       },
       {
         "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
         "slots": []
       }
     ]
@@ -170,10 +160,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-18",
-        "slots": []
-      },
-      {
         "date": "2021-03-19",
         "slots": []
       },
@@ -227,6 +213,10 @@
       },
       {
         "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
         "slots": []
       }
     ]
@@ -281,20 +271,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-18",
-        "slots": [
-          {
-            "start_time": "08:45:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
         "date": "2021-03-19",
         "slots": []
       },
@@ -348,6 +324,10 @@
       },
       {
         "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
         "slots": []
       }
     ]
@@ -452,10 +432,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-18",
-        "slots": []
-      },
-      {
         "date": "2021-03-19",
         "slots": []
       },
@@ -509,6 +485,10 @@
       },
       {
         "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
         "slots": []
       }
     ]
@@ -563,20 +543,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-18",
-        "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
         "date": "2021-03-19",
         "slots": []
       },
@@ -630,6 +596,10 @@
       },
       {
         "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
         "slots": []
       }
     ]
@@ -684,20 +654,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-18",
-        "slots": [
-          {
-            "start_time": "18:30:00",
-            "duration": 10,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          }
-        ]
-      },
-      {
         "date": "2021-03-19",
         "slots": []
       },
@@ -751,6 +707,10 @@
       },
       {
         "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
         "slots": []
       }
     ]
@@ -805,10 +765,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-18",
-        "slots": []
-      },
-      {
         "date": "2021-03-19",
         "slots": []
       },
@@ -862,6 +818,10 @@
       },
       {
         "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
         "slots": []
       }
     ]
@@ -916,10 +876,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-18",
-        "slots": []
-      },
-      {
         "date": "2021-03-19",
         "slots": []
       },
@@ -973,6 +929,10 @@
       },
       {
         "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
         "slots": []
       }
     ]
@@ -1027,10 +987,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-18",
-        "slots": []
-      },
-      {
         "date": "2021-03-19",
         "slots": []
       },
@@ -1084,6 +1040,10 @@
       },
       {
         "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
         "slots": []
       }
     ]
@@ -1138,20 +1098,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-18",
-        "slots": [
-          {
-            "start_time": "08:30:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
         "date": "2021-03-19",
         "slots": []
       },
@@ -1205,6 +1151,10 @@
       },
       {
         "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
         "slots": []
       }
     ]
@@ -1259,10 +1209,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-18",
-        "slots": []
-      },
-      {
         "date": "2021-03-19",
         "slots": []
       },
@@ -1316,6 +1262,10 @@
       },
       {
         "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
         "slots": []
       }
     ]
@@ -1370,47 +1320,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-18",
-        "slots": [
-          {
-            "start_time": "18:00:00",
-            "duration": 10,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "18:15:00",
-            "duration": 10,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "18:30:00",
-            "duration": 10,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "18:45:00",
-            "duration": 10,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          }
-        ]
-      },
-      {
         "date": "2021-03-19",
         "slots": []
       },
@@ -1464,6 +1373,10 @@
       },
       {
         "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
         "slots": []
       }
     ]
@@ -1518,10 +1431,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-18",
-        "slots": []
-      },
-      {
         "date": "2021-03-19",
         "slots": []
       },
@@ -1575,6 +1484,10 @@
       },
       {
         "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
         "slots": []
       }
     ]
@@ -1623,10 +1536,6 @@
     },
     "dates": [
       {
-        "date": "2021-03-18",
-        "slots": []
-      },
-      {
         "date": "2021-03-19",
         "slots": []
       },
@@ -1680,6 +1589,10 @@
       },
       {
         "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
         "slots": []
       }
     ]
