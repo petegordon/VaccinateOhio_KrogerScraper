@@ -188,48 +188,65 @@ try{
 
 });
 myEmitter.on('foundStores', async (zip, stores, page) => {
+    console.log(new Date()+'::Start foundStores Event')
+    try{
+        
+        console.log("Current Working Directory...")
+        console.log(process.cwd())
+        console.log("Git pull...")
+        await git.pull()
+        console.log("Git pull...FINISHED")
 
-    console.log("Current Working Directory...")
-    console.log(process.cwd())
-    console.log("Git pull...")
-    await git.pull()
-    console.log("Git pull...FINISHED")
+        /* Delete older file(s) for this zip code */
+        let files = fs.readdirSync(storesDir)
+        files = files.filter((f) => f.indexOf('_'+zip+'.json') > 0)
+        files.forEach((f) => {
+            fs.unlinkSync(storesDir+f)
+        })
 
-    /* Delete older file(s) for this zip code */
-    let files = fs.readdirSync(storesDir)
-    files = files.filter((f) => f.indexOf('_'+zip+'.json') > 0)
-    files.forEach((f) => {
-        fs.unlinkSync(storesDir+f)
-    })
+        /* Write new file for this zip code */
+        console.log('an foundStores event occurred! '+zip);
+        fs.writeFileSync(storesDir+'slots_'+new Date().getTime()+'_'+zip+'.json', JSON.stringify(stores, null, 2))
+        console.log("ZIP PROCESS START:"+zip+":"+zipStartTime)
+        console.log("ZIP PROCESS END:"+zip+":"+new Date())  
 
-    /* Write new file for this zip code */
-    console.log('an foundStores event occurred! '+zip);
-    fs.writeFileSync(storesDir+'slots_'+new Date().getTime()+'_'+zip+'.json', JSON.stringify(stores, null, 2))
-    console.log("ZIP PROCESS START:"+zip+":"+zipStartTime)
-    console.log("ZIP PROCESS END:"+zip+":"+new Date())  
+        /* Make change to git and push */
+        console.log('Git add, commit, push...')
+        await git.add('.')
+        await git.commit('Processed ZipCode:'+zip)
+        await git.push()
+        console.log('Git add, commit, push...FINISHED')
 
-    /* Make change to git and push */
-    console.log('Git add, commit, push...')
-    await git.add('.')
-    await git.commit('Processed ZipCode:'+zip)
-    await git.push()
-    console.log('Git add, commit, push...FINISHED')
+        let currentTime = new Date()
+        if(currentTime.getTime() > (awsUploadTime.getTime()+(1000*60*30))){
+            reformatZipCodeDataIntoLocationAvailability(storesDir)
+            awsUploadTime = currentTime
+        }
 
-    let currentTime = new Date()
-    if(currentTime.getTime() > (awsUploadTime.getTime()+(1000*60*30))){
-        reformatZipCodeDataIntoLocationAvailability(storesDir)
-        awsUploadTime = currentTime
+        await delay(120000)        
+        await page.close()
+        myEmitter.emit('processZipCodes');
+
+        console.log(new Date()+'::End foundStores Event')
+    }catch(ex){
+        console.log(ex)
+        console.log("Error in processZipcode Event")
     }
-
-    await delay(120000)        
-    await page.close()
-    myEmitter.emit('processZipCodes');
 });
 
+try{
 
-let browser;
+    let browser;
 
+}catch(ex){
+    console.log("Browser based exception")
+    console.log(ex)
+    console.log("Browser based exception")
+}
 (async () => {
+    try{
+
+    
     console.log('zip codes:'+JSON.stringify(zipParam))
     
     browser = await puppeteer.launch({headless:true, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
@@ -251,6 +268,11 @@ let browser;
     });
 
     myEmitter.emit('processZipCodes');
+}catch(ex){
+    console.log("Async based exception")
+    console.log(ex)
+    console.log("Async based exception")
+}
 
 })();
 
