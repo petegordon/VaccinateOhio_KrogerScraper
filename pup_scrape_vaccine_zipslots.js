@@ -93,6 +93,9 @@ myEmitter.on('processZipCodes', async () => {
 })
 myEmitter.on('searchStores', async (zip, page) => {
 
+    console.log(new Date()+'::Start searchStores Event')
+try{
+
     zipStartTime = new Date()
     zipParam = zipParam.slice(1)
 
@@ -153,7 +156,6 @@ myEmitter.on('searchStores', async (zip, page) => {
 
     console.log('get stores for zip:'+zip) 
     await delay(4000) 
-    try{
         
         let securityCheck = await page.evaluate(() => {
             let el = document.querySelector("#sec-overlay") 
@@ -172,12 +174,15 @@ myEmitter.on('searchStores', async (zip, page) => {
             await page.close()
             myEmitter.emit('processZipCodes');
         }
+
+        console.log(new Date()+'::End searchStores Event')
     }catch(ex){
         console.log(ex)        
-        console.log('caught exception')
+        console.log('caught exception... close page and try processZipCodes again... ')
         await delay(2000)        
         await page.close()
         myEmitter.emit('processZipCodes');
+        
     }
 
 
