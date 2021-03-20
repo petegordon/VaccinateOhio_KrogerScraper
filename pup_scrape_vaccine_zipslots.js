@@ -65,29 +65,19 @@ myEmitter.on('processZipCodes', async () => {
         zipcodesToProcess.push(...zipcodesToReprocess)
         //console.log("Zip Codes Available to Process:"+zipcodesToProcess.length)
         //console.log(zipcodesToProcess)
-
-<<<<<<< HEAD
-    if(zipParam.length > 0){
-        zipToProcess = zipParam[0]
-        
-        myEmitter.emit("searchStores", zipToProcess, page)                  
-    } else {
-        console.log("START:"+startTime)
-        console.log("END:"+new Date())  
-        console.log("Nothing to process, will try again in 10 minutes...")  
-        await delay(1000 * 60 * 10) //wait 10 minutes and try again
-        myEmitter.emit('processZipCodes');          
-=======
         zipParam = zipcodesToProcess
+
+
+       
 
     //    if(!browser)
     //        browser = await puppeteer.launch({headless:false, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
         
         let page = await browser.newPage();
         await page.goto('https://www.kroger.com/rx/guest/get-vaccinated',{waitUntil: 'networkidle0'});
-
         if(zipParam.length > 0){
             zipToProcess = zipParam[0]
+            
             myEmitter.emit("searchStores", zipToProcess, page)                  
         } else {
             console.log("START:"+startTime)
@@ -101,7 +91,6 @@ myEmitter.on('processZipCodes', async () => {
     }catch(ex){
         console.log(ex)
         console.log("Error in processZipcode Event")
->>>>>>> afd01d29a66499425296b9696e8a86864dc57f85
     }
 })
 myEmitter.on('searchStores', async (zip, page) => {
