@@ -32,47 +32,41 @@ class ScrapeEmitter extends EventEmitter {}
 
 const myEmitter = new ScrapeEmitter();
 myEmitter.on('processZipCodes', async () => {
-    console.log('a processZipCodes event occurred!');
+    console.log(new Date()+'::Start processZipCode Event')
+    try{
 
-    zipParam = JSON.parse(fs.readFileSync('kroger_zipcodes.json'))
-    //zipParam = zipParam.slice(0,10)
-    let storesProcessed = fs.readdirSync(storesDir)
-    storesProcessed = storesProcessed.filter((s) => s.endsWith('.json'))
-    console.log(storesProcessed)
+        zipParam = JSON.parse(fs.readFileSync('kroger_zipcodes.json'))
+        //zipParam = zipParam.slice(0,10)
+        let storesProcessed = fs.readdirSync(storesDir)
+        storesProcessed = storesProcessed.filter((s) => s.endsWith('.json'))
+        //console.log(storesProcessed)
 
-    zipProcessed = storesProcessed.map((z) => {
-        zipcode = z.split('_')[2].split('.')[0]
-        return zipcode        
-    })
-    console.log(zipProcessed)
-    zipcodesToReprocess = storesProcessed.filter((f) => {         
-        time = parseInt(f.split('_')[1])
-        return (time <= (new Date().getTime() - (1000 * 60 * 60 * 8)))
-    })   
-    
-    zipcodesToReprocess = zipcodesToReprocess.map((f) => {
-        zipcode = f.split('_')[2].split('.')[0]
-        return zipcode
-    })
-    console.log("zips to reprocess")
-    console.log(zipcodesToReprocess)
+        zipProcessed = storesProcessed.map((z) => {
+            zipcode = z.split('_')[2].split('.')[0]
+            return zipcode        
+        })
+        console.log(zipProcessed)
+        zipcodesToReprocess = storesProcessed.filter((f) => {         
+            time = parseInt(f.split('_')[1])
+            return (time <= (new Date().getTime() - (1000 * 60 * 60 * 8)))
+        })   
+        
+        zipcodesToReprocess = zipcodesToReprocess.map((f) => {
+            zipcode = f.split('_')[2].split('.')[0]
+            return zipcode
+        })
+        //console.log("zips to reprocess")
+        //console.log(zipcodesToReprocess)
 
-    zipcodesToProcess = zipParam.filter((z) => !zipProcessed.includes(z))
-    console.log("zip to process first time")
-    console.log(zipcodesToProcess)
+        zipcodesToProcess = zipParam.filter((z) => !zipProcessed.includes(z))
+        //console.log("zip to process first time")
+        //console.log(zipcodesToProcess)
 
-    zipcodesToProcess.push(...zipcodesToReprocess)
-    console.log("Zip Codes Available to Process:"+zipcodesToProcess.length)
-    console.log(zipcodesToProcess)
+        zipcodesToProcess.push(...zipcodesToReprocess)
+        //console.log("Zip Codes Available to Process:"+zipcodesToProcess.length)
+        //console.log(zipcodesToProcess)
 
-    zipParam = zipcodesToProcess
-
-//    if(!browser)
-//        browser = await puppeteer.launch({headless:false, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
-    
-    let page = await browser.newPage();
-    await page.goto('https://www.kroger.com/rx/guest/get-vaccinated',{waitUntil: 'networkidle0'});
-
+<<<<<<< HEAD
     if(zipParam.length > 0){
         zipToProcess = zipParam[0]
         
@@ -83,9 +77,38 @@ myEmitter.on('processZipCodes', async () => {
         console.log("Nothing to process, will try again in 10 minutes...")  
         await delay(1000 * 60 * 10) //wait 10 minutes and try again
         myEmitter.emit('processZipCodes');          
+=======
+        zipParam = zipcodesToProcess
+
+    //    if(!browser)
+    //        browser = await puppeteer.launch({headless:false, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
+        
+        let page = await browser.newPage();
+        await page.goto('https://www.kroger.com/rx/guest/get-vaccinated',{waitUntil: 'networkidle0'});
+
+        if(zipParam.length > 0){
+            zipToProcess = zipParam[0]
+            myEmitter.emit("searchStores", zipToProcess, page)                  
+        } else {
+            console.log("START:"+startTime)
+            console.log("END:"+new Date())  
+            console.log("Nothing to process, will try again in 10 minutes...")  
+            await delay(1000 * 60 * 10) //wait 10 minutes and try again
+            myEmitter.emit('processZipCodes');          
+        }
+        console.log(new Date()+'::End processZipCode Event')
+
+    }catch(ex){
+        console.log(ex)
+        console.log("Error in processZipcode Event")
+>>>>>>> afd01d29a66499425296b9696e8a86864dc57f85
     }
 })
 myEmitter.on('searchStores', async (zip, page) => {
+
+    console.log(new Date()+'::Start searchStores Event')
+try{
+
     zipStartTime = new Date()
     zipParam = zipParam.slice(1)
 
@@ -146,7 +169,6 @@ myEmitter.on('searchStores', async (zip, page) => {
 
     console.log('get stores for zip:'+zip) 
     await delay(4000) 
-    try{
         
         let securityCheck = await page.evaluate(() => {
             let el = document.querySelector("#sec-overlay") 
@@ -165,59 +187,79 @@ myEmitter.on('searchStores', async (zip, page) => {
             await page.close()
             myEmitter.emit('processZipCodes');
         }
+
+        console.log(new Date()+'::End searchStores Event')
     }catch(ex){
         console.log(ex)        
-        console.log('caught exception')
+        console.log('caught exception... close page and try processZipCodes again... ')
         await delay(2000)        
         await page.close()
         myEmitter.emit('processZipCodes');
+        
     }
 
 
 });
 myEmitter.on('foundStores', async (zip, stores, page) => {
+    console.log(new Date()+'::Start foundStores Event')
+    try{
+        
+        console.log("Current Working Directory...")
+        console.log(process.cwd())
+        console.log("Git pull...")
+        await git.pull()
+        console.log("Git pull...FINISHED")
 
-    console.log("Current Working Directory...")
-    console.log(process.cwd())
-    console.log("Git pull...")
-    await git.pull()
-    console.log("Git pull...FINISHED")
+        /* Delete older file(s) for this zip code */
+        let files = fs.readdirSync(storesDir)
+        files = files.filter((f) => f.indexOf('_'+zip+'.json') > 0)
+        files.forEach((f) => {
+            fs.unlinkSync(storesDir+f)
+        })
 
-    /* Delete older file(s) for this zip code */
-    let files = fs.readdirSync(storesDir)
-    files = files.filter((f) => f.indexOf('_'+zip+'.json') > 0)
-    files.forEach((f) => {
-        fs.unlinkSync(storesDir+f)
-    })
+        /* Write new file for this zip code */
+        console.log('an foundStores event occurred! '+zip);
+        fs.writeFileSync(storesDir+'slots_'+new Date().getTime()+'_'+zip+'.json', JSON.stringify(stores, null, 2))
+        console.log("ZIP PROCESS START:"+zip+":"+zipStartTime)
+        console.log("ZIP PROCESS END:"+zip+":"+new Date())  
 
-    /* Write new file for this zip code */
-    console.log('an foundStores event occurred! '+zip);
-    fs.writeFileSync(storesDir+'slots_'+new Date().getTime()+'_'+zip+'.json', JSON.stringify(stores, null, 2))
-    console.log("ZIP PROCESS START:"+zip+":"+zipStartTime)
-    console.log("ZIP PROCESS END:"+zip+":"+new Date())  
+        /* Make change to git and push */
+        console.log('Git add, commit, push...')
+        await git.add('.')
+        await git.commit('Processed ZipCode:'+zip)
+        await git.push()
+        console.log('Git add, commit, push...FINISHED')
 
-    /* Make change to git and push */
-    console.log('Git add, commit, push...')
-    await git.add('.')
-    await git.commit('Processed ZipCode:'+zip)
-    await git.push()
-    console.log('Git add, commit, push...FINISHED')
+        let currentTime = new Date()
+        if(currentTime.getTime() > (awsUploadTime.getTime()+(1000*60*30))){
+            reformatZipCodeDataIntoLocationAvailability(storesDir)
+            awsUploadTime = currentTime
+        }
 
-    let currentTime = new Date()
-    if(currentTime.getTime() > (awsUploadTime.getTime()+(1000*60*30))){
-        reformatZipCodeDataIntoLocationAvailability(storesDir)
-        awsUploadTime = currentTime
+        await delay(120000)        
+        await page.close()
+        myEmitter.emit('processZipCodes');
+
+        console.log(new Date()+'::End foundStores Event')
+    }catch(ex){
+        console.log(ex)
+        console.log("Error in processZipcode Event")
     }
-
-    await delay(120000)        
-    await page.close()
-    myEmitter.emit('processZipCodes');
 });
 
+try{
 
-let browser;
+    let browser;
 
+}catch(ex){
+    console.log("Browser based exception")
+    console.log(ex)
+    console.log("Browser based exception")
+}
 (async () => {
+    try{
+
+    
     console.log('zip codes:'+JSON.stringify(zipParam))
     
     browser = await puppeteer.launch({headless:true, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
@@ -239,6 +281,11 @@ let browser;
     });
 
     myEmitter.emit('processZipCodes');
+}catch(ex){
+    console.log("Async based exception")
+    console.log(ex)
+    console.log("Async based exception")
+}
 
 })();
 
