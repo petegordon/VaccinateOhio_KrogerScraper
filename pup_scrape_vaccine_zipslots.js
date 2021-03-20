@@ -75,6 +75,7 @@ myEmitter.on('processZipCodes', async () => {
 
     if(zipParam.length > 0){
         zipToProcess = zipParam[0]
+        
         myEmitter.emit("searchStores", zipToProcess, page)                  
     } else {
         console.log("START:"+startTime)
