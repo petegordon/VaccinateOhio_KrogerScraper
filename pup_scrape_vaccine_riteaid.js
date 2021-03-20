@@ -29,6 +29,8 @@ const authToken = process.env.TWILIO_AUTH_TOKEN;
 const client = require('twilio')(accountSid, authToken);
 
 const fs = require('fs')
+const querystring = require('querystring')
+
 const simpleGit = require('simple-git');
 const git = simpleGit();
 const puppeteer = require('puppeteer-extra')
@@ -114,23 +116,100 @@ myEmitter.on('searchStores', async (zip, page) => {
     console.log(zip)
 
     await page.on('response', async (response) => { 
+        
+        if (response.url().startsWith('https://www.riteaid.com/services/ext/v2/vaccine/checkSlots?storeNumber=') && response.status() == 200){
+            console.log(response.url())            
+            console.log(response.status())      
+            json = await response.json()
 
-        if (response.url().endsWith(zip) && response.status() == 200){
+            let storeNumber = querystring.parse(response.url()).storeNumber
+            console.log('check slot! '+storeNumber);
+            fs.writeFileSync(storesDir+'riteaid_store_slots_'+new Date().getTime()+'_'+storeNumber+'.json', JSON.stringify(json, null, 2))
+
+
+
+        }
+
+        if (response.url().startsWith('https://www.riteaid.com/content/riteaid-web/en.ragetavailableappointmentslots.json?storeNumber=') && response.status() == 200){
+            console.log(response.url())
+            console.log(response.status())      
+            json = await response.json()
+
+            let storeNumber = querystring.parse(response.url()).storeNumber
+            console.log('check availability! '+storeNumber);            
+
+            fs.writeFileSync(storesDir+'riteaid_stores_'+new Date().getTime()+'_'+zip+'.json', JSON.stringify(json, null, 2))
+
+
+
+        }
+        if (response.url().startsWith('https://www.riteaid.com/services/ext/v2/stores/getStores') && response.status() == 200){
             console.log(response.url())
             console.log(response.status())      
             json = await response.json()
 
             console.log('an searchStores event occurred!'+zip);
+
+            fs.writeFileSync(storesDir+'riteaid_stores_'+new Date().getTime()+'_'+zip+'.json', JSON.stringify(json, null, 2))
+
+
+            //for each of the 10 stores...
+          //  for(let i=0; i<json.Data.stores.length; i++){
+              let storeNumber = json.Data.stores[0].storeNumber
+                //covid-store__store__anchor
+/*                
+                await page.evaluate((storeNumber)=>{
+                    document.querySelector('.covid-store__store__anchor[data-loc-id="'+storeNumber+'"]').click()
+                })
+*/
+
+console.log('try to select storeNumber:'+storeNumber)
+let selectorStore = '.covid-store__store__anchor[data-loc-id="'+storeNumber+'"]'
+
+let selectStoreButton = await page.$(selectorStore)
+
+await page.$eval(selectorStore, (el) => {
+    const yOffset = -200; 
+    const element = el
+    const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;    
+    window.scrollTo({top: y, behavior: 'smooth'});
+})    
+console.log('before select click')
+await page.click(selectorStore)
+//await selectStoreButton.click()   
+console.log('after click select')             
+console.log('select continue button')
+                let continueButton = await page.$('#continue')
+console.log('before scroll')            
+                await page.$eval('#continue', (el) => {
+                    const yOffset = -200; 
+                    const element = el
+                    const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;    
+                    window.scrollTo({top: y, behavior: 'smooth'});
+                })    
+console.log('after scroll')                
+                await continueButton.click()   
+console.log('after click continue')                
+
+
+
+          //  }
+
+
+            
+
+        /*    
             let dt = new Date()            
             let dtEnd = new Date(dt.getTime()+(1000*60*60*24*14))
             let dateStart = dt.getFullYear()+'-'+String((dt.getMonth()+1)).padStart(2, '0')+'-'+String((dt.getDate())).padStart(2, '0')
             let dateEnd = dtEnd.getFullYear()+'-'+String((dtEnd.getMonth()+1)).padStart(2, '0')+'-'+String((dtEnd.getDate())).padStart(2, '0')
             await page.goto("https://www.kroger.com/rx/api/anonymous/scheduler/slots/locationsearch/pharmacy/"+zip+"/"+dateStart+"/"+dateEnd+"/50?appointmentReason=122&appointmentReason=125&appointmentReason=129",{waitUntil: 'networkidle0'});
+        */
             
                     
         }
 
-        if (!response.url().endsWith(zip) && response.url().indexOf(zip) > 0  && response.status() != 200){
+        if (response.url().startsWith('https://www.riteaid.com/services/ext/v2/stores/getStores') && response.status() != 200){
             console.log(response.url())
             console.log(response.status())             
             console.log("NOT 200 ERROR START:"+startTime)
@@ -245,7 +324,6 @@ await page.type(selector, "Ohio")
     })    
     
 
-//TODO::GOT PROMPTED NOW NEED TO CLICK OK... AND MOVE TO NEXT STEP.
     continueButton.click()
     await delay(2000)
     let modalDialog = page.$('#error-modal .form-btns--continue')
@@ -255,7 +333,6 @@ await page.type(selector, "Ohio")
         const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;    
         window.scrollTo({top: y, behavior: 'smooth'});
     })      
- //   modalDialog.click()
 
     await page.evaluate( () => {
         console.log('before click')        
@@ -294,9 +371,6 @@ await page.type(selector, "Ohio")
         el.click()        
         console.log('after click find stores')
     })   
-
-    //searchButton.click()
-  //  await page.click('#btn-find-store')
 
     await delay(3000)
     // https://www.riteaid.com/services/ext/v2/stores/getStores?address=355%20East%20Main%20Street%20Lexington%20OH%2044904&attrFilter=PREF-112&fetchMechanismVersion=2&radius=50
