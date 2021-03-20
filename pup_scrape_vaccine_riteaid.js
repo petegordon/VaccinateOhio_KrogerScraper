@@ -245,10 +245,30 @@ await page.type(selector, "Ohio")
     })    
     
 
-
+//TODO::GOT PROMPTED NOW NEED TO CLICK OK... AND MOVE TO NEXT STEP.
     continueButton.click()
-    await delay(1000)
-    await page.$('#error-modal .form-btns--continue').click()
+    await delay(2000)
+    let modalDialog = page.$('#error-modal .form-btns--continue')
+    await page.$eval('#error-modal .form-btns--continue', (el) => {
+        const yOffset = -200; 
+        const element = el
+        const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;    
+        window.scrollTo({top: y, behavior: 'smooth'});
+    })      
+ //   modalDialog.click()
+
+    await page.evaluate( () => {
+        console.log('before click')        
+        el = document.querySelector('#error-modal .form-btns--continue')
+        console.log(el)
+        el.click()        
+        console.log('after click')
+    })    
+
+    //await page.goto('https://www.riteaid.com/pharmacy/apt-scheduler')    
+    //let modalClick = await page.$('#error-modal .form-btns--continue')
+
+    //await modalClick.click()
 
     await delay(5000)
 
@@ -260,9 +280,25 @@ await page.type(selector, "Ohio")
     await search.type(zip) //Enter ZipCode 43081
     //click Find Stores
     let searchButton = await page.$('.covid-store__search__btn button')
-    searchButton.click()
+    await page.$eval('.covid-store__search__btn button', (el) => {
+        const yOffset = -200; 
+        const element = el
+        const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;    
+        window.scrollTo({top: y, behavior: 'smooth'});
+    }) 
 
+    await page.evaluate( () => {
+        console.log('before click find stores')        
+        el = document.querySelector('.covid-store__search__btn button')
+        console.log(el)
+        el.click()        
+        console.log('after click find stores')
+    })   
 
+    //searchButton.click()
+  //  await page.click('#btn-find-store')
+
+    await delay(3000)
     // https://www.riteaid.com/services/ext/v2/stores/getStores?address=355%20East%20Main%20Street%20Lexington%20OH%2044904&attrFilter=PREF-112&fetchMechanismVersion=2&radius=50
     // Loop through all stores
     // click Select Store
@@ -284,6 +320,7 @@ await page.type(selector, "Ohio")
 //https://www.riteaid.com/content/riteaid-web/en.ragetavailableappointmentslots.json?storeNumber=2394&moment=1616207458547&captchatoken=03AGdBq26Qk58p30LKVpguNcpJT7ZwJFmd71291pt5wBozo0QhhRNIVZrlbpPDPysVb-90Ixvg6UHI4DddcndlXnYsVNMbd2bAxM0Ji8Ol5GWkHzvqpTQxjRec6Q0GdV4MmWCQLwoomQ0sQNrVvzcxGTkNzOcam3W3DkhfXD1vDcjPgpIjbiE9qjEBSBJHrzSAYqrBF8VjWgvR4R-AnQMEY-ecmLVhQqRFQUBMFmZYPdyXT92mrC19wb6wLYTHI7Kt-bWvS-dwA-NCXQNpSJjBSeqJZURf18t5xbdKrJ9ueQLAwv8B1lwvqFaz23aGOtZvq9CYrl2I59VBPJx1eojSFDL6Mr5k3uJogL4mnNJsPnTNYnkwOwJDVVsBlYvnDqFGLGKBmk0KwvG-TecBstN6B4ocCuqJ3kreiUqKrtcpUaQ3nvwJhz-x26opPlpa8lqsElgNNgx67ppxGliC3Kx9KnabQg-2G9tKEQ
 
 
+console.log('completed find stores')
 
 
 
