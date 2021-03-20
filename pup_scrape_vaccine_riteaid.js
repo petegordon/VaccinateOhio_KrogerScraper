@@ -172,26 +172,81 @@ myEmitter.on('searchStores', async (zip, page) => {
     //await delay(3000)
     //await page.hover('#eligibility_state')
     //await delay(3000)
+/*    
     await page.evaluate(() => {
         document.querySelector('#eligibility_state').click();
       }); 
+*/      
     //await delay(1000)   
     //let state = await page.$('#eligibility_state')
-    await delay(1000)
-    await page.hover('#eligibility_state')    
+//    await delay(1000)
+//    await page.hover('#eligibility_state')    
+//if (await page.$('#eligibility_state') !== null) console.log('found');
+//else console.log('not found');
+let selector = '#eligibility_state'
+const input = await page.$(selector);
+await page.$eval('#eligibility_state', (el) => {
+    const yOffset = -200; 
+    const element = el
+    const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;    
+    window.scrollTo({top: y, behavior: 'smooth'});
+})
+await delay(1000)
+await input.click({ clickCount: 3 })
+await page.type(selector, "Ohio")
+
+/*
     await delay(1000)
     await page.click('#eligibility_state')
     await delay(1000)
     await page.type('#eligibility_state', 'Ohio')    
-
+*/
     //eneter Zip, 
     //eneter Child Care Worker
     let occ = await page.$('#Occupation')
+    await page.$eval('#Occupation', (el) => {
+        const yOffset = -200; 
+        const element = el
+        const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;    
+        window.scrollTo({top: y, behavior: 'smooth'});
+    })     
     await delay(1000)
     await occ.click('#Occupation')
-    await occ.type('#Occupation', 'Childcare Worker')     
+    //await occ.type('Childcare Worker')     
     
+    //click on ChildCare Worker Occupation
+    await page.evaluate( () => {
+        document.querySelectorAll('.typeahead__list')[1].querySelectorAll('li')[0].click()
+    })
+
+    
+    let medical_conditions = await page.$('#mediconditions')
+    await page.$eval('#mediconditions', (el) => {
+        const yOffset = -200; 
+        const element = el
+        const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;    
+        window.scrollTo({top: y, behavior: 'smooth'});
+    })     
+    await delay(1000)
+    await medical_conditions.click('#mediconditions')
+    //await medical_conditions.type("None of the Above")      
+    await page.evaluate( () => {
+        document.querySelectorAll('.typeahead__list')[2].querySelectorAll('li')[28].click()
+    })    
+
     //click Continue
+    await delay(1000)
+    let continueButton = await page.$('#continue')
+    await page.$eval('#continue', (el) => {
+        const yOffset = -200; 
+        const element = el
+        const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;    
+        window.scrollTo({top: y, behavior: 'smooth'});
+    })    
+    
+
+
+    continueButton.click()
     await delay(1000)
     await page.$('#error-modal .form-btns--continue').click()
 
@@ -206,6 +261,7 @@ myEmitter.on('searchStores', async (zip, page) => {
     //click Find Stores
     let searchButton = await page.$('.covid-store__search__btn button')
     searchButton.click()
+
 
     // https://www.riteaid.com/services/ext/v2/stores/getStores?address=355%20East%20Main%20Street%20Lexington%20OH%2044904&attrFilter=PREF-112&fetchMechanismVersion=2&radius=50
     // Loop through all stores
