@@ -50,7 +50,26 @@
     "dates": [
       {
         "date": "2021-03-20",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "09:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "09:45:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-03-21",
@@ -161,7 +180,35 @@
     "dates": [
       {
         "date": "2021-03-20",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "09:00:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "09:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "10:00:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-03-21",
@@ -272,7 +319,17 @@
     "dates": [
       {
         "date": "2021-03-20",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "09:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-03-21",
@@ -663,7 +720,17 @@
       },
       {
         "date": "2021-03-22",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-03-23",
@@ -877,7 +944,26 @@
     "dates": [
       {
         "date": "2021-03-20",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "09:00:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "09:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-03-21",
@@ -1321,7 +1407,17 @@
     "dates": [
       {
         "date": "2021-03-20",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "16:30:00",
+            "duration": 10,
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
+            "ar_order": 1,
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
+          }
+        ]
       },
       {
         "date": "2021-03-21",
@@ -1432,7 +1528,26 @@
     "dates": [
       {
         "date": "2021-03-20",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "09:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "09:45:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-03-21",
