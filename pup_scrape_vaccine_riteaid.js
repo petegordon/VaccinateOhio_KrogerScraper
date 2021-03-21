@@ -39,7 +39,8 @@ puppeteer.use(StealthPlugin())
 startTime = new Date()
 awsUploadTime = startTime
 zipStartTime = new Date()
-storesDir = "ZipLocationsVaccines_RiteAid/"
+storesDir = "ZipLocations_RiteAid/"
+storesVaccineDir = "ZipLocationsVaccines_RiteAid/"
 zipParam = []
 
 console.log("APPLICATION START:"+startTime)
@@ -125,7 +126,17 @@ myEmitter.on('searchStores', async (zip, page) => {
             let qsResult = querystring.parse(response.url().split('?')[1])
             let storeNumber = qsResult.storeNumber
             console.log('check slot! '+storeNumber);
-            fs.writeFileSync(storesDir+'riteaid_store_slots_'+new Date().getTime()+'_'+storeNumber+'.json', JSON.stringify(json, null, 2))
+
+            //Delete existing files
+            let allFiles = fs.readdirSync(storesVaccineDir)
+            let existingFiles = allFiles.filter((f) => { return (f.startsWith('riteaid_store_slots_summary_') && f.endsWith(storeNumber+'.json')) })
+            console.log(existingFiles)
+            for(let j=0; j<existingFiles.length; j++){
+                console.log('delete '+ existingFiles[j])
+                fs.unlinkSync(storesVaccineDir+existingFiles[j])
+            }
+
+            fs.writeFileSync(storesVaccineDir+'riteaid_store_slots_summary_'+new Date().getTime()+'_'+storeNumber+'.json', JSON.stringify(json, null, 2))
 
 
 
@@ -140,7 +151,16 @@ myEmitter.on('searchStores', async (zip, page) => {
             let storeNumber = qsResult.storeNumber
             console.log('check availability! '+storeNumber);            
 
-            fs.writeFileSync(storesDir+'riteaid_store_slots_availability_'+new Date().getTime()+'_'+storeNumber+'.json', JSON.stringify(json, null, 2))
+            //Delete existing files
+            let allFiles = fs.readdirSync(storesVaccineDir)
+            let existingFiles = allFiles.filter((f) => { return (f.startsWith('riteaid_store_slots_availability_') && f.endsWith(storeNumber+'.json')) })
+            console.log(existingFiles)
+            for(let j=0; j<existingFiles.length; j++){
+                console.log('delete '+ existingFiles[j])
+                fs.unlinkSync(storesVaccineDir+existingFiles[j])
+            }
+
+            fs.writeFileSync(storesVaccineDir+'riteaid_store_slots_availability_'+new Date().getTime()+'_'+storeNumber+'.json', JSON.stringify(json, null, 2))
 
 
 
@@ -152,7 +172,19 @@ myEmitter.on('searchStores', async (zip, page) => {
 
             console.log('an searchStores event occurred!'+zip);
 
-            fs.writeFileSync(storesDir+'riteaid_stores_'+new Date().getTime()+'_'+zip+'.json', JSON.stringify(json, null, 2))
+            //Delete existing files
+            let allFiles = fs.readdirSync(storesDir)
+            let existingFiles = allFiles.filter((f) => { return (f.startsWith('riteaid_stores_') && f.endsWith(zip+'.json')) })
+            console.log(existingFiles)
+            for(let j=0; j<existingFiles.length; j++){
+                console.log('delete '+ existingFiles[j])
+                fs.unlinkSync(storesDir+existingFiles[j])
+            }
+
+            fs.writeFileSync(storesDir+'riteaid_stores_'+zip+'.json', JSON.stringify(json, null, 2))
+
+            
+
 
 
             //for each of the 10 stores...
@@ -212,7 +244,9 @@ console.log('after click continue')
             await page.goto("https://www.kroger.com/rx/api/anonymous/scheduler/slots/locationsearch/pharmacy/"+zip+"/"+dateStart+"/"+dateEnd+"/50?appointmentReason=122&appointmentReason=125&appointmentReason=129",{waitUntil: 'networkidle0'});
         */
             
-                    
+              await delay(3000)  
+              await page.close()    
+              myEmitter.emit('processZipCodes');  
         }
 
         if (response.url().startsWith('https://www.riteaid.com/services/ext/v2/stores/getStores') && response.status() != 200){
