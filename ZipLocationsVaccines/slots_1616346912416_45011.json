@@ -1,0 +1,1667 @@
+[
+  {
+    "loc_id": 883,
+    "loc_no": "01400335",
+    "facilityDetails": {
+      "facilityId": "01400335",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Middletown",
+      "address": {
+        "address1": "428 Oxford State Rd",
+        "address2": "",
+        "city": "Middletown",
+        "state": "OH",
+        "zipCode": "45044"
+      },
+      "distance": 7.6284854676430776,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "4237097",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      },
+      {
+        "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
+      },
+      {
+        "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
+        "slots": []
+      },
+      {
+        "date": "2021-04-03",
+        "slots": []
+      },
+      {
+        "date": "2021-04-04",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 884,
+    "loc_no": "01400336",
+    "facilityDetails": {
+      "facilityId": "01400336",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Monroe",
+      "address": {
+        "address1": "3033 Heritage Green Dr",
+        "address2": "",
+        "city": "Monroe",
+        "state": "OH",
+        "zipCode": "45050"
+      },
+      "distance": 7.815757469868379,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "7277440",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      },
+      {
+        "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
+      },
+      {
+        "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
+        "slots": []
+      },
+      {
+        "date": "2021-04-03",
+        "slots": []
+      },
+      {
+        "date": "2021-04-04",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 897,
+    "loc_no": "01400383",
+    "facilityDetails": {
+      "facilityId": "01400383",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Liberty Township, OH Marketplace",
+      "address": {
+        "address1": "7300 Yankee Rd",
+        "address2": "",
+        "city": "Liberty Township",
+        "state": "OH",
+        "zipCode": "45044"
+      },
+      "distance": 7.189105399199053,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "3423260",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      },
+      {
+        "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
+      },
+      {
+        "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
+        "slots": []
+      },
+      {
+        "date": "2021-04-03",
+        "slots": []
+      },
+      {
+        "date": "2021-04-04",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 899,
+    "loc_no": "01400390",
+    "facilityDetails": {
+      "facilityId": "01400390",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Cincinnati",
+      "address": {
+        "address1": "7132 Hamilton Ave",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45231"
+      },
+      "distance": 11.771843042495995,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "7282720",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      },
+      {
+        "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
+      },
+      {
+        "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
+        "slots": []
+      },
+      {
+        "date": "2021-04-03",
+        "slots": []
+      },
+      {
+        "date": "2021-04-04",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 917,
+    "loc_no": "01400429",
+    "facilityDetails": {
+      "facilityId": "01400429",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Sharonville, OH",
+      "address": {
+        "address1": "12164 Lebanon Rd",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45241"
+      },
+      "distance": 9.191777014765675,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "7334945",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      },
+      {
+        "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
+      },
+      {
+        "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
+        "slots": []
+      },
+      {
+        "date": "2021-04-03",
+        "slots": []
+      },
+      {
+        "date": "2021-04-04",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 921,
+    "loc_no": "01400433",
+    "facilityDetails": {
+      "facilityId": "01400433",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Woodlawn",
+      "address": {
+        "address1": "10595 Springfield Pike",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45215"
+      },
+      "distance": 9.359739394178728,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "7712970",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      },
+      {
+        "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
+      },
+      {
+        "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
+        "slots": []
+      },
+      {
+        "date": "2021-04-03",
+        "slots": []
+      },
+      {
+        "date": "2021-04-04",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 918,
+    "loc_no": "01400439",
+    "facilityDetails": {
+      "facilityId": "01400439",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Kyles Station",
+      "address": {
+        "address1": "5250 Newtown Drive",
+        "address2": "",
+        "city": "Liberty Township",
+        "state": "OH",
+        "zipCode": "45011"
+      },
+      "distance": 3.474348041231795,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "8675420",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      },
+      {
+        "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
+      },
+      {
+        "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
+        "slots": []
+      },
+      {
+        "date": "2021-04-03",
+        "slots": []
+      },
+      {
+        "date": "2021-04-04",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 929,
+    "loc_no": "01400448",
+    "facilityDetails": {
+      "facilityId": "01400448",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Mason Montgomery, Mason, OH",
+      "address": {
+        "address1": "5100 Terra Firma Dr",
+        "address2": "",
+        "city": "Mason",
+        "state": "OH",
+        "zipCode": "45040"
+      },
+      "distance": 11.54661532248099,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "2295920",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      },
+      {
+        "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
+      },
+      {
+        "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
+        "slots": []
+      },
+      {
+        "date": "2021-04-03",
+        "slots": []
+      },
+      {
+        "date": "2021-04-04",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 957,
+    "loc_no": "01400909",
+    "facilityDetails": {
+      "facilityId": "01400909",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Hamilton Meadows SC",
+      "address": {
+        "address1": "1474 Main St/ Hamilton Richmond Rd",
+        "address2": "",
+        "city": "Hamilton",
+        "state": "OH",
+        "zipCode": "45013"
+      },
+      "distance": 5.085280268503686,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "8686578",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      },
+      {
+        "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
+      },
+      {
+        "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
+        "slots": []
+      },
+      {
+        "date": "2021-04-03",
+        "slots": []
+      },
+      {
+        "date": "2021-04-04",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 967,
+    "loc_no": "01400934",
+    "facilityDetails": {
+      "facilityId": "01400934",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Hamilton",
+      "address": {
+        "address1": "1450 South Erie Blvd",
+        "address2": "",
+        "city": "Hamilton",
+        "state": "OH",
+        "zipCode": "45011"
+      },
+      "distance": 2.1787651682415143,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "8685440",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      },
+      {
+        "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
+      },
+      {
+        "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
+        "slots": []
+      },
+      {
+        "date": "2021-04-03",
+        "slots": []
+      },
+      {
+        "date": "2021-04-04",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 970,
+    "loc_no": "01400939",
+    "facilityDetails": {
+      "facilityId": "01400939",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Fairfield",
+      "address": {
+        "address1": "560 Wessel Dr",
+        "address2": "",
+        "city": "Fairfield",
+        "state": "OH",
+        "zipCode": "45014"
+      },
+      "distance": 4.805518522700808,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "8292005",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      },
+      {
+        "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
+      },
+      {
+        "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
+        "slots": []
+      },
+      {
+        "date": "2021-04-03",
+        "slots": []
+      },
+      {
+        "date": "2021-04-04",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 972,
+    "loc_no": "01400943",
+    "facilityDetails": {
+      "facilityId": "01400943",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Forest Park",
+      "address": {
+        "address1": "1212 W Kemper Rd",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45240"
+      },
+      "distance": 7.117087160953714,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "7422000",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      },
+      {
+        "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
+      },
+      {
+        "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
+        "slots": []
+      },
+      {
+        "date": "2021-04-03",
+        "slots": []
+      },
+      {
+        "date": "2021-04-04",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 974,
+    "loc_no": "01400945",
+    "facilityDetails": {
+      "facilityId": "01400945",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Tylersville Road, West Chester, OH",
+      "address": {
+        "address1": "7855 Tylersville Rd",
+        "address2": "",
+        "city": "West Chester",
+        "state": "OH",
+        "zipCode": "45069"
+      },
+      "distance": 8.299917975078689,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "7777393",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      },
+      {
+        "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
+      },
+      {
+        "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
+        "slots": []
+      },
+      {
+        "date": "2021-04-03",
+        "slots": []
+      },
+      {
+        "date": "2021-04-04",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 978,
+    "loc_no": "01400959",
+    "facilityDetails": {
+      "facilityId": "01400959",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Crossings of Beckett",
+      "address": {
+        "address1": "8000 Princeton-Glendale Rd.",
+        "address2": "",
+        "city": "West Chester",
+        "state": "OH",
+        "zipCode": "45069"
+      },
+      "distance": 3.553850763306579,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "6828040",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      },
+      {
+        "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
+      },
+      {
+        "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
+        "slots": []
+      },
+      {
+        "date": "2021-04-03",
+        "slots": []
+      },
+      {
+        "date": "2021-04-04",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 980,
+    "loc_no": "01400968",
+    "facilityDetails": {
+      "facilityId": "01400968",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Colerain Marketplace",
+      "address": {
+        "address1": "3636 Springdale Road",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45251"
+      },
+      "distance": 11.015719765172612,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "6399920",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-21",
+        "slots": []
+      },
+      {
+        "date": "2021-03-22",
+        "slots": []
+      },
+      {
+        "date": "2021-03-23",
+        "slots": []
+      },
+      {
+        "date": "2021-03-24",
+        "slots": []
+      },
+      {
+        "date": "2021-03-25",
+        "slots": []
+      },
+      {
+        "date": "2021-03-26",
+        "slots": []
+      },
+      {
+        "date": "2021-03-27",
+        "slots": []
+      },
+      {
+        "date": "2021-03-28",
+        "slots": []
+      },
+      {
+        "date": "2021-03-29",
+        "slots": []
+      },
+      {
+        "date": "2021-03-30",
+        "slots": []
+      },
+      {
+        "date": "2021-03-31",
+        "slots": []
+      },
+      {
+        "date": "2021-04-01",
+        "slots": []
+      },
+      {
+        "date": "2021-04-02",
+        "slots": []
+      },
+      {
+        "date": "2021-04-03",
+        "slots": []
+      },
+      {
+        "date": "2021-04-04",
+        "slots": []
+      }
+    ]
+  }
+]
