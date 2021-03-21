@@ -52,7 +52,7 @@ myEmitter.on('processStores', async () => {
     console.log(storesProcessed)
     storesToReprocess = filesStoresProcessed.filter((f) => {         
         time = parseInt(f.split('_')[4])
-        return (time <= (new Date().getTime() - (1000 * 60 * 60 * 4)))
+        return (time <= (new Date().getTime() - (1000 * 60 * 60 * 3)))
     })   
     
     storesToReprocess = storesToReprocess.map((f) => {
