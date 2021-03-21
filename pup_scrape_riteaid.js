@@ -248,7 +248,7 @@ myEmitter.on('searchStoreAvailability', async (store, page) => {
               await page.close()    
 
               let currentTime = new Date()
-              if(currentTime.getTime() > (awsUploadTime.getTime()+(1000*60*1))){
+              if(currentTime.getTime() > (awsUploadTime.getTime()+(1000*60*10))){
                   reformatStoreDataIntoLocationAvailability(storesVaccineDir)
                   awsUploadTime = currentTime
               }
@@ -361,10 +361,11 @@ myEmitter.on('searchStoreAvailability', async (store, page) => {
         console.log('after click')
     })    
 
-    await delay(5000)
+    await delay(2000)
   
     //select search and enter zip code
     let search = await page.$('#covid-store-search')
+    await delay(2000)
     await search.click()
     await search.type(zip) //Enter ZipCode 43081
     //click Find Stores
