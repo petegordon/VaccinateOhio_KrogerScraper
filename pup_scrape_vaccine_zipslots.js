@@ -239,7 +239,7 @@ myEmitter.on('foundStores', async (zip, stores, page) => {
 
         let currentTime = new Date()
         if(currentTime.getTime() > (awsUploadTime.getTime()+(1000*60*30))){
-            reformatZipCodeDataIntoLocationAvailability(storesDir)
+            await reformatZipCodeDataIntoLocationAvailability(storesDir)
             awsUploadTime = currentTime
         }
 
@@ -307,7 +307,7 @@ function sendSMS(message){
         })
         .then(message => console.log(message.sid));
 }
-function reformatZipCodeDataIntoLocationAvailability(dir, awsUpload = true){
+async function reformatZipCodeDataIntoLocationAvailability(dir, awsUpload = true){
 
     let zipFiles = fs.readdirSync(dir)
     zipFiles = zipFiles.filter((z) => z.endsWith('.json'))

@@ -286,7 +286,7 @@ myEmitter.on('searchStoreAvailability', async (store, page) => {
 
               let currentTime = new Date()
               if(currentTime.getTime() > (awsUploadTime.getTime()+(1000*60*10))){
-                  reformatStoreDataIntoLocationAvailability(storesVaccineDir)
+                  await reformatStoreDataIntoLocationAvailability(storesVaccineDir)
                   awsUploadTime = currentTime
               }
               
@@ -465,7 +465,7 @@ function sendSMS(message){
         })
         .then(message => console.log(message.sid));
 }
-function reformatStoreDataIntoLocationAvailability(dir, awsUpload = true){
+async function reformatStoreDataIntoLocationAvailability(dir, awsUpload = true){
 
     let storesObjectKeys = JSON.parse(fs.readFileSync('riteaid_stores.json'))
 
