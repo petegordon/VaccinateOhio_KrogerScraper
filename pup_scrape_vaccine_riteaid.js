@@ -122,7 +122,8 @@ myEmitter.on('searchStores', async (zip, page) => {
             console.log(response.status())      
             json = await response.json()
 
-            let storeNumber = querystring.parse(response.url()).storeNumber
+            let qsResult = querystring.parse(response.url().split('?')[1])
+            let storeNumber = qsResult.storeNumber
             console.log('check slot! '+storeNumber);
             fs.writeFileSync(storesDir+'riteaid_store_slots_'+new Date().getTime()+'_'+storeNumber+'.json', JSON.stringify(json, null, 2))
 
@@ -135,10 +136,11 @@ myEmitter.on('searchStores', async (zip, page) => {
             console.log(response.status())      
             json = await response.json()
 
-            let storeNumber = querystring.parse(response.url()).storeNumber
+            let qsResult = querystring.parse(response.url().split('?')[1])
+            let storeNumber = qsResult.storeNumber
             console.log('check availability! '+storeNumber);            
 
-            fs.writeFileSync(storesDir+'riteaid_stores_'+new Date().getTime()+'_'+zip+'.json', JSON.stringify(json, null, 2))
+            fs.writeFileSync(storesDir+'riteaid_store_slots_availability_'+new Date().getTime()+'_'+storeNumber+'.json', JSON.stringify(json, null, 2))
 
 
 
@@ -166,6 +168,7 @@ myEmitter.on('searchStores', async (zip, page) => {
 console.log('try to select storeNumber:'+storeNumber)
 let selectorStore = '.covid-store__store__anchor[data-loc-id="'+storeNumber+'"]'
 
+await page.waitForSelector(selectorStore)
 let selectStoreButton = await page.$(selectorStore)
 
 await page.$eval(selectorStore, (el) => {
@@ -175,7 +178,8 @@ await page.$eval(selectorStore, (el) => {
     window.scrollTo({top: y, behavior: 'smooth'});
 })    
 console.log('before select click')
-await page.click(selectorStore)
+//await page.click(selectorStore)
+await selectStoreButton.evaluate((e) => e.click());
 //await selectStoreButton.click()   
 console.log('after click select')             
 console.log('select continue button')
@@ -187,8 +191,10 @@ console.log('before scroll')
                     const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;    
                     window.scrollTo({top: y, behavior: 'smooth'});
                 })    
-console.log('after scroll')                
-                await continueButton.click()   
+console.log('after scroll') 
+delay(1000)               
+await continueButton.evaluate((e) => e.click());
+//                await continueButton.click()   
 console.log('after click continue')                
 
 
