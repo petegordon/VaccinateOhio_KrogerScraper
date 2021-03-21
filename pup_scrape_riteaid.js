@@ -79,9 +79,6 @@ myEmitter.on('processStores', async () => {
         console.log("PROCESS STORES:::")
         console.log("Current Working Directory...")
         console.log(process.cwd())
-        console.log("Git pull...")
-        await git.pull()
-        console.log("Git pull...FINISHED")
         
         
 
@@ -154,6 +151,9 @@ myEmitter.on('searchStoreAvailability', async (store, page) => {
 
             fs.writeFileSync(storesVaccineDir+'riteaid_store_slots_availability_'+new Date().getTime()+'_'+storeNumber+'.json', JSON.stringify(json, null, 2))
 
+            console.log("Git pull...")
+            await git.pull()
+            console.log("Git pull...FINISHED")            
             /* Make change to git and push */
             console.log('Git add, commit, push...')
             await git.add('.')
@@ -236,6 +236,15 @@ myEmitter.on('searchStoreAvailability', async (store, page) => {
 
                 fs.writeFileSync(storesVaccineDir+'riteaid_store_slots_availability_'+new Date().getTime()+'_'+storeNumber+'.json', JSON.stringify(empty_slots, null, 2))
 
+                console.log("Git pull...")
+                await git.pull()
+                console.log("Git pull...FINISHED")            
+                /* Make change to git and push */
+                console.log('Git add, commit, push...')
+                await git.add('.')
+                await git.commit('Sent Empty Availability for Store:'+storeNumber)
+                await git.push()
+                console.log('Git add, commit, push...FINISHED')                            
 
 
                 delay(2000)               
