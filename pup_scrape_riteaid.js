@@ -248,8 +248,8 @@ myEmitter.on('searchStoreAvailability', async (store, page) => {
               await page.close()    
 
               let currentTime = new Date()
-              if(currentTime.getTime() > (awsUploadTime.getTime()+(1000*60*10))){
-                  reformatStoreDataIntoLocationAvailability(storesVaccineDir, false)
+              if(currentTime.getTime() > (awsUploadTime.getTime()+(1000*60*1))){
+                  reformatStoreDataIntoLocationAvailability(storesVaccineDir)
                   awsUploadTime = currentTime
               }
               
