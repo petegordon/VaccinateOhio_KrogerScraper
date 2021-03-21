@@ -18,5 +18,10 @@ s3.listObjects(bucketParams, function(err, data) {
     console.log("Error", err);
   } else {
     console.log("Success", data);
+    let result = data.Contents.filter((c)=> {return c.Key.indexOf('riteaid') > -1 })
+    console.log(result)
   }
+
+  
+
 });

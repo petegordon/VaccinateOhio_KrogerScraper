@@ -79,9 +79,6 @@ myEmitter.on('processStores', async () => {
         console.log("PROCESS STORES:::")
         console.log("Current Working Directory...")
         console.log(process.cwd())
-        console.log("Git pull...")
-        await git.pull()
-        console.log("Git pull...FINISHED")
         
         
 
@@ -101,11 +98,11 @@ myEmitter.on('processStores', async () => {
 myEmitter.on('searchStoreAvailability', async (store, page) => {
     storeStartTime = new Date()
     storesToProcess = storesToProcess.slice(1)
-//    console.log(store)
-let storeNumber = store.storeNumber
-console.log(storeNumber)
-let zip = store.zipcode
-console.log(zip)
+    //    console.log(store)
+    let storeNumber = store.storeNumber
+    console.log(storeNumber)
+    let zip = store.zipcode
+    console.log(zip)
 
 
     await page.on('response', async (response) => { 
@@ -154,6 +151,9 @@ console.log(zip)
 
             fs.writeFileSync(storesVaccineDir+'riteaid_store_slots_availability_'+new Date().getTime()+'_'+storeNumber+'.json', JSON.stringify(json, null, 2))
 
+            console.log("Git pull...")
+            await git.pull()
+            console.log("Git pull...FINISHED")            
             /* Make change to git and push */
             console.log('Git add, commit, push...')
             await git.add('.')
@@ -236,6 +236,15 @@ console.log(zip)
 
                 fs.writeFileSync(storesVaccineDir+'riteaid_store_slots_availability_'+new Date().getTime()+'_'+storeNumber+'.json', JSON.stringify(empty_slots, null, 2))
 
+                console.log("Git pull...")
+                await git.pull()
+                console.log("Git pull...FINISHED")            
+                /* Make change to git and push */
+                console.log('Git add, commit, push...')
+                await git.add('.')
+                await git.commit('Sent Empty Availability for Store:'+storeNumber)
+                await git.push()
+                console.log('Git add, commit, push...FINISHED')                            
 
 
                 delay(2000)               
@@ -249,7 +258,7 @@ console.log(zip)
 
               let currentTime = new Date()
               if(currentTime.getTime() > (awsUploadTime.getTime()+(1000*60*10))){
-                  reformatStoreDataIntoLocationAvailability(storesVaccineDir, false)
+                  reformatStoreDataIntoLocationAvailability(storesVaccineDir)
                   awsUploadTime = currentTime
               }
               
@@ -361,10 +370,11 @@ console.log(zip)
         console.log('after click')
     })    
 
-    await delay(5000)
+    await delay(2000)
   
     //select search and enter zip code
     let search = await page.$('#covid-store-search')
+    await delay(2000)
     await search.click()
     await search.type(zip) //Enter ZipCode 43081
     //click Find Stores
@@ -395,7 +405,7 @@ let browser;
 
     // add this handler before emitting any events
     
-    /*
+    
     process.on('uncaughtException', async function (err) {
         console.log('UNCAUGHT EXCEPTION - keeping process alive:', err); // err.message is "foobar"
         if(exceptionAttempts == 0){
@@ -408,7 +418,7 @@ let browser;
         }
         exceptionAttempts++
     });
-    */
+    
     
 
     myEmitter.emit('processStores');
