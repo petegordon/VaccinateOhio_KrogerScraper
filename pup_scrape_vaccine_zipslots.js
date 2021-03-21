@@ -425,7 +425,7 @@ function reformatZipCodeDataIntoLocationAvailability(dir, awsUpload = true){
             console.log('Git add, commit, push...FINISHED')                            
         } catch (ex) {
             console.log("Try again... wait 1000")
-            await delay(1000)
+            await delay(2000)
             console.log("Git pull...")
             await git.pull()
             console.log("Git pull...FINISHED")            
