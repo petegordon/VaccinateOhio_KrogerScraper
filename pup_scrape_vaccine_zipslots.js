@@ -195,9 +195,7 @@ myEmitter.on('foundStores', async (zip, stores, page) => {
         
         console.log("Current Working Directory...")
         console.log(process.cwd())
-        console.log("Git pull...")
-        await git.pull()
-        console.log("Git pull...FINISHED")
+
 
         /* Delete older file(s) for this zip code */
         let files = fs.readdirSync(storesDir)
@@ -212,12 +210,32 @@ myEmitter.on('foundStores', async (zip, stores, page) => {
         console.log("ZIP PROCESS START:"+zip+":"+zipStartTime)
         console.log("ZIP PROCESS END:"+zip+":"+new Date())  
 
+
         /* Make change to git and push */
-        console.log('Git add, commit, push...')
-        await git.add('.')
-        await git.commit('Processed ZipCode:'+zip)
-        await git.push()
-        console.log('Git add, commit, push...FINISHED')
+        try{
+            console.log("Git pull...")
+            await git.pull()
+            console.log("Git pull...FINISHED")            
+            /* Make change to git and push */
+            console.log('Git add, commit, push...')
+            await git.add('.')
+            await git.commit('Sent Processed Zip Code:'+zip)
+            await git.push()
+            console.log('Git add, commit, push...FINISHED')                            
+        } catch (ex) {
+            console.log("Try again... wait 1000")
+            await delay(1000)
+            console.log("Git pull...")
+            await git.pull()
+            console.log("Git pull...FINISHED")            
+            /* Make change to git and push */
+            console.log('Git add, commit, push...')
+            await git.add('.')
+            await git.commit('Sent Processed Zip Code:'+zip)
+            await git.push()
+            console.log('Git add, commit, push...FINISHED')                            
+        } 
+
 
         let currentTime = new Date()
         if(currentTime.getTime() > (awsUploadTime.getTime()+(1000*60*30))){
@@ -393,6 +411,31 @@ function reformatZipCodeDataIntoLocationAvailability(dir, awsUpload = true){
     let current_time = new Date().getTime();
     let filename = 'kroger_availability_'+current_time+'.json'
     fs.writeFileSync(filename, JSON.stringify(storeAvailability))
+
+        /* Make change to git and push */
+        try{
+            console.log("Git pull...")
+            await git.pull()
+            console.log("Git pull...FINISHED")            
+            /* Make change to git and push */
+            console.log('Git add, commit, push...')
+            await git.add('.')
+            await git.commit('Prepare File for S3')
+            await git.push()
+            console.log('Git add, commit, push...FINISHED')                            
+        } catch (ex) {
+            console.log("Try again... wait 1000")
+            await delay(1000)
+            console.log("Git pull...")
+            await git.pull()
+            console.log("Git pull...FINISHED")            
+            /* Make change to git and push */
+            console.log('Git add, commit, push...')
+            await git.add('.')
+            await git.commit('Prepare File for S3')
+            await git.push()
+            console.log('Git add, commit, push...FINISHED')                            
+        } 
 
     /* Upload availability file to AWS S3 BUCKET */
     if(awsUpload){
