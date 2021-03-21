@@ -151,15 +151,29 @@ myEmitter.on('searchStoreAvailability', async (store, page) => {
 
             fs.writeFileSync(storesVaccineDir+'riteaid_store_slots_availability_'+new Date().getTime()+'_'+storeNumber+'.json', JSON.stringify(json, null, 2))
 
-            console.log("Git pull...")
-            await git.pull()
-            console.log("Git pull...FINISHED")            
-            /* Make change to git and push */
-            console.log('Git add, commit, push...')
-            await git.add('.')
-            await git.commit('Processed Availability for Store:'+storeNumber)
-            await git.push()
-            console.log('Git add, commit, push...FINISHED')            
+            try{
+                console.log("Git pull...")
+                await git.pull()
+                console.log("Git pull...FINISHED")            
+                /* Make change to git and push */
+                console.log('Git add, commit, push...')
+                await git.add('.')
+                await git.commit('Sent Availability for Store:'+storeNumber)
+                await git.push()
+                console.log('Git add, commit, push...FINISHED')                            
+            } catch (ex) {
+                console.log("Try again... wait 1000")
+                await delay(1000)
+                console.log("Git pull...")
+                await git.pull()
+                console.log("Git pull...FINISHED")            
+                /* Make change to git and push */
+                console.log('Git add, commit, push...')
+                await git.add('.')
+                await git.commit('Sent Availability for Store:'+storeNumber)
+                await git.push()
+                console.log('Git add, commit, push...FINISHED')                            
+            }                      
 
         }
        
@@ -236,15 +250,29 @@ myEmitter.on('searchStoreAvailability', async (store, page) => {
 
                 fs.writeFileSync(storesVaccineDir+'riteaid_store_slots_availability_'+new Date().getTime()+'_'+storeNumber+'.json', JSON.stringify(empty_slots, null, 2))
 
-                console.log("Git pull...")
-                await git.pull()
-                console.log("Git pull...FINISHED")            
-                /* Make change to git and push */
-                console.log('Git add, commit, push...')
-                await git.add('.')
-                await git.commit('Sent Empty Availability for Store:'+storeNumber)
-                await git.push()
-                console.log('Git add, commit, push...FINISHED')                            
+                try{
+                    console.log("Git pull...")
+                    await git.pull()
+                    console.log("Git pull...FINISHED")            
+                    /* Make change to git and push */
+                    console.log('Git add, commit, push...')
+                    await git.add('.')
+                    await git.commit('Sent Empty Availability for Store:'+storeNumber)
+                    await git.push()
+                    console.log('Git add, commit, push...FINISHED')                            
+                } catch (ex) {
+                    console.log("Try again... wait 1000")
+                    await delay(1000)
+                    console.log("Git pull...")
+                    await git.pull()
+                    console.log("Git pull...FINISHED")            
+                    /* Make change to git and push */
+                    console.log('Git add, commit, push...')
+                    await git.add('.')
+                    await git.commit('Sent Empty Availability for Store:'+storeNumber)
+                    await git.push()
+                    console.log('Git add, commit, push...FINISHED')                            
+                }
 
 
                 delay(2000)               
@@ -518,6 +546,31 @@ function reformatStoreDataIntoLocationAvailability(dir, awsUpload = true){
     let current_time = new Date().getTime();
     let filename = 'riteaid_availability_'+current_time+'.json'
     fs.writeFileSync(filename, JSON.stringify(storesAllAvailability))
+
+
+    try{
+        console.log("Git pull...")
+        await git.pull()
+        console.log("Git pull...FINISHED")            
+        /* Make change to git and push */
+        console.log('Git add, commit, push...')
+        await git.add('.')
+        await git.commit('Sent Full Availablity for S3 for Store:')
+        await git.push()
+        console.log('Git add, commit, push...FINISHED')                            
+    } catch (ex) {
+        console.log("Try again... wait 1000")
+        await delay(1000)
+        console.log("Git pull...")
+        await git.pull()
+        console.log("Git pull...FINISHED")            
+        /* Make change to git and push */
+        console.log('Git add, commit, push...')
+        await git.add('.')
+        await git.commit('Sent Full Availablity for S3 for Store:')
+        await git.push()
+        console.log('Git add, commit, push...FINISHED')                            
+    }         
 
     /* Upload availability file to AWS S3 BUCKET */
     if(awsUpload){
