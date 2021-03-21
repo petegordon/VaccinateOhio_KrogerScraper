@@ -101,11 +101,11 @@ myEmitter.on('processStores', async () => {
 myEmitter.on('searchStoreAvailability', async (store, page) => {
     storeStartTime = new Date()
     storesToProcess = storesToProcess.slice(1)
-//    console.log(store)
-let storeNumber = store.storeNumber
-console.log(storeNumber)
-let zip = store.zipcode
-console.log(zip)
+    //    console.log(store)
+    let storeNumber = store.storeNumber
+    console.log(storeNumber)
+    let zip = store.zipcode
+    console.log(zip)
 
 
     await page.on('response', async (response) => { 
@@ -395,7 +395,7 @@ let browser;
 
     // add this handler before emitting any events
     
-    /*
+    
     process.on('uncaughtException', async function (err) {
         console.log('UNCAUGHT EXCEPTION - keeping process alive:', err); // err.message is "foobar"
         if(exceptionAttempts == 0){
@@ -408,7 +408,7 @@ let browser;
         }
         exceptionAttempts++
     });
-    */
+    
     
 
     myEmitter.emit('processStores');
