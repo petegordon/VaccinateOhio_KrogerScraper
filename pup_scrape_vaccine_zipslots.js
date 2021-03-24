@@ -48,7 +48,7 @@ myEmitter.on('processZipCodes', async () => {
         console.log(zipProcessed)
         zipcodesToReprocess = storesProcessed.filter((f) => {         
             time = parseInt(f.split('_')[1])
-            return (time <= (new Date().getTime() - (1000 * 60 * 60 * 8)))
+            return (time <= (new Date().getTime() - (1000 * 60 * 60 * 7)))
         })   
         
         zipcodesToReprocess = zipcodesToReprocess.map((f) => {
