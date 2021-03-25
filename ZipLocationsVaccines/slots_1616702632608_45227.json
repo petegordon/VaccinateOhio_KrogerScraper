@@ -938,117 +938,6 @@
     ]
   },
   {
-    "loc_id": 914,
-    "loc_no": "01400423",
-    "facilityDetails": {
-      "facilityId": "01400423",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "I-471 Memorial Pkwy Carothers Rd",
-      "address": {
-        "address1": "130 Pavilion Pkwy",
-        "address2": "",
-        "city": "Newport",
-        "state": "KY",
-        "zipCode": "41071"
-      },
-      "distance": 6.563460504389163,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "859",
-        "phoneNumber": "2925680",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "08:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "08:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "08:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "08:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "08:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "09:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER"
-    },
-    "dates": [
-      {
-        "date": "2021-03-25",
-        "slots": []
-      },
-      {
-        "date": "2021-03-26",
-        "slots": []
-      },
-      {
-        "date": "2021-03-27",
-        "slots": []
-      },
-      {
-        "date": "2021-03-28",
-        "slots": []
-      },
-      {
-        "date": "2021-03-29",
-        "slots": []
-      },
-      {
-        "date": "2021-03-30",
-        "slots": []
-      },
-      {
-        "date": "2021-03-31",
-        "slots": []
-      },
-      {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
-        "date": "2021-04-02",
-        "slots": []
-      },
-      {
-        "date": "2021-04-03",
-        "slots": []
-      },
-      {
-        "date": "2021-04-04",
-        "slots": []
-      },
-      {
-        "date": "2021-04-05",
-        "slots": []
-      },
-      {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      }
-    ]
-  },
-  {
     "loc_id": 924,
     "loc_no": "01400438",
     "facilityDetails": {
@@ -1491,6 +1380,50 @@
         "slots": []
       }
     ]
+  },
+  {
+    "loc_id": 3335,
+    "loc_no": "85000850",
+    "facilityDetails": {
+      "facilityId": "85000850",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "xLandings Clinic Site",
+      "address": {
+        "address1": "9997 Carver Rd",
+        "address2": "",
+        "city": "Blue Ash",
+        "state": "OH",
+        "zipCode": "45242"
+      },
+      "distance": 6.066127897226359,
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "",
+        "sundayOpen": "",
+        "sundayHours": "",
+        "mondayClose": "",
+        "mondayOpen": "",
+        "mondayHours": "",
+        "tuesdayClose": "",
+        "tuesdayOpen": "",
+        "tuesdayHours": "",
+        "wednesdayClose": "",
+        "wednesdayOpen": "",
+        "wednesdayHours": "",
+        "thursdayClose": "",
+        "thursdayOpen": "",
+        "thursdayHours": "",
+        "fridayClose": "",
+        "fridayOpen": "",
+        "fridayHours": "",
+        "saturdayClose": "",
+        "saturdayOpen": "",
+        "saturdayHours": ""
+      },
+      "brand": "COVID"
+    },
+    "dates": []
   },
   {
     "loc_id": 3315,
