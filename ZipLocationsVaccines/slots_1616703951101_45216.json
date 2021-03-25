@@ -354,11 +354,49 @@
       },
       {
         "date": "2021-04-02",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:15:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-04-03",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "09:15:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "09:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "09:45:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-04-04",
@@ -1382,115 +1420,48 @@
     ]
   },
   {
-    "loc_id": 972,
-    "loc_no": "01400943",
+    "loc_id": 3335,
+    "loc_no": "85000850",
     "facilityDetails": {
-      "facilityId": "01400943",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Forest Park",
+      "facilityId": "85000850",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "xLandings Clinic Site",
       "address": {
-        "address1": "1212 W Kemper Rd",
+        "address1": "9997 Carver Rd",
         "address2": "",
-        "city": "Cincinnati",
+        "city": "Blue Ash",
         "state": "OH",
-        "zipCode": "45240"
+        "zipCode": "45242"
       },
-      "distance": 7.0011122898325935,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "513",
-        "phoneNumber": "7422000",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
+      "distance": 5.901150203218555,
+      "onlinePaymentsEnabled": false,
       "onlineOrderingEnabled": false,
       "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "11:00",
+        "sundayClose": "",
+        "sundayOpen": "",
         "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
+        "mondayClose": "",
+        "mondayOpen": "",
         "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
+        "tuesdayClose": "",
+        "tuesdayOpen": "",
         "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
+        "wednesdayClose": "",
+        "wednesdayOpen": "",
         "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
+        "thursdayClose": "",
+        "thursdayOpen": "",
         "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
+        "fridayClose": "",
+        "fridayOpen": "",
         "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
+        "saturdayClose": "",
+        "saturdayOpen": "",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "COVID"
     },
-    "dates": [
-      {
-        "date": "2021-03-25",
-        "slots": []
-      },
-      {
-        "date": "2021-03-26",
-        "slots": []
-      },
-      {
-        "date": "2021-03-27",
-        "slots": []
-      },
-      {
-        "date": "2021-03-28",
-        "slots": []
-      },
-      {
-        "date": "2021-03-29",
-        "slots": []
-      },
-      {
-        "date": "2021-03-30",
-        "slots": []
-      },
-      {
-        "date": "2021-03-31",
-        "slots": []
-      },
-      {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
-        "date": "2021-04-02",
-        "slots": []
-      },
-      {
-        "date": "2021-04-03",
-        "slots": []
-      },
-      {
-        "date": "2021-04-04",
-        "slots": []
-      },
-      {
-        "date": "2021-04-05",
-        "slots": []
-      },
-      {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      }
-    ]
+    "dates": []
   },
   {
     "loc_id": 3315,
