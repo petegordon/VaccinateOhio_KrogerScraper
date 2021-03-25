@@ -54,7 +54,17 @@
       },
       {
         "date": "2021-03-26",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:15:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-03-27",
@@ -1552,5 +1562,49 @@
         "slots": []
       }
     ]
+  },
+  {
+    "loc_id": 3335,
+    "loc_no": "85000850",
+    "facilityDetails": {
+      "facilityId": "85000850",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "xLandings Clinic Site",
+      "address": {
+        "address1": "9997 Carver Rd",
+        "address2": "",
+        "city": "Blue Ash",
+        "state": "OH",
+        "zipCode": "45242"
+      },
+      "distance": 6.768194620532076,
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "",
+        "sundayOpen": "",
+        "sundayHours": "",
+        "mondayClose": "",
+        "mondayOpen": "",
+        "mondayHours": "",
+        "tuesdayClose": "",
+        "tuesdayOpen": "",
+        "tuesdayHours": "",
+        "wednesdayClose": "",
+        "wednesdayOpen": "",
+        "wednesdayHours": "",
+        "thursdayClose": "",
+        "thursdayOpen": "",
+        "thursdayHours": "",
+        "fridayClose": "",
+        "fridayOpen": "",
+        "fridayHours": "",
+        "saturdayClose": "",
+        "saturdayOpen": "",
+        "saturdayHours": ""
+      },
+      "brand": "COVID"
+    },
+    "dates": []
   }
 ]
