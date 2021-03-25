@@ -13,7 +13,7 @@
         "state": "OH",
         "zipCode": "43055"
       },
-      "distance": 8.990847602776439,
+      "distance": 9.249485799455183,
       "phone": {
         "countryCode": "",
         "areaCode": "740",
@@ -54,7 +54,26 @@
       },
       {
         "date": "2021-03-26",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "13:15:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-03-27",
@@ -124,7 +143,7 @@
         "state": "OH",
         "zipCode": "43068"
       },
-      "distance": 17.281819867067366,
+      "distance": 17.200582477097427,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -235,7 +254,7 @@
         "state": "OH",
         "zipCode": "43130"
       },
-      "distance": 17.176296011550704,
+      "distance": 16.91708848874982,
       "phone": {
         "countryCode": "",
         "areaCode": "740",
@@ -346,7 +365,7 @@
         "state": "OH",
         "zipCode": "43110"
       },
-      "distance": 17.65791194536858,
+      "distance": 17.53217550064857,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -457,7 +476,7 @@
         "state": "OH",
         "zipCode": "43147"
       },
-      "distance": 13.193538171458345,
+      "distance": 13.049196644869268,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -568,7 +587,7 @@
         "state": "OH",
         "zipCode": "43147"
       },
-      "distance": 15.452708230362509,
+      "distance": 15.318689516943708,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -679,7 +698,7 @@
         "state": "OH",
         "zipCode": "43068"
       },
-      "distance": 14.665404203160442,
+      "distance": 14.584883176284757,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -790,7 +809,7 @@
         "state": "OH",
         "zipCode": "43031"
       },
-      "distance": 17.03760676329358,
+      "distance": 17.17499222699007,
       "phone": {
         "countryCode": "",
         "areaCode": "740",
@@ -901,7 +920,7 @@
         "state": "OH",
         "zipCode": "43062"
       },
-      "distance": 9.422466882113746,
+      "distance": 9.435195718467064,
       "phone": {
         "countryCode": "",
         "areaCode": "740",
@@ -1012,7 +1031,7 @@
         "state": "OH",
         "zipCode": "43025"
       },
-      "distance": 1.0832753881295016,
+      "distance": 1.172850564550684,
       "phone": {
         "countryCode": "",
         "areaCode": "740",
@@ -1123,7 +1142,7 @@
         "state": "OH",
         "zipCode": "43130"
       },
-      "distance": 17.346049355328855,
+      "distance": 17.08660398678824,
       "phone": {
         "countryCode": "",
         "areaCode": "740",
@@ -1234,7 +1253,7 @@
         "state": "OH",
         "zipCode": "43110"
       },
-      "distance": 19.205947714067236,
+      "distance": 19.04118442886529,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -1345,7 +1364,7 @@
         "state": "OH",
         "zipCode": "43213"
       },
-      "distance": 17.025135879741665,
+      "distance": 16.973149208689875,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -1456,7 +1475,7 @@
         "state": "OH",
         "zipCode": "43056"
       },
-      "distance": 5.2395566324339615,
+      "distance": 5.49252873038801,
       "phone": {
         "countryCode": "",
         "areaCode": "740",
@@ -1567,7 +1586,7 @@
         "state": "OH",
         "zipCode": "43130"
       },
-      "distance": 17.46816183699309,
+      "distance": 17.208656249678697,
       "phone": {
         "countryCode": "",
         "areaCode": "740",
