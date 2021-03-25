@@ -13,7 +13,7 @@
         "state": "OH",
         "zipCode": "43085"
       },
-      "distance": 5.473109801791995,
+      "distance": 5.504535910234598,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -124,7 +124,7 @@
         "state": "OH",
         "zipCode": "43230"
       },
-      "distance": 7.080524536798714,
+      "distance": 7.043992539505309,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -235,7 +235,7 @@
         "state": "OH",
         "zipCode": "43229"
       },
-      "distance": 4.576419598818531,
+      "distance": 4.57758660076124,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -346,7 +346,7 @@
         "state": "OH",
         "zipCode": "43035"
       },
-      "distance": 8.913125044410393,
+      "distance": 8.953774817027558,
       "phone": {
         "countryCode": "",
         "areaCode": "740",
@@ -457,7 +457,7 @@
         "state": "OH",
         "zipCode": "43235"
       },
-      "distance": 8.889358853832377,
+      "distance": 8.909735331616657,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -568,7 +568,7 @@
         "state": "OH",
         "zipCode": "43214"
       },
-      "distance": 6.521173669975416,
+      "distance": 6.536750747950232,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -679,7 +679,7 @@
         "state": "OH",
         "zipCode": "43240"
       },
-      "distance": 4.614458417238781,
+      "distance": 4.654510608690696,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -736,134 +736,7 @@
       },
       {
         "date": "2021-03-30",
-        "slots": [
-          {
-            "start_time": "09:00:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "09:15:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "09:30:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "09:45:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:15:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:30:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:45:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-03-31",
@@ -917,7 +790,7 @@
         "state": "OH",
         "zipCode": "43082"
       },
-      "distance": 2.96068813609416,
+      "distance": 2.991396265357817,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -1028,7 +901,7 @@
         "state": "OH",
         "zipCode": "43230"
       },
-      "distance": 4.4068756845349135,
+      "distance": 4.367230571008664,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -1139,7 +1012,7 @@
         "state": "OH",
         "zipCode": "43085"
       },
-      "distance": 3.6129568001585115,
+      "distance": 3.650366344339624,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -1250,7 +1123,7 @@
         "state": "OH",
         "zipCode": "43054"
       },
-      "distance": 4.837442884086643,
+      "distance": 4.800831917500312,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -1361,7 +1234,7 @@
         "state": "OH",
         "zipCode": "43081"
       },
-      "distance": 0.7101765865192233,
+      "distance": 0.7440388531382462,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -1472,7 +1345,7 @@
         "state": "OH",
         "zipCode": "43081"
       },
-      "distance": 1.795829670821678,
+      "distance": 1.7570698519281902,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -1583,7 +1456,7 @@
         "state": "OH",
         "zipCode": "43214"
       },
-      "distance": 7.535353661683913,
+      "distance": 7.539042202789991,
       "phone": {
         "countryCode": "",
         "areaCode": "614",
@@ -1694,7 +1567,7 @@
         "state": "OH",
         "zipCode": "43210"
       },
-      "distance": 8.954882562893316,
+      "distance": 8.952640166442311,
       "onlinePaymentsEnabled": false,
       "onlineOrderingEnabled": false,
       "pharmacyHours": {
