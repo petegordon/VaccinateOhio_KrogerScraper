@@ -238,7 +238,7 @@ myEmitter.on('foundStores', async (zip, stores, page) => {
 
 
         let currentTime = new Date()
-        if(currentTime.getTime() > (awsUploadTime.getTime()+(1000*60*30))){
+        if(currentTime.getTime() > (awsUploadTime.getTime()+(1000*60*10))){
             await reformatZipCodeDataIntoLocationAvailability(storesDir)
             awsUploadTime = currentTime
         }
