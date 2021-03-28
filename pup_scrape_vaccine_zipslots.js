@@ -191,7 +191,6 @@ try{
 });
 myEmitter.on('foundStores', async (zip, stores, page) => {
     console.log(new Date()+'::Start foundStores Event')
-    try{
         
         console.log("Current Working Directory...")
         console.log(process.cwd())
@@ -248,10 +247,6 @@ myEmitter.on('foundStores', async (zip, stores, page) => {
         myEmitter.emit('processZipCodes');
 
         console.log(new Date()+'::End foundStores Event')
-    }catch(ex){
-        console.log(ex)
-        console.log("Error in processZipcode Event")
-    }
 });
 
 try{
@@ -264,7 +259,6 @@ try{
     console.log("Browser based exception")
 }
 (async () => {
-    try{
 
     
     console.log('zip codes:'+JSON.stringify(zipParam))
@@ -287,12 +281,22 @@ try{
         exceptionAttempts++
     });
 
+
+    process.on('unhandledRejection', async function(err, promise) {
+        console.error('Unhandled rejection (promise: ', promise, ', reason: ', err, ').');
+        console.log('UNCAUGHT EXCEPTION - keeping process alive:', err); // err.message is "foobar"
+        if(exceptionAttempts == 0){
+            console.log('delay for two minutes... and then try again... ')
+            await delay(120000)
+            myEmitter.emit('processZipCodes');    
+        } else {
+            console.log("Hit an unhandledRejection exception twice!!! And, sending an SMS....")
+            sendSMS("KROGER Hit an Promise Rejection Twice!!!!")
+        }
+        exceptionAttempts++        
+    });        
+
     myEmitter.emit('processZipCodes');
-}catch(ex){
-    console.log("Async based exception")
-    console.log(ex)
-    console.log("Async based exception")
-}
 
 })();
 
