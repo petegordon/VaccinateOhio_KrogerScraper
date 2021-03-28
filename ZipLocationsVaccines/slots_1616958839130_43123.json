@@ -752,16 +752,11 @@
       },
       {
         "date": "2021-04-06",
+        "slots": []
+      },
+      {
+        "date": "2021-04-07",
         "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
           {
             "start_time": "08:15:00",
             "duration": 10,
@@ -790,10 +785,6 @@
             "follow_up_days_after": 28
           }
         ]
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
       },
       {
         "date": "2021-04-08",
