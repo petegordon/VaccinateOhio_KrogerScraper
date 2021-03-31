@@ -33,7 +33,6 @@ class ScrapeEmitter extends EventEmitter {}
 const myEmitter = new ScrapeEmitter();
 myEmitter.on('processZipCodes', async () => {
     console.log(new Date()+'::Start processZipCode Event')
-    try{
 
         zipParam = JSON.parse(fs.readFileSync('kroger_zipcodes.json'))
         //zipParam = zipParam.slice(0,10)
@@ -88,10 +87,6 @@ myEmitter.on('processZipCodes', async () => {
         }
         console.log(new Date()+'::End processZipCode Event')
 
-    }catch(ex){
-        console.log(ex)
-        console.log("Error in processZipcode Event")
-    }
 })
 myEmitter.on('searchStores', async (zip, page) => {
 
