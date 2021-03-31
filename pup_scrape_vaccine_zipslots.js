@@ -169,12 +169,21 @@ try{
         })
         console.log(securityCheck)   
         if(securityCheck){
-            console.log("prompted with captcha security; will try again in 15 minutes.")
-            await delay(900000)
-            await page.goto('https://www.kroger.com/',{waitUntil: 'networkidle0'})
-            await delay(2000)
-            await page.close()
-            myEmitter.emit('processZipCodes');
+            exceptionAttempts++    
+            if(exceptionAttempts > 2){
+                console.log("Hist exception twice, in security check!!!")
+                sendSMS("KROGER Hit an Security Check three times!!!!")                
+            } else {
+                console.log("prompted with captcha security; will try again in 15 minutes.")
+                await delay(900000)
+                await page.goto('https://www.kroger.com/',{waitUntil: 'networkidle0'})
+                await delay(2000)
+                await page.close()                
+                myEmitter.emit('processZipCodes');
+            }
+
+
+            
         }
 
         console.log(new Date()+'::End searchStores Event')
