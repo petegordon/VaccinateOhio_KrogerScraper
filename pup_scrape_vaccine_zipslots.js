@@ -90,7 +90,9 @@ myEmitter.on('processZipCodes', async () => {
 })
 myEmitter.on('searchStores', async (zip, page) => {
 
-    console.log(new Date()+'::Start searchStores Event')
+    startSearchStores = new Date()
+    endSearchStores = startSearchStores
+    console.log(startSearchStores+'::Start searchStores Event')
 try{
 
     zipStartTime = new Date()
@@ -180,8 +182,11 @@ try{
 
             
         }
-
-        console.log(new Date()+'::End searchStores Event')
+        endSearchStores = new Date()
+        if(endSearchStores.getTime()-startSearchestStores.getTime() > 33000){
+            console.log("ERROR:::Likely Failed getting request data")
+        }
+        console.log(endSearchStores+'::End searchStores Event')
     }catch(ex){
         console.log(ex)        
         console.log('caught exception... close page and try processZipCodes again... ')
@@ -267,7 +272,7 @@ try{
     
     console.log('zip codes:'+JSON.stringify(zipParam))
     
-    browser = await puppeteer.launch({headless:false, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
+    browser = await puppeteer.launch({headless:true, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
     processing = false
     processedCount = 0
 
