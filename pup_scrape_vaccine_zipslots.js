@@ -136,7 +136,8 @@ try{
             console.log("NOT 200 ERROR END:"+new Date())      
             console.log("will try again in 5 minutes....")
             await delay(300000)
-            await page.close()
+            if(!page.isClosed())
+                await page.close()
             myEmitter.emit('processZipCodes');     
         }
 
@@ -180,7 +181,8 @@ try{
                 await delay(900000)
                 await page.goto('https://www.kroger.com/',{waitUntil: 'networkidle0'})
                 await delay(2000)
-                await page.close()                
+                if(!page.isClosed())
+                    await page.close()            
                 myEmitter.emit('processZipCodes');
             }
 
@@ -196,7 +198,8 @@ try{
         console.log(ex)        
         console.log('caught exception... close page and try processZipCodes again... ')
         await delay(2000)        
-        await page.close()
+        if(!page.isClosed())
+            await page.close()            
         myEmitter.emit('processZipCodes');
         
     }
@@ -257,7 +260,8 @@ myEmitter.on('foundStores', async (zip, stores, page) => {
         }
 
         await delay(120000)        
-        await page.close()
+        if(!page.isClosed())
+            await page.close()            
         myEmitter.emit('processZipCodes');
 
         console.log(new Date()+'::End foundStores Event')
