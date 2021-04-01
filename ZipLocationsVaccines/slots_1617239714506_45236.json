@@ -1089,26 +1089,7 @@
       },
       {
         "date": "2021-04-10",
-        "slots": [
-          {
-            "start_time": "09:15:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "09:45:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-04-11",
@@ -1462,20 +1443,20 @@
     ]
   },
   {
-    "loc_id": 3335,
-    "loc_no": "85000850",
+    "loc_id": 3315,
+    "loc_no": "85000904",
     "facilityDetails": {
-      "facilityId": "85000850",
+      "facilityId": "85000904",
       "legalName": "The Little Clinic, LLC",
-      "vanityName": "xLandings Clinic Site",
+      "vanityName": "Cintas Center - Johnson and Johnson Single Dose Vaccine",
       "address": {
-        "address1": "9997 Carver Rd",
+        "address1": "1624 Herald Ave",
         "address2": "",
-        "city": "Blue Ash",
+        "city": "Cincinnati",
         "state": "OH",
-        "zipCode": "45242"
+        "zipCode": "45207"
       },
-      "distance": 2.5495960497342742,
+      "distance": 5.767680361896784,
       "onlinePaymentsEnabled": false,
       "onlineOrderingEnabled": false,
       "pharmacyHours": {
@@ -1567,20 +1548,20 @@
     ]
   },
   {
-    "loc_id": 3315,
-    "loc_no": "85000904",
+    "loc_id": 3335,
+    "loc_no": "85000850",
     "facilityDetails": {
-      "facilityId": "85000904",
+      "facilityId": "85000850",
       "legalName": "The Little Clinic, LLC",
-      "vanityName": "Cintas Center - Johnson and Johnson Single Dose Vaccine",
+      "vanityName": "xLandings Clinic Site",
       "address": {
-        "address1": "1624 Herald Ave",
+        "address1": "9997 Carver Rd",
         "address2": "",
-        "city": "Cincinnati",
+        "city": "Blue Ash",
         "state": "OH",
-        "zipCode": "45207"
+        "zipCode": "45242"
       },
-      "distance": 5.767680361896784,
+      "distance": 2.5495960497342742,
       "onlinePaymentsEnabled": false,
       "onlineOrderingEnabled": false,
       "pharmacyHours": {
