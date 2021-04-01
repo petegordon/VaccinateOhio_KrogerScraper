@@ -102,6 +102,7 @@ try{
 
     await page.on('response', async (response) => { 
 
+        console.log(response.status()+"::"+response.url())
         if (response.url().endsWith(zip) && response.status() == 200){
             console.log(response.url())
             console.log(response.status())      
@@ -164,7 +165,8 @@ try{
             }   
             return val != "none"
         })
-        console.log(securityCheck)   
+        console.log(securityCheck)  
+        await delay(5000) 
         if(securityCheck){
             exceptionAttempts++    
             if(exceptionAttempts > 2){
@@ -183,7 +185,7 @@ try{
             
         }
         endSearchStores = new Date()
-        if(endSearchStores.getTime()-startSearchestStores.getTime() > 33000){
+        if(endSearchStores.getTime()-startSearchStores.getTime() > 33000){
             console.log("ERROR:::Likely Failed getting request data")
         }
         console.log(endSearchStores+'::End searchStores Event')
@@ -272,7 +274,7 @@ try{
     
     console.log('zip codes:'+JSON.stringify(zipParam))
     
-    browser = await puppeteer.launch({headless:true, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
+    browser = await puppeteer.launch({headless:false, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
     processing = false
     processedCount = 0
 
