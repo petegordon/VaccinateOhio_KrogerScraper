@@ -104,7 +104,7 @@ try{
 
     await page.on('response', async (response) => { 
 
-        console.log(response.status()+"::"+response.url())
+//        console.log(response.status()+"::"+response.url())
         if ((response.url().endsWith(zip) || response.url().indexOf('timeslots/list?stores') > 0 && !gotResponse) && response.status() == 200){
             gotResponse = true
             console.log(response.url())
