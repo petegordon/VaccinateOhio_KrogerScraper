@@ -100,10 +100,13 @@ try{
 
     console.log(zip)
 
+    gotResponse = false
+
     await page.on('response', async (response) => { 
 
         console.log(response.status()+"::"+response.url())
-        if (response.url().endsWith(zip) && response.status() == 200){
+        if ((response.url().endsWith(zip) || response.url().indexOf('timeslots/list?stores') > 0 && !gotResponse) && response.status() == 200){
+            gotResponse = true
             console.log(response.url())
             console.log(response.status())      
             json = await response.json()
@@ -274,7 +277,7 @@ try{
     
     console.log('zip codes:'+JSON.stringify(zipParam))
     
-    browser = await puppeteer.launch({headless:false, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
+    browser = await puppeteer.launch({headless:true, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
     processing = false
     processedCount = 0
 
