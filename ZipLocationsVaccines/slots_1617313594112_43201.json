@@ -45,7 +45,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -156,7 +158,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -267,7 +271,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -378,7 +384,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -489,7 +497,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -600,229 +610,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
-    },
-    "dates": [
-      {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
-        "date": "2021-04-02",
-        "slots": []
-      },
-      {
-        "date": "2021-04-03",
-        "slots": []
-      },
-      {
-        "date": "2021-04-04",
-        "slots": []
-      },
-      {
-        "date": "2021-04-05",
-        "slots": []
-      },
-      {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 1044,
-    "loc_no": "01600806",
-    "facilityDetails": {
-      "facilityId": "01600806",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Great Eastern",
-      "address": {
-        "address1": "850 S Hamilton Rd",
-        "address2": "",
-        "city": "Whitehall",
-        "state": "OH",
-        "zipCode": "43213"
-      },
-      "distance": 7.239395152766729,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "614",
-        "phoneNumber": "7592746",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "19:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER"
-    },
-    "dates": [
-      {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
-        "date": "2021-04-02",
-        "slots": []
-      },
-      {
-        "date": "2021-04-03",
-        "slots": []
-      },
-      {
-        "date": "2021-04-04",
-        "slots": []
-      },
-      {
-        "date": "2021-04-05",
-        "slots": []
-      },
-      {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 1050,
-    "loc_no": "01600818",
-    "facilityDetails": {
-      "facilityId": "01600818",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Crown Plaza",
-      "address": {
-        "address1": "2090 Crown Plaza Dr.",
-        "address2": "",
-        "city": "Columbus",
-        "state": "OH",
-        "zipCode": "43235"
-      },
-      "distance": 6.125547551881905,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "614",
-        "phoneNumber": "3265650",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "10:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "10:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "10:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "10:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "10:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -933,7 +723,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1044,12 +836,24 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
         "date": "2021-04-01",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "18:45:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-04-02",
@@ -1155,7 +959,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1266,7 +1072,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1377,7 +1185,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1488,7 +1298,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1593,7 +1405,9 @@
         "saturdayOpen": "",
         "saturdayHours": ""
       },
-      "brand": "COVID"
+      "brand": "COVID",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1657,5 +1471,92 @@
         "slots": []
       }
     ]
+  },
+  {
+    "loc_id": 125,
+    "loc_no": "85400102",
+    "facilityDetails": {
+      "facilityId": "85400102",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "819 Graceland Clinic",
+      "address": {
+        "address1": "199 Graceland Blvd",
+        "address2": "",
+        "city": "Columbus",
+        "state": "OH",
+        "zipCode": "43214"
+      },
+      "distance": 4.999422070266023,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "614",
+        "phoneNumber": "4102814",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 138,
+    "loc_no": "85400121",
+    "facilityDetails": {
+      "facilityId": "85400121",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "328 Henderson Rd Clinic",
+      "address": {
+        "address1": "1955 Henderson Rd",
+        "address2": "",
+        "city": "Upper Arlington",
+        "state": "OH",
+        "zipCode": "43220"
+      },
+      "distance": 5.474079297704019,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "614",
+        "phoneNumber": "3407546",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 142,
+    "loc_no": "85400125",
+    "facilityDetails": {
+      "facilityId": "85400125",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "593 Kroger Northland Village Clinic",
+      "address": {
+        "address1": "1745 Morse Rd",
+        "address2": "",
+        "city": "Columbus",
+        "state": "OH",
+        "zipCode": "43229"
+      },
+      "distance": 4.701888634436009,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "614",
+        "phoneNumber": "4059415",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
   }
 ]
