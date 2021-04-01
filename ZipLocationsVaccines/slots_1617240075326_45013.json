@@ -666,24 +666,24 @@
     ]
   },
   {
-    "loc_id": 921,
-    "loc_no": "01400433",
+    "loc_id": 918,
+    "loc_no": "01400439",
     "facilityDetails": {
-      "facilityId": "01400433",
+      "facilityId": "01400439",
       "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Woodlawn",
+      "vanityName": "Kyles Station",
       "address": {
-        "address1": "10595 Springfield Pike",
+        "address1": "5250 Newtown Drive",
         "address2": "",
-        "city": "Cincinnati",
+        "city": "Liberty Township",
         "state": "OH",
-        "zipCode": "45215"
+        "zipCode": "45011"
       },
-      "distance": 12.632072185340194,
+      "distance": 8.168728250274194,
       "phone": {
         "countryCode": "",
         "areaCode": "513",
-        "phoneNumber": "7712970",
+        "phoneNumber": "8675420",
         "extension": ""
       },
       "onlinePaymentsEnabled": true,
@@ -777,24 +777,24 @@
     ]
   },
   {
-    "loc_id": 918,
-    "loc_no": "01400439",
+    "loc_id": 921,
+    "loc_no": "01400433",
     "facilityDetails": {
-      "facilityId": "01400439",
+      "facilityId": "01400433",
       "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Kyles Station",
+      "vanityName": "Woodlawn",
       "address": {
-        "address1": "5250 Newtown Drive",
+        "address1": "10595 Springfield Pike",
         "address2": "",
-        "city": "Liberty Township",
+        "city": "Cincinnati",
         "state": "OH",
-        "zipCode": "45011"
+        "zipCode": "45215"
       },
-      "distance": 8.168728250274194,
+      "distance": 12.632072185340194,
       "phone": {
         "countryCode": "",
         "areaCode": "513",
-        "phoneNumber": "8675420",
+        "phoneNumber": "7712970",
         "extension": ""
       },
       "onlinePaymentsEnabled": true,
