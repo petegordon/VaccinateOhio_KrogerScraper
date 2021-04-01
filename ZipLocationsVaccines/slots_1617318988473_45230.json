@@ -45,7 +45,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -156,7 +158,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -267,220 +271,11 @@
         "saturdayOpen": "09:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": []
-  },
-  {
-    "loc_id": 896,
-    "loc_no": "01400381",
-    "facilityDetails": {
-      "facilityId": "01400381",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "15th Madison",
-      "address": {
-        "address1": "1525 Madison Ave",
-        "address2": "",
-        "city": "Covington",
-        "state": "KY",
-        "zipCode": "41011"
-      },
-      "distance": 6.414566307652036,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "859",
-        "phoneNumber": "4315566",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "11:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "08:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "08:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "08:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "08:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "08:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "09:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER"
-    },
-    "dates": []
-  },
-  {
-    "loc_id": 907,
-    "loc_no": "01400410",
-    "facilityDetails": {
-      "facilityId": "01400410",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Cold Spring",
-      "address": {
-        "address1": "375 Crossroads Blvd",
-        "address2": "",
-        "city": "Cold Spring",
-        "state": "KY",
-        "zipCode": "41076"
-      },
-      "distance": 5.674507025861901,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "859",
-        "phoneNumber": "4481220",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "08:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "08:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "08:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "08:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "08:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "09:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER"
-    },
-    "dates": []
-  },
-  {
-    "loc_id": 911,
-    "loc_no": "01400418",
-    "facilityDetails": {
-      "facilityId": "01400418",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Montgomery Rd Norwood",
-      "address": {
-        "address1": "4500 Montgomery Rd",
-        "address2": "",
-        "city": "Cincinnati",
-        "state": "OH",
-        "zipCode": "45212"
-      },
-      "distance": 6.194854699130498,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "513",
-        "phoneNumber": "8416620",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "11:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER"
-    },
-    "dates": [
-      {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
-        "date": "2021-04-02",
-        "slots": []
-      },
-      {
-        "date": "2021-04-03",
-        "slots": []
-      },
-      {
-        "date": "2021-04-04",
-        "slots": []
-      },
-      {
-        "date": "2021-04-05",
-        "slots": []
-      },
-      {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      }
-    ]
   },
   {
     "loc_id": 913,
@@ -528,7 +323,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -639,7 +436,9 @@
         "saturdayOpen": "09:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -750,7 +549,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -861,7 +662,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -972,118 +775,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
-    },
-    "dates": [
-      {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
-        "date": "2021-04-02",
-        "slots": []
-      },
-      {
-        "date": "2021-04-03",
-        "slots": []
-      },
-      {
-        "date": "2021-04-04",
-        "slots": []
-      },
-      {
-        "date": "2021-04-05",
-        "slots": []
-      },
-      {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 955,
-    "loc_no": "01400902",
-    "facilityDetails": {
-      "facilityId": "01400902",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Eastgate",
-      "address": {
-        "address1": "4530 Eastgate Blvd #500",
-        "address2": "",
-        "city": "Cincinnati",
-        "state": "OH",
-        "zipCode": "45245"
-      },
-      "distance": 6.485959573286044,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "513",
-        "phoneNumber": "9436340",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "11:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1194,7 +888,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1305,25 +1001,33 @@
         "saturdayOpen": "09:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": []
   },
   {
-    "loc_id": 3315,
-    "loc_no": "85000904",
+    "loc_id": 3242,
+    "loc_no": "85000943",
     "facilityDetails": {
-      "facilityId": "85000904",
+      "facilityId": "85000943",
       "legalName": "The Little Clinic, LLC",
-      "vanityName": "Cintas Center - Johnson and Johnson Single Dose Vaccine",
+      "vanityName": "Nagel Middle School - LIMITED TO OH EDUCATORS",
       "address": {
-        "address1": "1624 Herald Ave",
+        "address1": "1500 Nagel Rd",
         "address2": "",
         "city": "Cincinnati",
         "state": "OH",
-        "zipCode": "45207"
+        "zipCode": "45255"
       },
-      "distance": 6.304461188128235,
+      "distance": 3.3018623267171856,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "877",
+        "phoneNumber": "8522677",
+        "extension": ""
+      },
       "onlinePaymentsEnabled": false,
       "onlineOrderingEnabled": false,
       "pharmacyHours": {
@@ -1349,69 +1053,184 @@
         "saturdayOpen": "",
         "saturdayHours": ""
       },
-      "brand": "COVID"
+      "brand": "COVID",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
-    "dates": [
-      {
-        "date": "2021-04-01",
-        "slots": []
+    "dates": []
+  },
+  {
+    "loc_id": 115,
+    "loc_no": "85300401",
+    "facilityDetails": {
+      "facilityId": "85300401",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "410 Cold Spring Clinic",
+      "address": {
+        "address1": "375 Crossroads Blvd",
+        "address2": "",
+        "city": "Cold Spring",
+        "state": "KY",
+        "zipCode": "41076"
       },
-      {
-        "date": "2021-04-02",
-        "slots": []
+      "distance": 5.674507025861901,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "859",
+        "phoneNumber": "4481201",
+        "extension": ""
       },
-      {
-        "date": "2021-04-03",
-        "slots": []
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 117,
+    "loc_no": "85300403",
+    "facilityDetails": {
+      "facilityId": "85300403",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "423 I-471 Memorial Pkwy Carothers Rd Clinic",
+      "address": {
+        "address1": "130 Pavilion Pkwy",
+        "address2": "",
+        "city": "Newport",
+        "state": "KY",
+        "zipCode": "41071"
       },
-      {
-        "date": "2021-04-04",
-        "slots": []
+      "distance": 4.748790356492316,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "859",
+        "phoneNumber": "6527203",
+        "extension": ""
       },
-      {
-        "date": "2021-04-05",
-        "slots": []
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 119,
+    "loc_no": "85300405",
+    "facilityDetails": {
+      "facilityId": "85300405",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "359 Bellevue Clinic",
+      "address": {
+        "address1": "53 Donnermeyer Dr",
+        "address2": "",
+        "city": "Bellevue",
+        "state": "KY",
+        "zipCode": "41073"
       },
-      {
-        "date": "2021-04-06",
-        "slots": []
+      "distance": 5.028773664368565,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "859",
+        "phoneNumber": "8157062",
+        "extension": ""
       },
-      {
-        "date": "2021-04-07",
-        "slots": []
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 152,
+    "loc_no": "85400303",
+    "facilityDetails": {
+      "facilityId": "85400303",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "355 Hyde Park Clinic",
+      "address": {
+        "address1": "3760 Paxton Ave",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45209"
       },
-      {
-        "date": "2021-04-08",
-        "slots": []
+      "distance": 4.665508873534262,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "4888077",
+        "extension": ""
       },
-      {
-        "date": "2021-04-09",
-        "slots": []
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 155,
+    "loc_no": "85400307",
+    "facilityDetails": {
+      "facilityId": "85400307",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "915 Anderson Township Clinic",
+      "address": {
+        "address1": "7580 Beechmont Ave",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45255"
       },
-      {
-        "date": "2021-04-10",
-        "slots": []
+      "distance": 2.3631264261520615,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "5786093",
+        "extension": ""
       },
-      {
-        "date": "2021-04-11",
-        "slots": []
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 170,
+    "loc_no": "85400325",
+    "facilityDetails": {
+      "facilityId": "85400325",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "465 Oakley, OH Marketplace Clinic",
+      "address": {
+        "address1": "4613 Marburg Ave",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45209"
       },
-      {
-        "date": "2021-04-12",
-        "slots": []
+      "distance": 5.572927460536661,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "7825060",
+        "extension": ""
       },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      }
-    ]
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
   }
 ]
