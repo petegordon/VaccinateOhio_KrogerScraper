@@ -281,7 +281,7 @@ try{
     
     console.log('zip codes:'+JSON.stringify(zipParam))
     
-    browser = await puppeteer.launch({headless:false, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
+    browser = await puppeteer.launch({headless:true, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
     processing = false
     processedCount = 0
 
