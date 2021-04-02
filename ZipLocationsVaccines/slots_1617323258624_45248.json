@@ -45,7 +45,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -156,7 +158,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -267,7 +271,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -378,7 +384,9 @@
         "saturdayOpen": "09:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": []
   },
@@ -428,7 +436,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -539,7 +549,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -650,7 +662,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -761,7 +775,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -827,56 +843,6 @@
     ]
   },
   {
-    "loc_id": 935,
-    "loc_no": "01400477",
-    "facilityDetails": {
-      "facilityId": "01400477",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Ft. Mitchell",
-      "address": {
-        "address1": "2150 Dixie Hwy",
-        "address2": "",
-        "city": "Fort Mitchell",
-        "state": "KY",
-        "zipCode": "41017"
-      },
-      "distance": 9.47560385396963,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "859",
-        "phoneNumber": "3310078",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "08:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "08:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "08:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "08:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "08:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "09:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER"
-    },
-    "dates": []
-  },
-  {
     "loc_id": 936,
     "loc_no": "01400482",
     "facilityDetails": {
@@ -922,7 +888,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1033,7 +1001,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1144,7 +1114,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1255,7 +1227,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1366,7 +1340,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1432,114 +1408,206 @@
     ]
   },
   {
-    "loc_id": 3213,
-    "loc_no": "85000958",
+    "loc_id": 121,
+    "loc_no": "85300407",
     "facilityDetails": {
-      "facilityId": "85000958",
+      "facilityId": "85300407",
       "legalName": "The Little Clinic, LLC",
-      "vanityName": "Northern KY Convention Center COVID VACCINE CLINIC - Prioritizing ages 60 plus",
+      "vanityName": "409 Hebron, KY Marketplace Clinic",
       "address": {
-        "address1": "1 W Rivercenter Blvd",
+        "address1": "3105 N Bend Rd",
         "address2": "",
-        "city": "Covington",
+        "city": "Hebron",
         "state": "KY",
-        "zipCode": "41011"
+        "zipCode": "41048"
       },
-      "distance": 8.941173293761054,
+      "distance": 7.5951948564369,
       "phone": {
         "countryCode": "",
-        "areaCode": "877",
-        "phoneNumber": "8522677",
+        "areaCode": "859",
+        "phoneNumber": "9624922",
         "extension": ""
       },
       "onlinePaymentsEnabled": false,
       "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "",
-        "sundayOpen": "",
-        "sundayHours": "",
-        "mondayClose": "",
-        "mondayOpen": "",
-        "mondayHours": "",
-        "tuesdayClose": "",
-        "tuesdayOpen": "",
-        "tuesdayHours": "",
-        "wednesdayClose": "",
-        "wednesdayOpen": "",
-        "wednesdayHours": "",
-        "thursdayClose": "",
-        "thursdayOpen": "",
-        "thursdayHours": "",
-        "fridayClose": "",
-        "fridayOpen": "",
-        "fridayHours": "",
-        "saturdayClose": "",
-        "saturdayOpen": "",
-        "saturdayHours": ""
-      },
-      "brand": "COVID"
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
     },
-    "dates": [
-      {
-        "date": "2021-04-01",
-        "slots": []
+    "dates": []
+  },
+  {
+    "loc_id": 161,
+    "loc_no": "85400313",
+    "facilityDetails": {
+      "facilityId": "85400313",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "390 N College Hill Cincinnati Clinic",
+      "address": {
+        "address1": "7132 Hamilton Ave",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45231"
       },
-      {
-        "date": "2021-04-02",
-        "slots": []
+      "distance": 6.756759010513243,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "7282780",
+        "extension": ""
       },
-      {
-        "date": "2021-04-03",
-        "slots": []
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 166,
+    "loc_no": "85400318",
+    "facilityDetails": {
+      "facilityId": "85400318",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "944 Delhi Clinic",
+      "address": {
+        "address1": "5080 Delhi Pike",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45238"
       },
-      {
-        "date": "2021-04-04",
-        "slots": []
+      "distance": 5.0794211285332835,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "3471925",
+        "extension": ""
       },
-      {
-        "date": "2021-04-05",
-        "slots": []
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 167,
+    "loc_no": "85400319",
+    "facilityDetails": {
+      "facilityId": "85400319",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "929 University Plaza Clinic",
+      "address": {
+        "address1": "1 Corry St W",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45219"
       },
-      {
-        "date": "2021-04-06",
-        "slots": []
+      "distance": 7.794819373567979,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "8721530",
+        "extension": ""
       },
-      {
-        "date": "2021-04-07",
-        "slots": []
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 168,
+    "loc_no": "85400321",
+    "facilityDetails": {
+      "facilityId": "85400321",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "The Little Clinic",
+      "address": {
+        "address1": "6165 Glenway Ave",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45211"
       },
-      {
-        "date": "2021-04-08",
-        "slots": []
+      "distance": 2.01747987026701,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "3897407",
+        "extension": ""
       },
-      {
-        "date": "2021-04-09",
-        "slots": []
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 237,
+    "loc_no": "85400328",
+    "facilityDetails": {
+      "facilityId": "85400328",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "968 Colerain Marketplace Clinic",
+      "address": {
+        "address1": "3636 Springdale Rd",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45251"
       },
-      {
-        "date": "2021-04-10",
-        "slots": []
+      "distance": 6.313694667668562,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "6399930",
+        "extension": ""
       },
-      {
-        "date": "2021-04-11",
-        "slots": []
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 242,
+    "loc_no": "85400332",
+    "facilityDetails": {
+      "facilityId": "85400332",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "444 Green Township Clinic",
+      "address": {
+        "address1": "5910 Harrison Rd",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45248"
       },
-      {
-        "date": "2021-04-12",
-        "slots": []
+      "distance": 0.9324951077102543,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "3702040",
+        "extension": ""
       },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      }
-    ]
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
   }
 ]
