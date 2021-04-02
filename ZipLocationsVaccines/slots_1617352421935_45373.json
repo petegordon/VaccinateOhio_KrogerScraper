@@ -51,10 +51,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
         "date": "2021-04-02",
         "slots": []
       },
@@ -96,7 +92,17 @@
       },
       {
         "date": "2021-04-12",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:15:00",
+            "duration": 10,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          }
+        ]
       },
       {
         "date": "2021-04-13",
@@ -108,6 +114,10 @@
       },
       {
         "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
         "slots": []
       }
     ]
@@ -164,10 +174,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
         "date": "2021-04-02",
         "slots": []
       },
@@ -209,7 +215,71 @@
       },
       {
         "date": "2021-04-12",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:15:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:45:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:00:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:15:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:45:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-04-13",
@@ -221,6 +291,10 @@
       },
       {
         "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
         "slots": []
       }
     ]
@@ -277,10 +351,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
         "date": "2021-04-02",
         "slots": []
       },
@@ -322,7 +392,17 @@
       },
       {
         "date": "2021-04-12",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:45:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-04-13",
@@ -334,6 +414,10 @@
       },
       {
         "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
         "slots": []
       }
     ]
@@ -390,10 +474,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
         "date": "2021-04-02",
         "slots": []
       },
@@ -447,6 +527,10 @@
       },
       {
         "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
         "slots": []
       }
     ]
@@ -503,10 +587,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
         "date": "2021-04-02",
         "slots": []
       },
@@ -560,6 +640,10 @@
       },
       {
         "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
         "slots": []
       }
     ]
@@ -616,10 +700,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
         "date": "2021-04-02",
         "slots": []
       },
@@ -661,7 +741,26 @@
       },
       {
         "date": "2021-04-12",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:15:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-04-13",
@@ -673,6 +772,10 @@
       },
       {
         "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
         "slots": []
       }
     ]
@@ -729,10 +832,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
         "date": "2021-04-02",
         "slots": []
       },
@@ -774,7 +873,17 @@
       },
       {
         "date": "2021-04-12",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:15:00",
+            "duration": 10,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          }
+        ]
       },
       {
         "date": "2021-04-13",
@@ -786,6 +895,10 @@
       },
       {
         "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
         "slots": []
       }
     ]
@@ -842,10 +955,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
         "date": "2021-04-02",
         "slots": []
       },
@@ -899,6 +1008,10 @@
       },
       {
         "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
         "slots": []
       }
     ]
@@ -955,10 +1068,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
         "date": "2021-04-02",
         "slots": []
       },
@@ -1013,8 +1122,64 @@
       {
         "date": "2021-04-15",
         "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
       }
     ]
+  },
+  {
+    "loc_id": 3242,
+    "loc_no": "85000943",
+    "facilityDetails": {
+      "facilityId": "85000943",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "Piqua Second Dose Educator Make-Up Clinic",
+      "address": {
+        "address1": "731 W Market St",
+        "address2": "",
+        "city": "Troy",
+        "state": "OH",
+        "zipCode": "45373"
+      },
+      "distance": 0.6008018438425357,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "877",
+        "phoneNumber": "8522677",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "",
+        "sundayOpen": "",
+        "sundayHours": "",
+        "mondayClose": "",
+        "mondayOpen": "",
+        "mondayHours": "",
+        "tuesdayClose": "",
+        "tuesdayOpen": "",
+        "tuesdayHours": "",
+        "wednesdayClose": "",
+        "wednesdayOpen": "",
+        "wednesdayHours": "",
+        "thursdayClose": "",
+        "thursdayOpen": "",
+        "thursdayHours": "",
+        "fridayClose": "",
+        "fridayOpen": "",
+        "fridayHours": "",
+        "saturdayClose": "",
+        "saturdayOpen": "",
+        "saturdayHours": ""
+      },
+      "brand": "COVID",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": []
   },
   {
     "loc_id": 3264,
@@ -1062,10 +1227,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
         "date": "2021-04-02",
         "slots": []
       },
@@ -1119,6 +1280,10 @@
       },
       {
         "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
         "slots": []
       }
     ]
