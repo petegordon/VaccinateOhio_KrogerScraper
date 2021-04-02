@@ -321,6 +321,7 @@ try{
 
 /** Function Calls */
 function sendSMS(message){
+    /*
     client.messages
         .create({
             body: message,
@@ -328,6 +329,7 @@ function sendSMS(message){
             to: '+16148357383'
         })
         .then(message => console.log(message.sid));
+        */
 }
 async function reformatZipCodeDataIntoLocationAvailability(dir, awsUpload = true){
 
