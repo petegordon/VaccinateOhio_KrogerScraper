@@ -259,15 +259,6 @@
             "follow_up_days_after": 0
           },
           {
-            "start_time": "14:15:00",
-            "duration": 10,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
             "start_time": "14:45:00",
             "duration": 10,
             "ar_id": 129,
@@ -1194,15 +1185,6 @@
       {
         "date": "2021-04-05",
         "slots": [
-          {
-            "start_time": "10:45:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
           {
             "start_time": "11:30:00",
             "duration": 10,
