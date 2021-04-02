@@ -45,7 +45,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -156,340 +158,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
-    },
-    "dates": [
-      {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
-        "date": "2021-04-02",
-        "slots": []
-      },
-      {
-        "date": "2021-04-03",
-        "slots": []
-      },
-      {
-        "date": "2021-04-04",
-        "slots": []
-      },
-      {
-        "date": "2021-04-05",
-        "slots": []
-      },
-      {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 1007,
-    "loc_no": "01600519",
-    "facilityDetails": {
-      "facilityId": "01600519",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Georgesville",
-      "address": {
-        "address1": "1585 Georgesville Square Dr",
-        "address2": "",
-        "city": "Columbus",
-        "state": "OH",
-        "zipCode": "43228"
-      },
-      "distance": 7.337657858221273,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "614",
-        "phoneNumber": "8781664",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "19:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER"
-    },
-    "dates": [
-      {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
-        "date": "2021-04-02",
-        "slots": []
-      },
-      {
-        "date": "2021-04-03",
-        "slots": []
-      },
-      {
-        "date": "2021-04-04",
-        "slots": []
-      },
-      {
-        "date": "2021-04-05",
-        "slots": []
-      },
-      {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 1026,
-    "loc_no": "01600581",
-    "facilityDetails": {
-      "facilityId": "01600581",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Sawmill Rd",
-      "address": {
-        "address1": "7625 Sawmill Rd",
-        "address2": "",
-        "city": "Dublin",
-        "state": "OH",
-        "zipCode": "43016"
-      },
-      "distance": 7.422651714726597,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "614",
-        "phoneNumber": "9232340",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "10:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "10:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "10:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "10:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "10:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER"
-    },
-    "dates": [
-      {
-        "date": "2021-04-01",
-        "slots": []
-      },
-      {
-        "date": "2021-04-02",
-        "slots": []
-      },
-      {
-        "date": "2021-04-03",
-        "slots": []
-      },
-      {
-        "date": "2021-04-04",
-        "slots": []
-      },
-      {
-        "date": "2021-04-05",
-        "slots": []
-      },
-      {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 1027,
-    "loc_no": "01600587",
-    "facilityDetails": {
-      "facilityId": "01600587",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Short North Kroger 587",
-      "address": {
-        "address1": "1350 N High St",
-        "address2": "",
-        "city": "Columbus",
-        "state": "OH",
-        "zipCode": "43201"
-      },
-      "distance": 8.053405095233831,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "614",
-        "phoneNumber": "2941696",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "10:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "10:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "10:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "10:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "10:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -600,7 +271,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -711,7 +384,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -822,7 +497,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -933,7 +610,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1044,7 +723,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1155,7 +836,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1266,7 +949,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1377,7 +1062,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1488,7 +1175,9 @@
         "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "KROGER"
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1593,7 +1282,9 @@
         "saturdayOpen": "",
         "saturdayHours": ""
       },
-      "brand": "COVID"
+      "brand": "COVID",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
     },
     "dates": [
       {
@@ -1657,5 +1348,121 @@
         "slots": []
       }
     ]
+  },
+  {
+    "loc_id": 125,
+    "loc_no": "85400102",
+    "facilityDetails": {
+      "facilityId": "85400102",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "819 Graceland Clinic",
+      "address": {
+        "address1": "199 Graceland Blvd",
+        "address2": "",
+        "city": "Columbus",
+        "state": "OH",
+        "zipCode": "43214"
+      },
+      "distance": 7.23991185258828,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "614",
+        "phoneNumber": "4102814",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 129,
+    "loc_no": "85400108",
+    "facilityDetails": {
+      "facilityId": "85400108",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "817 Dublin Clinic",
+      "address": {
+        "address1": "7100 Hospital Dr",
+        "address2": "",
+        "city": "Dublin",
+        "state": "OH",
+        "zipCode": "43016"
+      },
+      "distance": 5.5374105840468815,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "614",
+        "phoneNumber": "3390467",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 130,
+    "loc_no": "85400109",
+    "facilityDetails": {
+      "facilityId": "85400109",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "966 Cemetery Road Clinic",
+      "address": {
+        "address1": "4656 Cemetery Rd",
+        "address2": "",
+        "city": "Hilliard",
+        "state": "OH",
+        "zipCode": "43026"
+      },
+      "distance": 0.8468923533555814,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "614",
+        "phoneNumber": "3450237",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 138,
+    "loc_no": "85400121",
+    "facilityDetails": {
+      "facilityId": "85400121",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "328 Henderson Rd Clinic",
+      "address": {
+        "address1": "1955 Henderson Rd",
+        "address2": "",
+        "city": "Upper Arlington",
+        "state": "OH",
+        "zipCode": "43220"
+      },
+      "distance": 4.64170584984266,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "614",
+        "phoneNumber": "3407546",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
   }
 ]
