@@ -1246,17 +1246,7 @@
       },
       {
         "date": "2021-04-07",
-        "slots": [
-          {
-            "start_time": "08:15:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-04-08",
@@ -1417,13 +1407,13 @@
       "legalName": "The Little Clinic, LLC",
       "vanityName": "Wilmington Air Park Mass Clinic - Johnson and Johnson Single Dose Vaccine",
       "address": {
-        "address1": "1199 Airport Rd",
+        "address1": "1199 Airborne Rd",
         "address2": "",
         "city": "Wilmington",
         "state": "OH",
         "zipCode": "45177"
       },
-      "distance": 3.910225336847377,
+      "distance": 4.054858480459626,
       "onlinePaymentsEnabled": false,
       "onlineOrderingEnabled": false,
       "pharmacyHours": {
