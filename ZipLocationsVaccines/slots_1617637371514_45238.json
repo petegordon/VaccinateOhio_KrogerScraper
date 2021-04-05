@@ -51,10 +51,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-04",
-        "slots": []
-      },
-      {
         "date": "2021-04-05",
         "slots": []
       },
@@ -108,6 +104,10 @@
       },
       {
         "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
         "slots": []
       }
     ]
@@ -164,10 +164,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-04",
-        "slots": []
-      },
-      {
         "date": "2021-04-05",
         "slots": []
       },
@@ -221,6 +217,10 @@
       },
       {
         "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
         "slots": []
       }
     ]
@@ -277,9 +277,118 @@
     },
     "dates": [
       {
-        "date": "2021-04-04",
+        "date": "2021-04-05",
         "slots": []
       },
+      {
+        "date": "2021-04-06",
+        "slots": []
+      },
+      {
+        "date": "2021-04-07",
+        "slots": []
+      },
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 935,
+    "loc_no": "01400477",
+    "facilityDetails": {
+      "facilityId": "01400477",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Ft. Mitchell",
+      "address": {
+        "address1": "2150 Dixie Hwy",
+        "address2": "",
+        "city": "Fort Mitchell",
+        "state": "KY",
+        "zipCode": "41017"
+      },
+      "distance": 5.503938845689744,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "859",
+        "phoneNumber": "3310078",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
       {
         "date": "2021-04-05",
         "slots": []
@@ -335,60 +444,12 @@
       {
         "date": "2021-04-18",
         "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
       }
     ]
-  },
-  {
-    "loc_id": 935,
-    "loc_no": "01400477",
-    "facilityDetails": {
-      "facilityId": "01400477",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Ft. Mitchell",
-      "address": {
-        "address1": "2150 Dixie Hwy",
-        "address2": "",
-        "city": "Fort Mitchell",
-        "state": "KY",
-        "zipCode": "41017"
-      },
-      "distance": 5.503938845689744,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "859",
-        "phoneNumber": "3310078",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "08:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "08:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "08:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "08:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "08:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "09:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": []
   },
   {
     "loc_id": 936,
@@ -442,10 +503,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-04",
-        "slots": []
-      },
-      {
         "date": "2021-04-05",
         "slots": []
       },
@@ -499,6 +556,10 @@
       },
       {
         "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
         "slots": []
       }
     ]
@@ -555,10 +616,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-04",
-        "slots": []
-      },
-      {
         "date": "2021-04-05",
         "slots": []
       },
@@ -612,6 +669,10 @@
       },
       {
         "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
         "slots": []
       }
     ]
@@ -668,10 +729,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-04",
-        "slots": []
-      },
-      {
         "date": "2021-04-05",
         "slots": []
       },
@@ -725,6 +782,10 @@
       },
       {
         "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
         "slots": []
       }
     ]
@@ -781,10 +842,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-04",
-        "slots": []
-      },
-      {
         "date": "2021-04-05",
         "slots": []
       },
@@ -838,6 +895,10 @@
       },
       {
         "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
         "slots": []
       }
     ]
@@ -894,10 +955,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-04",
-        "slots": []
-      },
-      {
         "date": "2021-04-05",
         "slots": []
       },
@@ -951,6 +1008,10 @@
       },
       {
         "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
         "slots": []
       }
     ]
