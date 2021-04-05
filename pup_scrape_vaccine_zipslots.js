@@ -314,8 +314,8 @@ try{
         exceptionAttempts++        
     });        
 
-  // myEmitter.emit('processZipCodes');
-  await reformatZipCodeDataIntoLocationAvailability(storesDir)
+   myEmitter.emit('processZipCodes');
+  //await reformatZipCodeDataIntoLocationAvailability(storesDir)
 
 })();
 
