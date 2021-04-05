@@ -314,7 +314,8 @@ try{
         exceptionAttempts++        
     });        
 
-    myEmitter.emit('processZipCodes');
+  // myEmitter.emit('processZipCodes');
+  await reformatZipCodeDataIntoLocationAvailability(storesDir)
 
 })();
 
@@ -371,6 +372,7 @@ async function reformatZipCodeDataIntoLocationAvailability(dir, awsUpload = true
             }
 
             if(!s.facilityDetails){
+                console.log(zip)
                 console.log(JSON.stringify(s, null, 2))
             }
 
