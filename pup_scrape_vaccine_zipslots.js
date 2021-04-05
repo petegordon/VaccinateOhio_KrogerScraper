@@ -371,6 +371,7 @@ async function reformatZipCodeDataIntoLocationAvailability(dir, awsUpload = true
                 }
             }
 
+            //weird state 45373 zip code results wihtout the store.facilityDetails?
             if(!s.facilityDetails){
                 console.log(zip)
                 console.log(JSON.stringify(s, null, 2))
