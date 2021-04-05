@@ -374,6 +374,7 @@ async function reformatZipCodeDataIntoLocationAvailability(dir, awsUpload = true
             if(!s.facilityDetails){
                 console.log(zip)
                 console.log(JSON.stringify(s, null, 2))
+                continue;
             }
 
             let storeDataFormat = {
