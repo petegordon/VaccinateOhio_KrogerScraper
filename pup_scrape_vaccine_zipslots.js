@@ -370,6 +370,9 @@ async function reformatZipCodeDataIntoLocationAvailability(dir, awsUpload = true
                 }
             }
 
+            if(!s.facilityDetails){
+                console.log(JSON.stringify(s, null, 2))
+            }
 
             let storeDataFormat = {
                             //location_id: 123, // from https://app.vaccinateoh.org/api/locations
