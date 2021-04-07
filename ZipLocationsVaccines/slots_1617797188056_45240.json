@@ -433,6 +433,15 @@
         "date": "2021-04-17",
         "slots": [
           {
+            "start_time": "09:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
             "start_time": "09:45:00",
             "duration": 10,
             "ar_id": 125,
@@ -452,15 +461,6 @@
           },
           {
             "start_time": "11:15:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "11:30:00",
             "duration": 10,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -1279,17 +1279,7 @@
       },
       {
         "date": "2021-04-12",
-        "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 10,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-04-13",
@@ -1297,17 +1287,7 @@
       },
       {
         "date": "2021-04-14",
-        "slots": [
-          {
-            "start_time": "08:30:00",
-            "duration": 10,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-04-15",
