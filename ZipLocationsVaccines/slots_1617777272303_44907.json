@@ -51,10 +51,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
         "date": "2021-04-07",
         "slots": []
       },
@@ -108,6 +104,10 @@
       },
       {
         "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
         "slots": []
       }
     ]
@@ -164,12 +164,18 @@
     },
     "dates": [
       {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
         "date": "2021-04-07",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "12:45:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-04-08",
@@ -221,6 +227,10 @@
       },
       {
         "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
         "slots": []
       }
     ]
@@ -277,10 +287,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
         "date": "2021-04-07",
         "slots": []
       },
@@ -334,6 +340,10 @@
       },
       {
         "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
         "slots": []
       }
     ]
@@ -390,16 +400,85 @@
     },
     "dates": [
       {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
         "date": "2021-04-07",
         "slots": []
       },
       {
         "date": "2021-04-08",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "13:00:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:15:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:45:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:00:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:15:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:45:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-04-09",
@@ -435,7 +514,80 @@
       },
       {
         "date": "2021-04-17",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "12:00:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:15:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:45:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:00:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:15:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:45:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-04-18",
@@ -447,6 +599,10 @@
       },
       {
         "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
         "slots": []
       }
     ]
@@ -503,10 +659,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
         "date": "2021-04-07",
         "slots": [
           {
@@ -520,6 +672,15 @@
           },
           {
             "start_time": "13:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:00:00",
             "duration": 10,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -629,6 +790,15 @@
             "follow_up_days_after": 28
           },
           {
+            "start_time": "11:30:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
             "start_time": "11:45:00",
             "duration": 10,
             "ar_id": 125,
@@ -653,6 +823,10 @@
       },
       {
         "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
         "slots": []
       }
     ]
@@ -709,9 +883,118 @@
     },
     "dates": [
       {
-        "date": "2021-04-06",
+        "date": "2021-04-07",
         "slots": []
       },
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1038,
+    "loc_no": "01600800",
+    "facilityDetails": {
+      "facilityId": "01600800",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Mt. Gilead",
+      "address": {
+        "address1": "555 W Marion Rd",
+        "address2": "",
+        "city": "Mount Gilead",
+        "state": "OH",
+        "zipCode": "43338"
+      },
+      "distance": 21.13239315034271,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "419",
+        "phoneNumber": "9479134",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
       {
         "date": "2021-04-07",
         "slots": []
@@ -742,16 +1025,584 @@
       },
       {
         "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1040,
+    "loc_no": "01600802",
+    "facilityDetails": {
+      "facilityId": "01600802",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Sunbury",
+      "address": {
+        "address1": "131 State Route 3",
+        "address2": "",
+        "city": "Sunbury",
+        "state": "OH",
+        "zipCode": "43074"
+      },
+      "distance": 37.96306022009174,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "740",
+        "phoneNumber": "9650520",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-07",
+        "slots": []
+      },
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1042,
+    "loc_no": "01600804",
+    "facilityDetails": {
+      "facilityId": "01600804",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Houk Road",
+      "address": {
+        "address1": "801 N Houk Rd",
+        "address2": "",
+        "city": "Delaware",
+        "state": "OH",
+        "zipCode": "43015"
+      },
+      "distance": 42.17393838197797,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "740",
+        "phoneNumber": "3628426",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-07",
+        "slots": []
+      },
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1043,
+    "loc_no": "01600805",
+    "facilityDetails": {
+      "facilityId": "01600805",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Lewis Center",
+      "address": {
+        "address1": "6417 Columbus Pike",
+        "address2": "",
+        "city": "Lewis Center",
+        "state": "OH",
+        "zipCode": "43035"
+      },
+      "distance": 44.93287934536436,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "740",
+        "phoneNumber": "8881290",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-07",
+        "slots": []
+      },
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1045,
+    "loc_no": "01600808",
+    "facilityDetails": {
+      "facilityId": "01600808",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Marion-Waldo",
+      "address": {
+        "address1": "1428 Marion Waldo Rd",
+        "address2": "",
+        "city": "Marion",
+        "state": "OH",
+        "zipCode": "43302"
+      },
+      "distance": 33.25103612130083,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "740",
+        "phoneNumber": "3862321",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "10:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "10:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "10:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "10:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "10:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-07",
+        "slots": []
+      },
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1052,
+    "loc_no": "01600820",
+    "facilityDetails": {
+      "facilityId": "01600820",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Mt. Vernon",
+      "address": {
+        "address1": "855 Coshocton Ave",
+        "address2": "",
+        "city": "Mount Vernon",
+        "state": "OH",
+        "zipCode": "43050"
+      },
+      "distance": 22.83952058616157,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "740",
+        "phoneNumber": "3932487",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "10:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "10:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "10:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "10:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "10:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-07",
+        "slots": []
+      },
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
         "slots": [
-          {
-            "start_time": "12:00:00",
-            "duration": 10,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
           {
             "start_time": "12:15:00",
             "duration": 10,
@@ -780,7 +1631,126 @@
             "follow_up_days_after": 28
           },
           {
-            "start_time": "13:30:00",
+            "start_time": "13:00:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1057,
+    "loc_no": "01600836",
+    "facilityDetails": {
+      "facilityId": "01600836",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Lexington Avenue",
+      "address": {
+        "address1": "1500 Lexington Ave",
+        "address2": "",
+        "city": "Mansfield",
+        "state": "OH",
+        "zipCode": "44907"
+      },
+      "distance": 1.5899671278395715,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "419",
+        "phoneNumber": "7567023",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "10:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "10:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "10:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "10:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "10:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-07",
+        "slots": []
+      },
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": [
+          {
+            "start_time": "13:00:00",
             "duration": 10,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -789,7 +1759,16 @@
             "follow_up_days_after": 28
           },
           {
-            "start_time": "13:45:00",
+            "start_time": "13:15:00",
+            "duration": 10,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:30:00",
             "duration": 10,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -861,7 +1840,7 @@
             "follow_up_days_after": 28
           },
           {
-            "start_time": "15:45:00",
+            "start_time": "16:15:00",
             "duration": 10,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -872,14 +1851,6 @@
         ]
       },
       {
-        "date": "2021-04-15",
-        "slots": []
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
         "date": "2021-04-17",
         "slots": []
       },
@@ -894,796 +1865,9 @@
       {
         "date": "2021-04-20",
         "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 1038,
-    "loc_no": "01600800",
-    "facilityDetails": {
-      "facilityId": "01600800",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Mt. Gilead",
-      "address": {
-        "address1": "555 W Marion Rd",
-        "address2": "",
-        "city": "Mount Gilead",
-        "state": "OH",
-        "zipCode": "43338"
       },
-      "distance": 21.13239315034271,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "419",
-        "phoneNumber": "9479134",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "19:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 1040,
-    "loc_no": "01600802",
-    "facilityDetails": {
-      "facilityId": "01600802",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Sunbury",
-      "address": {
-        "address1": "131 State Route 3",
-        "address2": "",
-        "city": "Sunbury",
-        "state": "OH",
-        "zipCode": "43074"
-      },
-      "distance": 37.96306022009174,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "740",
-        "phoneNumber": "9650520",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "19:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 1042,
-    "loc_no": "01600804",
-    "facilityDetails": {
-      "facilityId": "01600804",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Houk Road",
-      "address": {
-        "address1": "801 N Houk Rd",
-        "address2": "",
-        "city": "Delaware",
-        "state": "OH",
-        "zipCode": "43015"
-      },
-      "distance": 42.17393838197797,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "740",
-        "phoneNumber": "3628426",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "19:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 1043,
-    "loc_no": "01600805",
-    "facilityDetails": {
-      "facilityId": "01600805",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Lewis Center",
-      "address": {
-        "address1": "6417 Columbus Pike",
-        "address2": "",
-        "city": "Lewis Center",
-        "state": "OH",
-        "zipCode": "43035"
-      },
-      "distance": 44.93287934536436,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "740",
-        "phoneNumber": "8881290",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "19:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 1045,
-    "loc_no": "01600808",
-    "facilityDetails": {
-      "facilityId": "01600808",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Marion-Waldo",
-      "address": {
-        "address1": "1428 Marion Waldo Rd",
-        "address2": "",
-        "city": "Marion",
-        "state": "OH",
-        "zipCode": "43302"
-      },
-      "distance": 33.25103612130083,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "740",
-        "phoneNumber": "3862321",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "10:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "10:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "10:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "10:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "10:00",
-        "fridayHours": "",
-        "saturdayClose": "19:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 1052,
-    "loc_no": "01600820",
-    "facilityDetails": {
-      "facilityId": "01600820",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Mt. Vernon",
-      "address": {
-        "address1": "855 Coshocton Ave",
-        "address2": "",
-        "city": "Mount Vernon",
-        "state": "OH",
-        "zipCode": "43050"
-      },
-      "distance": 22.83952058616157,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "740",
-        "phoneNumber": "3932487",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "10:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "10:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "10:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "10:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "10:00",
-        "fridayHours": "",
-        "saturdayClose": "19:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 1057,
-    "loc_no": "01600836",
-    "facilityDetails": {
-      "facilityId": "01600836",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Lexington Avenue",
-      "address": {
-        "address1": "1500 Lexington Ave",
-        "address2": "",
-        "city": "Mansfield",
-        "state": "OH",
-        "zipCode": "44907"
-      },
-      "distance": 1.5899671278395715,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "419",
-        "phoneNumber": "7567023",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "10:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "10:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "10:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "10:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "10:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
       {
-        "date": "2021-04-20",
+        "date": "2021-04-21",
         "slots": []
       }
     ]
@@ -1740,10 +1924,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
         "date": "2021-04-07",
         "slots": []
       },
@@ -1797,6 +1977,10 @@
       },
       {
         "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
         "slots": []
       }
     ]
@@ -1853,10 +2037,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-06",
-        "slots": []
-      },
-      {
         "date": "2021-04-07",
         "slots": []
       },
@@ -1910,6 +2090,10 @@
       },
       {
         "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
         "slots": []
       }
     ]
