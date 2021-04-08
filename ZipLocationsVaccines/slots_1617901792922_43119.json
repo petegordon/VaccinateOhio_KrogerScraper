@@ -1,118 +1,5 @@
 [
   {
-    "loc_id": 994,
-    "loc_no": "01600328",
-    "facilityDetails": {
-      "facilityId": "01600328",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Henderson Rd",
-      "address": {
-        "address1": "1955 Henderson Rd",
-        "address2": "",
-        "city": "Upper Arlington",
-        "state": "OH",
-        "zipCode": "43220"
-      },
-      "distance": 9.000151092619332,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "614",
-        "phoneNumber": "4571939",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "10:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "10:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "10:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "10:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "10:00",
-        "fridayHours": "",
-        "saturdayClose": "19:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      },
-      {
-        "date": "2021-04-21",
-        "slots": []
-      }
-    ]
-  },
-  {
     "loc_id": 995,
     "loc_no": "01600341",
     "facilityDetails": {
@@ -164,10 +51,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -221,6 +104,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -277,10 +164,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -334,6 +217,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -390,10 +277,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -447,6 +330,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -503,10 +390,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -560,6 +443,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -616,10 +503,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -673,6 +556,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -729,10 +616,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -786,6 +669,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -842,10 +729,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -899,6 +782,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -955,10 +842,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -1012,6 +895,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -1068,10 +955,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -1125,6 +1008,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -1181,10 +1068,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -1238,6 +1121,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -1294,10 +1181,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -1351,6 +1234,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -1401,9 +1288,112 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
+        "date": "2021-04-08",
         "slots": []
       },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 3363,
+    "loc_no": "85000858",
+    "facilityDetails": {
+      "facilityId": "85000858",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "Ohio Bar Association",
+      "address": {
+        "address1": "1700 Lake Shore Dr",
+        "address2": "",
+        "city": "Columbus",
+        "state": "OH",
+        "zipCode": "43204"
+      },
+      "distance": 5.840428951188914,
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "",
+        "sundayOpen": "",
+        "sundayHours": "",
+        "mondayClose": "",
+        "mondayOpen": "",
+        "mondayHours": "",
+        "tuesdayClose": "",
+        "tuesdayOpen": "",
+        "tuesdayHours": "",
+        "wednesdayClose": "",
+        "wednesdayOpen": "",
+        "wednesdayHours": "",
+        "thursdayClose": "",
+        "thursdayOpen": "",
+        "thursdayHours": "",
+        "fridayClose": "",
+        "fridayOpen": "",
+        "fridayHours": "",
+        "saturdayClose": "",
+        "saturdayOpen": "",
+        "saturdayHours": ""
+      },
+      "brand": "COVID",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
       {
         "date": "2021-04-08",
         "slots": []
@@ -1458,6 +1448,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
