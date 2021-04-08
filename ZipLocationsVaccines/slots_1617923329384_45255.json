@@ -1,23 +1,23 @@
 [
   {
-    "loc_id": 938,
-    "loc_no": "01400741",
+    "loc_id": 882,
+    "loc_no": "01400305",
     "facilityDetails": {
-      "facilityId": "01400741",
+      "facilityId": "01400305",
       "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Derr Rd",
+      "vanityName": "Mt Carmel Grocery Pickup Center",
       "address": {
-        "address1": "2989 Derr Rd",
+        "address1": "4630 Aicholtz Rd",
         "address2": "",
-        "city": "Springfield",
+        "city": "Cincinnati",
         "state": "OH",
-        "zipCode": "45503"
+        "zipCode": "45244"
       },
-      "distance": 27.458744426862303,
+      "distance": 2.8434488026719995,
       "phone": {
         "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "3900767",
+        "areaCode": "513",
+        "phoneNumber": "5288920",
         "extension": ""
       },
       "onlinePaymentsEnabled": true,
@@ -80,17 +80,7 @@
       },
       {
         "date": "2021-04-15",
-        "slots": [
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-04-16",
@@ -123,24 +113,24 @@
     ]
   },
   {
-    "loc_id": 939,
-    "loc_no": "01400747",
+    "loc_id": 888,
+    "loc_no": "01400355",
     "facilityDetails": {
-      "facilityId": "01400747",
+      "facilityId": "01400355",
       "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Vandalia",
+      "vanityName": "Hyde Park",
       "address": {
-        "address1": "780 Northwoods Blvd",
+        "address1": "3760 Paxton Ave",
         "address2": "",
-        "city": "Vandalia",
+        "city": "Cincinnati",
         "state": "OH",
-        "zipCode": "45377"
+        "zipCode": "45209"
       },
-      "distance": 17.904508433061817,
+      "distance": 7.233534745215512,
       "phone": {
         "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "2642420",
+        "areaCode": "513",
+        "phoneNumber": "8710725",
         "extension": ""
       },
       "onlinePaymentsEnabled": true,
@@ -236,31 +226,31 @@
     ]
   },
   {
-    "loc_id": 941,
-    "loc_no": "01400754",
+    "loc_id": 907,
+    "loc_no": "01400410",
     "facilityDetails": {
-      "facilityId": "01400754",
+      "facilityId": "01400410",
       "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Huber Heights",
+      "vanityName": "Cold Spring",
       "address": {
-        "address1": "4506 Brandt Pike",
+        "address1": "375 Crossroads Blvd",
         "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zipCode": "45424"
+        "city": "Cold Spring",
+        "state": "KY",
+        "zipCode": "41076"
       },
-      "distance": 24.121276423955926,
+      "distance": 6.652852219605852,
       "phone": {
         "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "2338930",
+        "areaCode": "859",
+        "phoneNumber": "4481220",
         "extension": ""
       },
       "onlinePaymentsEnabled": true,
       "onlineOrderingEnabled": false,
       "pharmacyHours": {
         "sundayClose": "18:00",
-        "sundayOpen": "11:00",
+        "sundayOpen": "10:00",
         "sundayHours": "",
         "mondayClose": "21:00",
         "mondayOpen": "09:00",
@@ -304,18 +294,6 @@
       },
       {
         "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
         "slots": [
           {
             "start_time": "08:00:00",
@@ -327,506 +305,6 @@
             "follow_up_days_after": 28
           },
           {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      },
-      {
-        "date": "2021-04-21",
-        "slots": []
-      },
-      {
-        "date": "2021-04-22",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 942,
-    "loc_no": "01400758",
-    "facilityDetails": {
-      "facilityId": "01400758",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Huber Heights",
-      "address": {
-        "address1": "7747 Troy Pike",
-        "address2": "",
-        "city": "Huber Heights",
-        "state": "OH",
-        "zipCode": "45424"
-      },
-      "distance": 20.610066807615322,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "2337680",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "11:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      },
-      {
-        "date": "2021-04-21",
-        "slots": []
-      },
-      {
-        "date": "2021-04-22",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 949,
-    "loc_no": "01400832",
-    "facilityDetails": {
-      "facilityId": "01400832",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Springfield",
-      "address": {
-        "address1": "965 N Bechtle Ave",
-        "address2": "",
-        "city": "Springfield",
-        "state": "OH",
-        "zipCode": "45504"
-      },
-      "distance": 26.29715714934824,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "3230282",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "11:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      },
-      {
-        "date": "2021-04-21",
-        "slots": []
-      },
-      {
-        "date": "2021-04-22",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 950,
-    "loc_no": "01400833",
-    "facilityDetails": {
-      "facilityId": "01400833",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Greenville",
-      "address": {
-        "address1": "200 Lease Ave",
-        "address2": "",
-        "city": "Greenville",
-        "state": "OH",
-        "zipCode": "45331"
-      },
-      "distance": 20.08498687369306,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "5481736",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "11:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": [
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": [
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      },
-      {
-        "date": "2021-04-21",
-        "slots": []
-      },
-      {
-        "date": "2021-04-22",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 952,
-    "loc_no": "01400836",
-    "facilityDetails": {
-      "facilityId": "01400836",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Siebenthaler Ave",
-      "address": {
-        "address1": "3520 W Siebenthaler Ave",
-        "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zipCode": "45406"
-      },
-      "distance": 24.702139031110285,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "5679587",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "11:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": [
-          {
             "start_time": "08:15:00",
             "duration": 15,
             "ar_id": 125,
@@ -856,279 +334,43 @@
         ]
       },
       {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      },
-      {
-        "date": "2021-04-21",
-        "slots": []
-      },
-      {
-        "date": "2021-04-22",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 959,
-    "loc_no": "01400913",
-    "facilityDetails": {
-      "facilityId": "01400913",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Sidney, Oh",
-      "address": {
-        "address1": "2100 W Michigan St",
-        "address2": "",
-        "city": "Sidney",
-        "state": "OH",
-        "zipCode": "45365"
-      },
-      "distance": 9.83037829573449,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "4984116",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "11:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
         "date": "2021-04-13",
         "slots": [
           {
+            "start_time": "08:00:00",
+            "duration": 15,
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
+            "ar_order": 1,
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
+          },
+          {
             "start_time": "08:15:00",
             "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
             "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
+            "ar_order": 1,
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
           },
           {
             "start_time": "08:45:00",
             "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
             "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
           }
         ]
       },
@@ -1136,13 +378,40 @@
         "date": "2021-04-14",
         "slots": [
           {
+            "start_time": "08:00:00",
+            "duration": 15,
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
+            "ar_order": 1,
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
+          },
+          {
+            "start_time": "08:15:00",
+            "duration": 15,
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
+            "ar_order": 1,
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
+            "ar_order": 1,
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
+          },
+          {
             "start_time": "08:45:00",
             "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
             "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
           }
         ]
       },
@@ -1152,407 +421,122 @@
           {
             "start_time": "08:00:00",
             "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
             "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      },
-      {
-        "date": "2021-04-21",
-        "slots": []
-      },
-      {
-        "date": "2021-04-22",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 966,
-    "loc_no": "01400932",
-    "facilityDetails": {
-      "facilityId": "01400932",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Piqua",
-      "address": {
-        "address1": "1510 Covington Ave",
-        "address2": "",
-        "city": "Piqua",
-        "state": "OH",
-        "zipCode": "45356"
-      },
-      "distance": 1.3404203389093343,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "6157020",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
           },
           {
             "start_time": "08:15:00",
             "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
             "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
+            "ar_order": 1,
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
+          },
+          {
+            "start_time": "08:45:00",
+            "duration": 15,
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
+            "ar_order": 1,
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
           }
         ]
       },
       {
         "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      },
-      {
-        "date": "2021-04-21",
-        "slots": []
-      },
-      {
-        "date": "2021-04-22",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 969,
-    "loc_no": "01400938",
-    "facilityDetails": {
-      "facilityId": "01400938",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Englewood",
-      "address": {
-        "address1": "885 Union Rd.",
-        "address2": "",
-        "city": "Englewood",
-        "state": "OH",
-        "zipCode": "45322"
-      },
-      "distance": 20.467443712506633,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "8324080",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      },
-      {
-        "date": "2021-04-21",
-        "slots": []
-      },
-      {
-        "date": "2021-04-22",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 981,
-    "loc_no": "01400984",
-    "facilityDetails": {
-      "facilityId": "01400984",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Troy Marketplace",
-      "address": {
-        "address1": "731 W. Market Street",
-        "address2": "",
-        "city": "Troy",
-        "state": "OH",
-        "zipCode": "45373"
-      },
-      "distance": 8.615986343008394,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "5734530",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
         "slots": [
+          {
+            "start_time": "08:00:00",
+            "duration": 15,
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
+            "ar_order": 1,
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
+          },
+          {
+            "start_time": "08:15:00",
+            "duration": 15,
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
+            "ar_order": 1,
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
+            "ar_order": 1,
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
+          },
           {
             "start_time": "08:45:00",
             "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
             "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
+          }
+        ]
+      },
+      {
+        "date": "2021-04-17",
+        "slots": [
+          {
+            "start_time": "09:00:00",
+            "duration": 15,
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
+            "ar_order": 1,
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
+          },
+          {
+            "start_time": "09:15:00",
+            "duration": 15,
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
+            "ar_order": 1,
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
           },
           {
             "start_time": "09:30:00",
             "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
             "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
+          },
+          {
+            "start_time": "09:45:00",
+            "duration": 15,
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
+            "ar_order": 1,
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
           }
         ]
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
       },
       {
         "date": "2021-04-18",
@@ -1577,98 +561,52 @@
     ]
   },
   {
-    "loc_id": 3242,
-    "loc_no": "85000943",
+    "loc_id": 908,
+    "loc_no": "01400411",
     "facilityDetails": {
-      "facilityId": "85000943",
-      "legalName": "The Little Clinic, LLC",
-      "vanityName": "Piqua Second Dose Educator Make-Up Clinic",
+      "facilityId": "01400411",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Milford",
       "address": {
-        "address1": "731 W Market St",
+        "address1": "824 Main St",
         "address2": "",
-        "city": "Troy",
+        "city": "Milford",
         "state": "OH",
-        "zipCode": "45373"
+        "zipCode": "45150"
       },
-      "distance": 8.621975605470194,
+      "distance": 7.622554611413811,
       "phone": {
         "countryCode": "",
-        "areaCode": "877",
-        "phoneNumber": "8522677",
+        "areaCode": "513",
+        "phoneNumber": "8314269",
         "extension": ""
       },
-      "onlinePaymentsEnabled": false,
+      "onlinePaymentsEnabled": true,
       "onlineOrderingEnabled": false,
       "pharmacyHours": {
-        "sundayClose": "",
-        "sundayOpen": "",
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
         "sundayHours": "",
-        "mondayClose": "",
-        "mondayOpen": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
         "mondayHours": "",
-        "tuesdayClose": "",
-        "tuesdayOpen": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
         "tuesdayHours": "",
-        "wednesdayClose": "",
-        "wednesdayOpen": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
         "wednesdayHours": "",
-        "thursdayClose": "",
-        "thursdayOpen": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
         "thursdayHours": "",
-        "fridayClose": "",
-        "fridayOpen": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
         "fridayHours": "",
-        "saturdayClose": "",
-        "saturdayOpen": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "COVID",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": []
-  },
-  {
-    "loc_id": 3264,
-    "loc_no": "85000927",
-    "facilityDetails": {
-      "facilityId": "85000927",
-      "legalName": "The Little Clinic, LLC",
-      "vanityName": "Thurgood Marshall High School Clinic",
-      "address": {
-        "address1": "4447 Hoover Ave",
-        "address2": "",
-        "city": "Dayton",
-        "state": "OH",
-        "zipCode": "45417"
-      },
-      "distance": 27.0686550779574,
-      "onlinePaymentsEnabled": false,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "",
-        "sundayOpen": "",
-        "sundayHours": "",
-        "mondayClose": "",
-        "mondayOpen": "",
-        "mondayHours": "",
-        "tuesdayClose": "",
-        "tuesdayOpen": "",
-        "tuesdayHours": "",
-        "wednesdayClose": "",
-        "wednesdayOpen": "",
-        "wednesdayHours": "",
-        "thursdayClose": "",
-        "thursdayOpen": "",
-        "thursdayHours": "",
-        "fridayClose": "",
-        "fridayOpen": "",
-        "fridayHours": "",
-        "saturdayClose": "",
-        "saturdayOpen": "",
-        "saturdayHours": ""
-      },
-      "brand": "COVID",
+      "brand": "KROGER",
       "isPharmacyLocation": true,
       "isTlcLocation": false
     },
@@ -1736,24 +674,815 @@
     ]
   },
   {
-    "loc_id": 174,
-    "loc_no": "85400403",
+    "loc_id": 913,
+    "loc_no": "01400421",
     "facilityDetails": {
-      "facilityId": "85400403",
-      "legalName": "The Little Clinic, LLC",
-      "vanityName": "938 Englewood Clinic",
+      "facilityId": "01400421",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Mariemont",
       "address": {
-        "address1": "885 Union Rd",
+        "address1": "7385 Wooster Pike",
         "address2": "",
-        "city": "Englewood",
+        "city": "Cincinnati",
         "state": "OH",
-        "zipCode": "45322"
+        "zipCode": "45227"
       },
-      "distance": 20.46845256797943,
+      "distance": 5.01300152048576,
       "phone": {
         "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "8324091",
+        "areaCode": "513",
+        "phoneNumber": "2719320",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 919,
+    "loc_no": "01400431",
+    "facilityDetails": {
+      "facilityId": "01400431",
+      "legalName": "Placeholder - Company",
+      "vanityName": "Cherry Grove",
+      "address": {
+        "address1": "450 Ohio Pike",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45255"
+      },
+      "distance": 1.0618705322855229,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "5286131",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 924,
+    "loc_no": "01400438",
+    "facilityDetails": {
+      "facilityId": "01400438",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Mt. Washington",
+      "address": {
+        "address1": "2120 Beechmont Ave",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45230"
+      },
+      "distance": 3.287339050284625,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "2324474",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 933,
+    "loc_no": "01400468",
+    "facilityDetails": {
+      "facilityId": "01400468",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Pierce Township Marketplace",
+      "address": {
+        "address1": "262 W. Main Street",
+        "address2": "",
+        "city": "Amelia",
+        "state": "OH",
+        "zipCode": "45102"
+      },
+      "distance": 5.854867453695823,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "7182220",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 955,
+    "loc_no": "01400902",
+    "facilityDetails": {
+      "facilityId": "01400902",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Eastgate",
+      "address": {
+        "address1": "4530 Eastgate Blvd #500",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45245"
+      },
+      "distance": 3.827397205784018,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "9436340",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 960,
+    "loc_no": "01400915",
+    "facilityDetails": {
+      "facilityId": "01400915",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Anderson Township",
+      "address": {
+        "address1": "7580 Beechmont Ave",
+        "address2": "",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": "45255"
+      },
+      "distance": 0.9042748843704067,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "2334420",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 975,
+    "loc_no": "01400946",
+    "facilityDetails": {
+      "facilityId": "01400946",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Highland Hts Cold Sp",
+      "address": {
+        "address1": "70 Martha Layne Collins Blvd",
+        "address2": "",
+        "city": "Cold Spring",
+        "state": "KY",
+        "zipCode": "41076"
+      },
+      "distance": 7.333285904953416,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "859",
+        "phoneNumber": "7816372",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 115,
+    "loc_no": "85300401",
+    "facilityDetails": {
+      "facilityId": "85300401",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "410 Cold Spring Clinic",
+      "address": {
+        "address1": "375 Crossroads Blvd",
+        "address2": "",
+        "city": "Cold Spring",
+        "state": "KY",
+        "zipCode": "41076"
+      },
+      "distance": 6.652852219605852,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "859",
+        "phoneNumber": "4481201",
         "extension": ""
       },
       "onlinePaymentsEnabled": false,
@@ -1765,24 +1494,24 @@
     "dates": []
   },
   {
-    "loc_id": 175,
-    "loc_no": "85400404",
+    "loc_id": 152,
+    "loc_no": "85400303",
     "facilityDetails": {
-      "facilityId": "85400404",
+      "facilityId": "85400303",
       "legalName": "The Little Clinic, LLC",
-      "vanityName": "932 Piqua Clinic",
+      "vanityName": "355 Hyde Park Clinic",
       "address": {
-        "address1": "1510 Covington Ave",
+        "address1": "3760 Paxton Ave",
         "address2": "",
-        "city": "Piqua",
+        "city": "Cincinnati",
         "state": "OH",
-        "zipCode": "45356"
+        "zipCode": "45209"
       },
-      "distance": 1.3279018049750806,
+      "distance": 7.247220237647743,
       "phone": {
         "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "3818244",
+        "areaCode": "513",
+        "phoneNumber": "4888077",
         "extension": ""
       },
       "onlinePaymentsEnabled": false,
@@ -1794,24 +1523,24 @@
     "dates": []
   },
   {
-    "loc_id": 176,
-    "loc_no": "85400405",
+    "loc_id": 155,
+    "loc_no": "85400307",
     "facilityDetails": {
-      "facilityId": "85400405",
+      "facilityId": "85400307",
       "legalName": "The Little Clinic, LLC",
-      "vanityName": "747 Vandalia Clinic",
+      "vanityName": "915 Anderson Township Clinic",
       "address": {
-        "address1": "780 Northwoods Blvd",
+        "address1": "7580 Beechmont Ave",
         "address2": "",
-        "city": "Vandalia",
+        "city": "Cincinnati",
         "state": "OH",
-        "zipCode": "45377"
+        "zipCode": "45255"
       },
-      "distance": 17.869183781807433,
+      "distance": 0.9042748843704067,
       "phone": {
         "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "6650324",
+        "areaCode": "513",
+        "phoneNumber": "5786093",
         "extension": ""
       },
       "onlinePaymentsEnabled": false,
@@ -1823,24 +1552,53 @@
     "dates": []
   },
   {
-    "loc_id": 179,
-    "loc_no": "85400408",
+    "loc_id": 162,
+    "loc_no": "85400314",
     "facilityDetails": {
-      "facilityId": "85400408",
+      "facilityId": "85400314",
       "legalName": "The Little Clinic, LLC",
-      "vanityName": "984 Troy Marketplace Clinic",
+      "vanityName": "468 Mainstreet Marketplace Clinic",
       "address": {
-        "address1": "731 W Market St",
+        "address1": "262 W Main St",
         "address2": "",
-        "city": "Troy",
+        "city": "Amelia",
         "state": "OH",
-        "zipCode": "45373"
+        "zipCode": "45102"
       },
-      "distance": 8.613018598973172,
+      "distance": 5.853022930096863,
       "phone": {
         "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "5734380",
+        "areaCode": "513",
+        "phoneNumber": "7182260",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "brand": "THE LITTLE CLINIC",
+      "isPharmacyLocation": false,
+      "isTlcLocation": true
+    },
+    "dates": []
+  },
+  {
+    "loc_id": 165,
+    "loc_no": "85400317",
+    "facilityDetails": {
+      "facilityId": "85400317",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "411 Milford Clinic",
+      "address": {
+        "address1": "824 Main St",
+        "address2": "",
+        "city": "Milford",
+        "state": "OH",
+        "zipCode": "45150"
+      },
+      "distance": 7.598065162092303,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "513",
+        "phoneNumber": "7745606",
         "extension": ""
       },
       "onlinePaymentsEnabled": false,
