@@ -51,10 +51,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -108,6 +104,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -164,10 +164,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -221,6 +217,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -277,10 +277,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -334,6 +330,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -390,10 +390,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -447,6 +443,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -503,10 +503,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -560,6 +556,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -616,10 +616,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -673,6 +669,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -729,10 +729,6 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": []
       },
@@ -786,6 +782,10 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
@@ -842,353 +842,10 @@
     },
     "dates": [
       {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      },
-      {
-        "date": "2021-04-21",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 1088,
-    "loc_no": "01600942",
-    "facilityDetails": {
-      "facilityId": "01600942",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Chambers Rd",
-      "address": {
-        "address1": "1375 Chambers Rd",
-        "address2": "",
-        "city": "Columbus",
-        "state": "OH",
-        "zipCode": "43212"
-      },
-      "distance": 6.041858620292676,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "614",
-        "phoneNumber": "4884062",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "10:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "10:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "10:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "10:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "10:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      },
-      {
-        "date": "2021-04-21",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 1092,
-    "loc_no": "01600966",
-    "facilityDetails": {
-      "facilityId": "01600966",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Cemetery Road",
-      "address": {
-        "address1": "4656 Cemetery Rd",
-        "address2": "",
-        "city": "Hilliard",
-        "state": "OH",
-        "zipCode": "43026"
-      },
-      "distance": 0.8468923533555814,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "614",
-        "phoneNumber": "8761248",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "19:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
-        "date": "2021-04-08",
-        "slots": []
-      },
-      {
-        "date": "2021-04-09",
-        "slots": []
-      },
-      {
-        "date": "2021-04-10",
-        "slots": []
-      },
-      {
-        "date": "2021-04-11",
-        "slots": []
-      },
-      {
-        "date": "2021-04-12",
-        "slots": []
-      },
-      {
-        "date": "2021-04-13",
-        "slots": []
-      },
-      {
-        "date": "2021-04-14",
-        "slots": []
-      },
-      {
-        "date": "2021-04-15",
-        "slots": []
-      },
-      {
-        "date": "2021-04-16",
-        "slots": []
-      },
-      {
-        "date": "2021-04-17",
-        "slots": []
-      },
-      {
-        "date": "2021-04-18",
-        "slots": []
-      },
-      {
-        "date": "2021-04-19",
-        "slots": []
-      },
-      {
-        "date": "2021-04-20",
-        "slots": []
-      },
-      {
-        "date": "2021-04-21",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 1093,
-    "loc_no": "01600971",
-    "facilityDetails": {
-      "facilityId": "01600971",
-      "legalName": "The Kroger Co.",
-      "vanityName": "Clintonville",
-      "address": {
-        "address1": "3417 N High St",
-        "address2": "",
-        "city": "Columbus",
-        "state": "OH",
-        "zipCode": "43214"
-      },
-      "distance": 7.056664063125881,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "614",
-        "phoneNumber": "2631796",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "10:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "10:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "10:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "10:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "10:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
-      {
         "date": "2021-04-08",
         "slots": [
           {
-            "start_time": "09:15:00",
+            "start_time": "15:00:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -1197,7 +854,7 @@
             "follow_up_days_after": 28
           },
           {
-            "start_time": "09:30:00",
+            "start_time": "15:15:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -1206,7 +863,7 @@
             "follow_up_days_after": 28
           },
           {
-            "start_time": "09:45:00",
+            "start_time": "15:45:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -1215,61 +872,7 @@
             "follow_up_days_after": 28
           },
           {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:30:00",
+            "start_time": "16:00:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -1279,15 +882,6 @@
           },
           {
             "start_time": "16:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:45:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -1348,58 +942,64 @@
       {
         "date": "2021-04-21",
         "slots": []
+      },
+      {
+        "date": "2021-04-22",
+        "slots": []
       }
     ]
   },
   {
-    "loc_id": 3314,
-    "loc_no": "85000903",
+    "loc_id": 1088,
+    "loc_no": "01600942",
     "facilityDetails": {
-      "facilityId": "85000903",
-      "legalName": "The Little Clinic, LLC",
-      "vanityName": "St John Arena - Lane Ave Entrance - Open to Public",
+      "facilityId": "01600942",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Chambers Rd",
       "address": {
-        "address1": "410 Woody Hayes Dr",
+        "address1": "1375 Chambers Rd",
         "address2": "",
         "city": "Columbus",
         "state": "OH",
-        "zipCode": "43210"
+        "zipCode": "43212"
       },
-      "distance": 7.080798069519783,
-      "onlinePaymentsEnabled": false,
+      "distance": 6.041858620292676,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "614",
+        "phoneNumber": "4884062",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
       "onlineOrderingEnabled": false,
       "pharmacyHours": {
-        "sundayClose": "",
-        "sundayOpen": "",
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
         "sundayHours": "",
-        "mondayClose": "",
-        "mondayOpen": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "10:00",
         "mondayHours": "",
-        "tuesdayClose": "",
-        "tuesdayOpen": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "10:00",
         "tuesdayHours": "",
-        "wednesdayClose": "",
-        "wednesdayOpen": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "10:00",
         "wednesdayHours": "",
-        "thursdayClose": "",
-        "thursdayOpen": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "10:00",
         "thursdayHours": "",
-        "fridayClose": "",
-        "fridayOpen": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "10:00",
         "fridayHours": "",
-        "saturdayClose": "",
-        "saturdayOpen": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
         "saturdayHours": ""
       },
-      "brand": "COVID",
+      "brand": "KROGER",
       "isPharmacyLocation": true,
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-04-07",
-        "slots": []
-      },
       {
         "date": "2021-04-08",
         "slots": []
@@ -1454,6 +1054,450 @@
       },
       {
         "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1092,
+    "loc_no": "01600966",
+    "facilityDetails": {
+      "facilityId": "01600966",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Cemetery Road",
+      "address": {
+        "address1": "4656 Cemetery Rd",
+        "address2": "",
+        "city": "Hilliard",
+        "state": "OH",
+        "zipCode": "43026"
+      },
+      "distance": 0.8468923533555814,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "614",
+        "phoneNumber": "8761248",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "19:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 1093,
+    "loc_no": "01600971",
+    "facilityDetails": {
+      "facilityId": "01600971",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Clintonville",
+      "address": {
+        "address1": "3417 N High St",
+        "address2": "",
+        "city": "Columbus",
+        "state": "OH",
+        "zipCode": "43214"
+      },
+      "distance": 7.056664063125881,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "614",
+        "phoneNumber": "2631796",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "10:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "10:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "10:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "10:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "10:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 3314,
+    "loc_no": "85000903",
+    "facilityDetails": {
+      "facilityId": "85000903",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "St John Arena - Lane Ave Entrance - Open to Public",
+      "address": {
+        "address1": "410 Woody Hayes Dr",
+        "address2": "",
+        "city": "Columbus",
+        "state": "OH",
+        "zipCode": "43210"
+      },
+      "distance": 7.080798069519783,
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "",
+        "sundayOpen": "",
+        "sundayHours": "",
+        "mondayClose": "",
+        "mondayOpen": "",
+        "mondayHours": "",
+        "tuesdayClose": "",
+        "tuesdayOpen": "",
+        "tuesdayHours": "",
+        "wednesdayClose": "",
+        "wednesdayOpen": "",
+        "wednesdayHours": "",
+        "thursdayClose": "",
+        "thursdayOpen": "",
+        "thursdayHours": "",
+        "fridayClose": "",
+        "fridayOpen": "",
+        "fridayHours": "",
+        "saturdayClose": "",
+        "saturdayOpen": "",
+        "saturdayHours": ""
+      },
+      "brand": "COVID",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 3363,
+    "loc_no": "85000858",
+    "facilityDetails": {
+      "facilityId": "85000858",
+      "legalName": "The Little Clinic, LLC",
+      "vanityName": "Ohio Bar Association",
+      "address": {
+        "address1": "1700 Lake Shore Dr",
+        "address2": "",
+        "city": "Columbus",
+        "state": "OH",
+        "zipCode": "43204"
+      },
+      "distance": 4.904784304749235,
+      "onlinePaymentsEnabled": false,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "",
+        "sundayOpen": "",
+        "sundayHours": "",
+        "mondayClose": "",
+        "mondayOpen": "",
+        "mondayHours": "",
+        "tuesdayClose": "",
+        "tuesdayOpen": "",
+        "tuesdayHours": "",
+        "wednesdayClose": "",
+        "wednesdayOpen": "",
+        "wednesdayHours": "",
+        "thursdayClose": "",
+        "thursdayOpen": "",
+        "thursdayHours": "",
+        "fridayClose": "",
+        "fridayOpen": "",
+        "fridayHours": "",
+        "saturdayClose": "",
+        "saturdayOpen": "",
+        "saturdayHours": ""
+      },
+      "brand": "COVID",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
+        "date": "2021-04-08",
+        "slots": []
+      },
+      {
+        "date": "2021-04-09",
+        "slots": []
+      },
+      {
+        "date": "2021-04-10",
+        "slots": []
+      },
+      {
+        "date": "2021-04-11",
+        "slots": []
+      },
+      {
+        "date": "2021-04-12",
+        "slots": []
+      },
+      {
+        "date": "2021-04-13",
+        "slots": []
+      },
+      {
+        "date": "2021-04-14",
+        "slots": []
+      },
+      {
+        "date": "2021-04-15",
+        "slots": []
+      },
+      {
+        "date": "2021-04-16",
+        "slots": []
+      },
+      {
+        "date": "2021-04-17",
+        "slots": []
+      },
+      {
+        "date": "2021-04-18",
+        "slots": []
+      },
+      {
+        "date": "2021-04-19",
+        "slots": []
+      },
+      {
+        "date": "2021-04-20",
+        "slots": []
+      },
+      {
+        "date": "2021-04-21",
+        "slots": []
+      },
+      {
+        "date": "2021-04-22",
         "slots": []
       }
     ]
