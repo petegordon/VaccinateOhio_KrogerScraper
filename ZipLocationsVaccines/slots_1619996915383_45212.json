@@ -52,17 +52,7 @@
     "dates": [
       {
         "date": "2021-05-02",
-        "slots": [
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-05-03",
@@ -1013,15 +1003,6 @@
         "date": "2021-05-04",
         "slots": [
           {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
             "start_time": "14:45:00",
             "duration": 15,
             "ar_id": 122,
@@ -1035,15 +1016,6 @@
       {
         "date": "2021-05-05",
         "slots": [
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
           {
             "start_time": "14:00:00",
             "duration": 15,
@@ -1092,6 +1064,15 @@
           },
           {
             "start_time": "15:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "15:45:00",
             "duration": 15,
             "ar_id": 122,
             "ar_reason": "Pfizer Dose 1",
@@ -5135,15 +5116,6 @@
             "follow_up_days_after": 21
           },
           {
-            "start_time": "12:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
             "start_time": "12:15:00",
             "duration": 15,
             "ar_id": 122,
@@ -7397,15 +7369,6 @@
       {
         "date": "2021-05-03",
         "slots": [
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
           {
             "start_time": "14:45:00",
             "duration": 15,
