@@ -51,10 +51,6 @@
     },
     "dates": [
       {
-        "date": "2021-05-04",
-        "slots": []
-      },
-      {
         "date": "2021-05-05",
         "slots": [
           {
@@ -429,7 +425,44 @@
       },
       {
         "date": "2021-05-15",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "09:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "09:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "09:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "09:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-05-16",
@@ -441,6 +474,10 @@
       },
       {
         "date": "2021-05-18",
+        "slots": []
+      },
+      {
+        "date": "2021-05-19",
         "slots": []
       }
     ]
@@ -496,10 +533,6 @@
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-05-04",
-        "slots": []
-      },
       {
         "date": "2021-05-05",
         "slots": []
@@ -571,15 +604,6 @@
       {
         "date": "2021-05-08",
         "slots": [
-          {
-            "start_time": "09:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
           {
             "start_time": "09:15:00",
             "duration": 15,
@@ -811,7 +835,44 @@
       },
       {
         "date": "2021-05-15",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "09:00:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "09:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "09:30:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "09:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          }
+        ]
       },
       {
         "date": "2021-05-16",
@@ -823,6 +884,10 @@
       },
       {
         "date": "2021-05-18",
+        "slots": []
+      },
+      {
+        "date": "2021-05-19",
         "slots": []
       }
     ]
@@ -878,10 +943,6 @@
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-05-04",
-        "slots": []
-      },
       {
         "date": "2021-05-05",
         "slots": [
@@ -1941,7 +2002,71 @@
       },
       {
         "date": "2021-05-15",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "09:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "14:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "14:30:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "14:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "15:30:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "15:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "16:00:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          }
+        ]
       },
       {
         "date": "2021-05-16",
@@ -1953,6 +2078,10 @@
       },
       {
         "date": "2021-05-18",
+        "slots": []
+      },
+      {
+        "date": "2021-05-19",
         "slots": []
       }
     ]
@@ -2008,10 +2137,6 @@
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-05-04",
-        "slots": []
-      },
       {
         "date": "2021-05-05",
         "slots": [
@@ -2182,17 +2307,7 @@
       },
       {
         "date": "2021-05-10",
-        "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-05-11",
@@ -2240,15 +2355,6 @@
         "slots": [
           {
             "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "08:45:00",
             "duration": 15,
             "ar_id": 122,
             "ar_reason": "Pfizer Dose 1",
@@ -2333,7 +2439,26 @@
       },
       {
         "date": "2021-05-15",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "09:00:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "09:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          }
+        ]
       },
       {
         "date": "2021-05-16",
@@ -2345,6 +2470,10 @@
       },
       {
         "date": "2021-05-18",
+        "slots": []
+      },
+      {
+        "date": "2021-05-19",
         "slots": []
       }
     ]
@@ -2400,10 +2529,6 @@
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-05-04",
-        "slots": []
-      },
       {
         "date": "2021-05-05",
         "slots": [
@@ -2463,15 +2588,6 @@
           },
           {
             "start_time": "12:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "12:30:00",
             "duration": 15,
             "ar_id": 122,
             "ar_reason": "Pfizer Dose 1",
@@ -2994,7 +3110,44 @@
       },
       {
         "date": "2021-05-15",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "09:00:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "09:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "09:30:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "09:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          }
+        ]
       },
       {
         "date": "2021-05-16",
@@ -3006,6 +3159,10 @@
       },
       {
         "date": "2021-05-18",
+        "slots": []
+      },
+      {
+        "date": "2021-05-19",
         "slots": []
       }
     ]
@@ -3061,10 +3218,6 @@
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-05-04",
-        "slots": []
-      },
       {
         "date": "2021-05-05",
         "slots": [
@@ -3404,7 +3557,44 @@
       },
       {
         "date": "2021-05-15",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "09:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "09:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "09:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "09:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-05-16",
@@ -3416,6 +3606,10 @@
       },
       {
         "date": "2021-05-18",
+        "slots": []
+      },
+      {
+        "date": "2021-05-19",
         "slots": []
       }
     ]
@@ -3471,10 +3665,6 @@
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-05-04",
-        "slots": []
-      },
       {
         "date": "2021-05-05",
         "slots": []
@@ -3577,15 +3767,6 @@
       {
         "date": "2021-05-11",
         "slots": [
-          {
-            "start_time": "10:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
           {
             "start_time": "10:30:00",
             "duration": 15,
@@ -4496,7 +4677,44 @@
       },
       {
         "date": "2021-05-15",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "09:00:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "09:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "09:30:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "09:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          }
+        ]
       },
       {
         "date": "2021-05-16",
@@ -4508,6 +4726,10 @@
       },
       {
         "date": "2021-05-18",
+        "slots": []
+      },
+      {
+        "date": "2021-05-19",
         "slots": []
       }
     ]
@@ -4564,10 +4786,6 @@
     },
     "dates": [
       {
-        "date": "2021-05-04",
-        "slots": []
-      },
-      {
         "date": "2021-05-05",
         "slots": [
           {
@@ -4611,24 +4829,6 @@
       {
         "date": "2021-05-06",
         "slots": [
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
           {
             "start_time": "14:00:00",
             "duration": 15,
@@ -5109,15 +5309,6 @@
         "date": "2021-05-12",
         "slots": [
           {
-            "start_time": "11:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
             "start_time": "12:45:00",
             "duration": 15,
             "ar_id": 122,
@@ -5455,7 +5646,26 @@
       },
       {
         "date": "2021-05-15",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "09:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "09:30:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          }
+        ]
       },
       {
         "date": "2021-05-16",
@@ -5467,6 +5677,10 @@
       },
       {
         "date": "2021-05-18",
+        "slots": []
+      },
+      {
+        "date": "2021-05-19",
         "slots": []
       }
     ]
@@ -5516,10 +5730,6 @@
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-05-04",
-        "slots": []
-      },
       {
         "date": "2021-05-05",
         "slots": [
@@ -6109,6 +6319,10 @@
       {
         "date": "2021-05-18",
         "slots": []
+      },
+      {
+        "date": "2021-05-19",
+        "slots": []
       }
     ]
   },
@@ -6157,10 +6371,6 @@
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-05-04",
-        "slots": []
-      },
       {
         "date": "2021-05-05",
         "slots": []
@@ -6333,6 +6543,10 @@
       },
       {
         "date": "2021-05-18",
+        "slots": []
+      },
+      {
+        "date": "2021-05-19",
         "slots": []
       }
     ]
