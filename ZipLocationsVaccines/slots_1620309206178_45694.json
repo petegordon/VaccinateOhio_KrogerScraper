@@ -13,7 +13,7 @@
         "state": "OH",
         "zipCode": "45690"
       },
-      "distance": 27.890398497521467,
+      "distance": 28.040159525625675,
       "phone": {
         "countryCode": "",
         "areaCode": "740",
@@ -53,42 +53,6 @@
       {
         "date": "2021-05-06",
         "slots": [
-          {
-            "start_time": "09:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "09:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "09:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "09:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
           {
             "start_time": "12:00:00",
             "duration": 15,
@@ -1836,7 +1800,7 @@
         "state": "OH",
         "zipCode": "45662"
       },
-      "distance": 9.24983123977517,
+      "distance": 9.206626940563153,
       "phone": {
         "countryCode": "",
         "areaCode": "740",
@@ -1876,51 +1840,6 @@
       {
         "date": "2021-05-06",
         "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "11:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
           {
             "start_time": "11:30:00",
             "duration": 15,
@@ -3415,7 +3334,7 @@
         "state": "OH",
         "zipCode": "45640"
       },
-      "distance": 23.281503721446104,
+      "distance": 23.443990156060867,
       "phone": {
         "countryCode": "",
         "areaCode": "740",
@@ -3455,42 +3374,6 @@
       {
         "date": "2021-05-06",
         "slots": [
-          {
-            "start_time": "09:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "09:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "09:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "09:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
           {
             "start_time": "11:00:00",
             "duration": 15,
@@ -5283,7 +5166,7 @@
         "state": "OH",
         "zipCode": "45694"
       },
-      "distance": 2.968715404158037,
+      "distance": 2.819020360724572,
       "phone": {
         "countryCode": "",
         "areaCode": "740",
@@ -5323,42 +5206,6 @@
       {
         "date": "2021-05-06",
         "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
           {
             "start_time": "12:00:00",
             "duration": 15,
@@ -5591,6 +5438,15 @@
           },
           {
             "start_time": "15:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "16:00:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -6909,7 +6765,7 @@
         "state": "OH",
         "zipCode": "45669"
       },
-      "distance": 31.90445952963913,
+      "distance": 31.81676638260821,
       "phone": {
         "countryCode": "",
         "areaCode": "740",
@@ -6949,42 +6805,6 @@
       {
         "date": "2021-05-06",
         "slots": [
-          {
-            "start_time": "09:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "09:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "09:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "09:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
           {
             "start_time": "11:30:00",
             "duration": 15,
@@ -7208,15 +7028,6 @@
           },
           {
             "start_time": "11:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "11:30:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -8514,7 +8325,7 @@
         "state": "WV",
         "zipCode": "25701"
       },
-      "distance": 30.409634366820402,
+      "distance": 30.30487638818961,
       "phone": {
         "countryCode": "",
         "areaCode": "304",
@@ -8554,33 +8365,6 @@
       {
         "date": "2021-05-06",
         "slots": [
-          {
-            "start_time": "09:00:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "09:15:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "09:30:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
           {
             "start_time": "11:00:00",
             "duration": 15,
@@ -8754,15 +8538,6 @@
           },
           {
             "start_time": "15:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:15:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -9033,15 +8808,6 @@
           },
           {
             "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:00:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -9993,7 +9759,7 @@
         "state": "KY",
         "zipCode": "41101"
       },
-      "distance": 20.868214952068854,
+      "distance": 20.734600949948025,
       "phone": {
         "countryCode": "",
         "areaCode": "606",
@@ -10033,33 +9799,6 @@
       {
         "date": "2021-05-06",
         "slots": [
-          {
-            "start_time": "09:15:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "09:30:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "09:45:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
           {
             "start_time": "11:00:00",
             "duration": 15,
@@ -11554,7 +11293,7 @@
         "state": "WV",
         "zipCode": "25504"
       },
-      "distance": 36.31657364713207,
+      "distance": 36.2368707487389,
       "phone": {
         "countryCode": "",
         "areaCode": "304",
@@ -11594,42 +11333,6 @@
       {
         "date": "2021-05-06",
         "slots": [
-          {
-            "start_time": "09:00:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "09:15:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "09:30:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "09:45:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
           {
             "start_time": "11:30:00",
             "duration": 15,
@@ -13187,7 +12890,7 @@
         "state": "WV",
         "zipCode": "25702"
       },
-      "distance": 31.6779813678663,
+      "distance": 31.584318329922468,
       "phone": {
         "countryCode": "",
         "areaCode": "304",
@@ -13227,42 +12930,6 @@
       {
         "date": "2021-05-06",
         "slots": [
-          {
-            "start_time": "09:00:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "09:15:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "09:30:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "09:45:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
           {
             "start_time": "11:00:00",
             "duration": 15,
@@ -13352,155 +13019,29 @@
           {
             "start_time": "09:15:00",
             "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
             "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
           },
           {
             "start_time": "09:30:00",
             "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
             "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
           },
           {
             "start_time": "09:45:00",
             "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
+            "ar_id": 129,
+            "ar_reason": "J&J COVID-19 Vaccine",
             "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "11:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "12:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "13:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "16:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "16:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "16:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
+            "follow_up_id": 0,
+            "follow_up_days_after": 0
           }
         ]
       },
@@ -14135,7 +13676,7 @@
         "state": "KY",
         "zipCode": "41101"
       },
-      "distance": 18.639187404410023,
+      "distance": 18.501275829869424,
       "phone": {
         "countryCode": "",
         "areaCode": "606",
@@ -14175,42 +13716,6 @@
       {
         "date": "2021-05-06",
         "slots": [
-          {
-            "start_time": "09:00:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "09:15:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "09:30:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "09:45:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
           {
             "start_time": "11:00:00",
             "duration": 15,
