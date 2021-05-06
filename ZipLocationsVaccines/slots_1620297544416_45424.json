@@ -51,10 +51,6 @@
     },
     "dates": [
       {
-        "date": "2021-05-05",
-        "slots": []
-      },
-      {
         "date": "2021-05-06",
         "slots": [
           {
@@ -648,6 +644,10 @@
       },
       {
         "date": "2021-05-19",
+        "slots": []
+      },
+      {
+        "date": "2021-05-20",
         "slots": []
       }
     ]
@@ -704,10 +704,6 @@
     },
     "dates": [
       {
-        "date": "2021-05-05",
-        "slots": []
-      },
-      {
         "date": "2021-05-06",
         "slots": [
           {
@@ -1506,6 +1502,10 @@
       },
       {
         "date": "2021-05-19",
+        "slots": []
+      },
+      {
+        "date": "2021-05-20",
         "slots": []
       }
     ]
@@ -1562,10 +1562,6 @@
     },
     "dates": [
       {
-        "date": "2021-05-05",
-        "slots": []
-      },
-      {
         "date": "2021-05-06",
         "slots": [
           {
@@ -1588,6 +1584,15 @@
           },
           {
             "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:00:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -2357,6 +2362,10 @@
       {
         "date": "2021-05-19",
         "slots": []
+      },
+      {
+        "date": "2021-05-20",
+        "slots": []
       }
     ]
   },
@@ -2411,10 +2420,6 @@
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-05-05",
-        "slots": []
-      },
       {
         "date": "2021-05-06",
         "slots": [
@@ -2692,15 +2697,6 @@
           },
           {
             "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:30:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -3100,6 +3096,10 @@
       {
         "date": "2021-05-19",
         "slots": []
+      },
+      {
+        "date": "2021-05-20",
+        "slots": []
       }
     ]
   },
@@ -3154,10 +3154,6 @@
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-05-05",
-        "slots": []
-      },
       {
         "date": "2021-05-06",
         "slots": [
@@ -3808,6 +3804,10 @@
       {
         "date": "2021-05-19",
         "slots": []
+      },
+      {
+        "date": "2021-05-20",
+        "slots": []
       }
     ]
   },
@@ -3862,10 +3862,6 @@
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-05-05",
-        "slots": []
-      },
       {
         "date": "2021-05-06",
         "slots": [
@@ -4682,6 +4678,10 @@
       {
         "date": "2021-05-19",
         "slots": []
+      },
+      {
+        "date": "2021-05-20",
+        "slots": []
       }
     ]
   },
@@ -4736,10 +4736,6 @@
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-05-05",
-        "slots": []
-      },
       {
         "date": "2021-05-06",
         "slots": [
@@ -6244,6 +6240,10 @@
       {
         "date": "2021-05-19",
         "slots": []
+      },
+      {
+        "date": "2021-05-20",
+        "slots": []
       }
     ]
   },
@@ -6298,10 +6298,6 @@
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-05-05",
-        "slots": []
-      },
       {
         "date": "2021-05-06",
         "slots": [
@@ -7851,6 +7847,10 @@
       {
         "date": "2021-05-19",
         "slots": []
+      },
+      {
+        "date": "2021-05-20",
+        "slots": []
       }
     ]
   },
@@ -7905,10 +7905,6 @@
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-05-05",
-        "slots": []
-      },
       {
         "date": "2021-05-06",
         "slots": []
@@ -8367,6 +8363,10 @@
       {
         "date": "2021-05-19",
         "slots": []
+      },
+      {
+        "date": "2021-05-20",
+        "slots": []
       }
     ]
   },
@@ -8415,10 +8415,6 @@
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-05-05",
-        "slots": []
-      },
       {
         "date": "2021-05-06",
         "slots": []
@@ -8473,6 +8469,10 @@
       },
       {
         "date": "2021-05-19",
+        "slots": []
+      },
+      {
+        "date": "2021-05-20",
         "slots": []
       }
     ]
