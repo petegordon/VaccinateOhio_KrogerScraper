@@ -51,405 +51,8 @@
     },
     "dates": [
       {
-        "date": "2021-05-12",
-        "slots": []
-      },
-      {
-        "date": "2021-05-13",
-        "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "11:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "11:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "11:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "11:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
         "date": "2021-05-14",
-        "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "11:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "11:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "11:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "11:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-05-15",
@@ -554,15 +157,6 @@
             "follow_up_days_after": 28
           },
           {
-            "start_time": "11:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
             "start_time": "11:45:00",
             "duration": 15,
             "ar_id": 125,
@@ -636,24 +230,6 @@
           },
           {
             "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:45:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -1000,15 +576,6 @@
             "follow_up_days_after": 28
           },
           {
-            "start_time": "12:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
             "start_time": "12:30:00",
             "duration": 15,
             "ar_id": 125,
@@ -1318,24 +885,6 @@
             "ar_order": 1,
             "follow_up_id": 126,
             "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
           }
         ]
       },
@@ -1386,7 +935,179 @@
       },
       {
         "date": "2021-05-24",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-05-25",
@@ -1394,6 +1115,14 @@
       },
       {
         "date": "2021-05-26",
+        "slots": []
+      },
+      {
+        "date": "2021-05-27",
+        "slots": []
+      },
+      {
+        "date": "2021-05-28",
         "slots": []
       }
     ]
@@ -1450,195 +1179,14 @@
     },
     "dates": [
       {
-        "date": "2021-05-12",
-        "slots": []
-      },
-      {
-        "date": "2021-05-13",
-        "slots": [
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "10:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "10:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "11:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "11:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "11:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "11:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "13:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          }
-        ]
-      },
-      {
         "date": "2021-05-14",
-        "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "10:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "10:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "10:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "11:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "11:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-05-15",
         "slots": [
           {
             "start_time": "09:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "09:30:00",
             "duration": 15,
             "ar_id": 122,
             "ar_reason": "Pfizer Dose 1",
@@ -1710,42 +1258,6 @@
             "follow_up_days_after": 21
           },
           {
-            "start_time": "10:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "11:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "11:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "11:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
             "start_time": "11:45:00",
             "duration": 15,
             "ar_id": 122,
@@ -1755,25 +1267,7 @@
             "follow_up_days_after": 21
           },
           {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:15:00",
+            "start_time": "14:45:00",
             "duration": 15,
             "ar_id": 122,
             "ar_reason": "Pfizer Dose 1",
@@ -1855,24 +1349,6 @@
           },
           {
             "start_time": "11:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "14:45:00",
             "duration": 15,
             "ar_id": 122,
             "ar_reason": "Pfizer Dose 1",
@@ -2019,33 +1495,6 @@
             "ar_order": 1,
             "follow_up_id": 123,
             "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
           }
         ]
       },
@@ -2159,51 +1608,6 @@
             "ar_order": 1,
             "follow_up_id": 123,
             "follow_up_days_after": 21
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "13:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "16:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
           }
         ]
       },
@@ -2236,7 +1640,215 @@
       },
       {
         "date": "2021-05-24",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "08:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "10:00:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "10:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "10:30:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "10:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "11:00:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "11:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "11:30:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "11:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "12:00:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "12:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "12:30:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "12:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "13:00:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "13:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "13:30:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "13:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "14:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "14:30:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "14:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "15:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          }
+        ]
       },
       {
         "date": "2021-05-25",
@@ -2244,6 +1856,14 @@
       },
       {
         "date": "2021-05-26",
+        "slots": []
+      },
+      {
+        "date": "2021-05-27",
+        "slots": []
+      },
+      {
+        "date": "2021-05-28",
         "slots": []
       }
     ]
@@ -2300,324 +1920,8 @@
     },
     "dates": [
       {
-        "date": "2021-05-12",
-        "slots": []
-      },
-      {
-        "date": "2021-05-13",
-        "slots": [
-          {
-            "start_time": "11:45:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "12:00:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "12:15:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "12:30:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "13:00:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "13:15:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          },
-          {
-            "start_time": "15:30:00",
-            "duration": 15,
-            "ar_id": 129,
-            "ar_reason": "J&J COVID-19 Vaccine",
-            "ar_order": 1,
-            "follow_up_id": 0,
-            "follow_up_days_after": 0
-          }
-        ]
-      },
-      {
         "date": "2021-05-14",
-        "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "11:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "11:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "11:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "11:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-05-15",
@@ -2846,19 +2150,482 @@
       },
       {
         "date": "2021-05-19",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-05-20",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-05-21",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-05-22",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "09:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "09:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "09:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "09:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-05-23",
@@ -2874,6 +2641,14 @@
       },
       {
         "date": "2021-05-26",
+        "slots": []
+      },
+      {
+        "date": "2021-05-27",
+        "slots": []
+      },
+      {
+        "date": "2021-05-28",
         "slots": []
       }
     ]
@@ -2930,216 +2705,8 @@
     },
     "dates": [
       {
-        "date": "2021-05-12",
-        "slots": []
-      },
-      {
-        "date": "2021-05-13",
-        "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
         "date": "2021-05-14",
-        "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-05-15",
@@ -3226,34 +2793,7 @@
             "follow_up_days_after": 28
           },
           {
-            "start_time": "13:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
             "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:15:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -3680,7 +3220,98 @@
       },
       {
         "date": "2021-05-24",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-05-25",
@@ -3688,6 +3319,14 @@
       },
       {
         "date": "2021-05-26",
+        "slots": []
+      },
+      {
+        "date": "2021-05-27",
+        "slots": []
+      },
+      {
+        "date": "2021-05-28",
         "slots": []
       }
     ]
@@ -3744,123 +3383,6 @@
     },
     "dates": [
       {
-        "date": "2021-05-12",
-        "slots": []
-      },
-      {
-        "date": "2021-05-13",
-        "slots": [
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
         "date": "2021-05-14",
         "slots": []
       },
@@ -3940,15 +3462,6 @@
             "follow_up_days_after": 28
           },
           {
-            "start_time": "13:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
             "start_time": "13:30:00",
             "duration": 15,
             "ar_id": 125,
@@ -3992,15 +3505,6 @@
             "ar_order": 1,
             "follow_up_id": 126,
             "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
           }
         ]
       },
@@ -4031,24 +3535,6 @@
           },
           {
             "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:30:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -4130,15 +3616,6 @@
           },
           {
             "start_time": "15:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:15:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -4375,7 +3852,125 @@
       },
       {
         "date": "2021-05-24",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-05-25",
@@ -4383,6 +3978,14 @@
       },
       {
         "date": "2021-05-26",
+        "slots": []
+      },
+      {
+        "date": "2021-05-27",
+        "slots": []
+      },
+      {
+        "date": "2021-05-28",
         "slots": []
       }
     ]
@@ -4439,265 +4042,12 @@
     },
     "dates": [
       {
-        "date": "2021-05-12",
-        "slots": []
-      },
-      {
-        "date": "2021-05-13",
-        "slots": [
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
         "date": "2021-05-14",
-        "slots": [
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-05-15",
         "slots": [
-          {
-            "start_time": "09:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
           {
             "start_time": "09:15:00",
             "duration": 15,
@@ -4739,15 +4089,6 @@
         "date": "2021-05-18",
         "slots": [
           {
-            "start_time": "11:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
             "start_time": "12:00:00",
             "duration": 15,
             "ar_id": 125,
@@ -4767,15 +4108,6 @@
           },
           {
             "start_time": "12:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:45:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -4848,15 +4180,6 @@
           },
           {
             "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:00:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -5215,24 +4538,6 @@
             "ar_order": 1,
             "follow_up_id": 126,
             "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
           }
         ]
       },
@@ -5378,7 +4683,143 @@
       },
       {
         "date": "2021-05-24",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "16:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "16:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "16:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "16:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-05-25",
@@ -5386,6 +4827,14 @@
       },
       {
         "date": "2021-05-26",
+        "slots": []
+      },
+      {
+        "date": "2021-05-27",
+        "slots": []
+      },
+      {
+        "date": "2021-05-28",
         "slots": []
       }
     ]
@@ -5442,189 +4891,8 @@
     },
     "dates": [
       {
-        "date": "2021-05-12",
-        "slots": []
-      },
-      {
-        "date": "2021-05-13",
-        "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
         "date": "2021-05-14",
-        "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-05-15",
@@ -6715,7 +5983,224 @@
       },
       {
         "date": "2021-05-24",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "16:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "16:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "16:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "16:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-05-25",
@@ -6723,6 +6208,14 @@
       },
       {
         "date": "2021-05-26",
+        "slots": []
+      },
+      {
+        "date": "2021-05-27",
+        "slots": []
+      },
+      {
+        "date": "2021-05-28",
         "slots": []
       }
     ]
@@ -6779,225 +6272,8 @@
     },
     "dates": [
       {
-        "date": "2021-05-12",
-        "slots": []
-      },
-      {
-        "date": "2021-05-13",
-        "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
         "date": "2021-05-14",
-        "slots": [
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-05-15",
@@ -7148,15 +6424,6 @@
           },
           {
             "start_time": "15:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:45:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -7547,7 +6814,143 @@
       },
       {
         "date": "2021-05-24",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-05-25",
@@ -7555,6 +6958,14 @@
       },
       {
         "date": "2021-05-26",
+        "slots": []
+      },
+      {
+        "date": "2021-05-27",
+        "slots": []
+      },
+      {
+        "date": "2021-05-28",
         "slots": []
       }
     ]
@@ -7611,324 +7022,8 @@
     },
     "dates": [
       {
-        "date": "2021-05-12",
-        "slots": []
-      },
-      {
-        "date": "2021-05-13",
-        "slots": [
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
         "date": "2021-05-14",
-        "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "16:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-05-15",
@@ -8757,85 +7852,6 @@
       },
       {
         "date": "2021-05-24",
-        "slots": []
-      },
-      {
-        "date": "2021-05-25",
-        "slots": []
-      },
-      {
-        "date": "2021-05-26",
-        "slots": []
-      }
-    ]
-  },
-  {
-    "loc_id": 953,
-    "loc_no": "01400838",
-    "facilityDetails": {
-      "facilityId": "01400838",
-      "legalName": "Kroger Limited Partnership I",
-      "vanityName": "Kroger Marketplace",
-      "address": {
-        "address1": "1161 E Dayton Yellow Springs Rd",
-        "address2": "",
-        "city": "Fairborn",
-        "state": "OH",
-        "zipCode": "45324"
-      },
-      "distance": 13.427721913104637,
-      "phone": {
-        "countryCode": "",
-        "areaCode": "937",
-        "phoneNumber": "3183920",
-        "extension": ""
-      },
-      "onlinePaymentsEnabled": true,
-      "onlineOrderingEnabled": false,
-      "pharmacyHours": {
-        "sundayClose": "18:00",
-        "sundayOpen": "10:00",
-        "sundayHours": "",
-        "mondayClose": "21:00",
-        "mondayOpen": "09:00",
-        "mondayHours": "",
-        "tuesdayClose": "21:00",
-        "tuesdayOpen": "09:00",
-        "tuesdayHours": "",
-        "wednesdayClose": "21:00",
-        "wednesdayOpen": "09:00",
-        "wednesdayHours": "",
-        "thursdayClose": "21:00",
-        "thursdayOpen": "09:00",
-        "thursdayHours": "",
-        "fridayClose": "21:00",
-        "fridayOpen": "09:00",
-        "fridayHours": "",
-        "saturdayClose": "18:00",
-        "saturdayOpen": "10:00",
-        "saturdayHours": ""
-      },
-      "brand": "KROGER",
-      "isPharmacyLocation": true,
-      "isTlcLocation": false
-    },
-    "dates": [
-      {
-        "date": "2021-05-12",
-        "slots": [
-          {
-            "start_time": "18:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
-      },
-      {
-        "date": "2021-05-13",
         "slots": [
           {
             "start_time": "08:00:00",
@@ -8874,7 +7890,25 @@
             "follow_up_days_after": 28
           },
           {
-            "start_time": "11:30:00",
+            "start_time": "12:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:30:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -8884,6 +7918,33 @@
           },
           {
             "start_time": "12:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:30:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -8973,7 +8034,34 @@
             "follow_up_days_after": 28
           },
           {
-            "start_time": "17:15:00",
+            "start_time": "16:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "16:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "16:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "16:45:00",
             "duration": 15,
             "ar_id": 125,
             "ar_reason": "Moderna Dose 1",
@@ -8984,212 +8072,81 @@
         ]
       },
       {
+        "date": "2021-05-25",
+        "slots": []
+      },
+      {
+        "date": "2021-05-26",
+        "slots": []
+      },
+      {
+        "date": "2021-05-27",
+        "slots": []
+      },
+      {
+        "date": "2021-05-28",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 953,
+    "loc_no": "01400838",
+    "facilityDetails": {
+      "facilityId": "01400838",
+      "legalName": "Kroger Limited Partnership I",
+      "vanityName": "Kroger Marketplace",
+      "address": {
+        "address1": "1161 E Dayton Yellow Springs Rd",
+        "address2": "",
+        "city": "Fairborn",
+        "state": "OH",
+        "zipCode": "45324"
+      },
+      "distance": 13.427721913104637,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "937",
+        "phoneNumber": "3183920",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "21:00",
+        "mondayOpen": "09:00",
+        "mondayHours": "",
+        "tuesdayClose": "21:00",
+        "tuesdayOpen": "09:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "21:00",
+        "wednesdayOpen": "09:00",
+        "wednesdayHours": "",
+        "thursdayClose": "21:00",
+        "thursdayOpen": "09:00",
+        "thursdayHours": "",
+        "fridayClose": "21:00",
+        "fridayOpen": "09:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "10:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER",
+      "isPharmacyLocation": true,
+      "isTlcLocation": false
+    },
+    "dates": [
+      {
         "date": "2021-05-14",
-        "slots": [
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "10:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "17:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "18:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "18:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-05-15",
-        "slots": [
-          {
-            "start_time": "09:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "09:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 15,
-            "ar_id": 125,
-            "ar_reason": "Moderna Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 126,
-            "follow_up_days_after": 28
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-05-16",
@@ -10176,7 +9133,350 @@
       },
       {
         "date": "2021-05-24",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "08:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "10:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "10:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "10:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "10:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "11:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "12:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "13:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "14:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "15:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "16:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "16:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "16:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "16:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "17:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "17:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "17:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "17:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "18:00:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "18:15:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "18:30:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          },
+          {
+            "start_time": "18:45:00",
+            "duration": 15,
+            "ar_id": 125,
+            "ar_reason": "Moderna Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 126,
+            "follow_up_days_after": 28
+          }
+        ]
       },
       {
         "date": "2021-05-25",
@@ -10184,6 +9484,14 @@
       },
       {
         "date": "2021-05-26",
+        "slots": []
+      },
+      {
+        "date": "2021-05-27",
+        "slots": []
+      },
+      {
+        "date": "2021-05-28",
         "slots": []
       }
     ]
@@ -10240,270 +9548,8 @@
     },
     "dates": [
       {
-        "date": "2021-05-12",
-        "slots": []
-      },
-      {
-        "date": "2021-05-13",
-        "slots": [
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "10:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "10:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "11:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "11:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "11:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "12:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "13:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "14:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          }
-        ]
-      },
-      {
         "date": "2021-05-14",
-        "slots": [
-          {
-            "start_time": "08:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "08:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "08:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "08:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "10:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "10:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "12:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "12:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "13:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          }
-        ]
+        "slots": []
       },
       {
         "date": "2021-05-15",
@@ -10545,15 +9591,6 @@
         "date": "2021-05-17",
         "slots": [
           {
-            "start_time": "08:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
             "start_time": "08:15:00",
             "duration": 15,
             "ar_id": 122,
@@ -10590,24 +9627,6 @@
             "follow_up_days_after": 21
           },
           {
-            "start_time": "10:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "10:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
             "start_time": "10:45:00",
             "duration": 15,
             "ar_id": 122,
@@ -10618,24 +9637,6 @@
           },
           {
             "start_time": "11:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "11:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "12:15:00",
             "duration": 15,
             "ar_id": 122,
             "ar_reason": "Pfizer Dose 1",
@@ -10716,7 +9717,7 @@
             "follow_up_days_after": 21
           },
           {
-            "start_time": "15:00:00",
+            "start_time": "15:30:00",
             "duration": 15,
             "ar_id": 122,
             "ar_reason": "Pfizer Dose 1",
@@ -10806,52 +9807,7 @@
             "follow_up_days_after": 21
           },
           {
-            "start_time": "12:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "13:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "14:30:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
             "start_time": "14:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:00:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:15:00",
             "duration": 15,
             "ar_id": 122,
             "ar_reason": "Pfizer Dose 1",
@@ -10964,15 +9920,6 @@
             "follow_up_days_after": 21
           },
           {
-            "start_time": "12:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
             "start_time": "13:15:00",
             "duration": 15,
             "ar_id": 122,
@@ -11104,15 +10051,6 @@
             "follow_up_days_after": 21
           },
           {
-            "start_time": "10:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
             "start_time": "13:30:00",
             "duration": 15,
             "ar_id": 122,
@@ -11156,24 +10094,6 @@
             "ar_order": 1,
             "follow_up_id": 123,
             "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:15:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
-          },
-          {
-            "start_time": "15:45:00",
-            "duration": 15,
-            "ar_id": 122,
-            "ar_reason": "Pfizer Dose 1",
-            "ar_order": 1,
-            "follow_up_id": 123,
-            "follow_up_days_after": 21
           }
         ]
       },
@@ -11206,7 +10126,161 @@
       },
       {
         "date": "2021-05-24",
-        "slots": []
+        "slots": [
+          {
+            "start_time": "08:00:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "08:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "08:30:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "08:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "10:00:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "10:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "10:30:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "10:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "11:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "12:30:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "12:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "13:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "14:00:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "14:15:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "14:30:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "14:45:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          },
+          {
+            "start_time": "15:00:00",
+            "duration": 15,
+            "ar_id": 122,
+            "ar_reason": "Pfizer Dose 1",
+            "ar_order": 1,
+            "follow_up_id": 123,
+            "follow_up_days_after": 21
+          }
+        ]
       },
       {
         "date": "2021-05-25",
@@ -11214,6 +10288,14 @@
       },
       {
         "date": "2021-05-26",
+        "slots": []
+      },
+      {
+        "date": "2021-05-27",
+        "slots": []
+      },
+      {
+        "date": "2021-05-28",
         "slots": []
       }
     ]
@@ -11269,14 +10351,6 @@
       "isTlcLocation": false
     },
     "dates": [
-      {
-        "date": "2021-05-12",
-        "slots": []
-      },
-      {
-        "date": "2021-05-13",
-        "slots": []
-      },
       {
         "date": "2021-05-14",
         "slots": []
@@ -11437,6 +10511,14 @@
       {
         "date": "2021-05-26",
         "slots": []
+      },
+      {
+        "date": "2021-05-27",
+        "slots": []
+      },
+      {
+        "date": "2021-05-28",
+        "slots": []
       }
     ]
   },
@@ -11492,14 +10574,6 @@
     },
     "dates": [
       {
-        "date": "2021-05-12",
-        "slots": []
-      },
-      {
-        "date": "2021-05-13",
-        "slots": []
-      },
-      {
         "date": "2021-05-14",
         "slots": []
       },
@@ -11549,6 +10623,14 @@
       },
       {
         "date": "2021-05-26",
+        "slots": []
+      },
+      {
+        "date": "2021-05-27",
+        "slots": []
+      },
+      {
+        "date": "2021-05-28",
         "slots": []
       }
     ]
