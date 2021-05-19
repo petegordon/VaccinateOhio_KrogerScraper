@@ -116,7 +116,7 @@ try{
             let dtEnd = new Date(dt.getTime()+(1000*60*60*24*14))
             let dateStart = dt.getFullYear()+'-'+String((dt.getMonth()+1)).padStart(2, '0')+'-'+String((dt.getDate())).padStart(2, '0')
             let dateEnd = dtEnd.getFullYear()+'-'+String((dtEnd.getMonth()+1)).padStart(2, '0')+'-'+String((dtEnd.getDate())).padStart(2, '0')
-            await page.goto("https://www.kroger.com/rx/api/anonymous/scheduler/slots/locationsearch/"+zip+"/"+dateStart+"/"+dateEnd+"/50?appointmentReason=122&appointmentReason=125&appointmentReason=129",{waitUntil: 'networkidle0'});
+            await page.goto("https://www.kroger.com/rx/api/anonymous/scheduler/slots/locationsearch/"+zip+"/"+dateStart+"/"+dateEnd+"/50?appointmentReason=131&appointmentReason=134&appointmentReason=137&appointmentReason=122&appointmentReason=125&appointmentReason=129&benefitCode=null",{waitUntil: 'networkidle0'});
             
                     
         }
@@ -281,7 +281,7 @@ try{
     
     console.log('zip codes:'+JSON.stringify(zipParam))
     
-    browser = await puppeteer.launch({headless:true, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
+    browser = await puppeteer.launch({headless:false, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
     processing = false
     processedCount = 0
 
